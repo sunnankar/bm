@@ -1,15 +1,15 @@
 ---
 layout: default
-title: Everything you need to know about Bitcoin mining
+title: Semua hal yang harus anda ketahui tentang menambang Bitcoin
 toc:
-  hwc: Mining Hardware Comparison
-  wibm: What is Bitcoin Mining?
-  what-is-blockchain: What is the Blockchain?
-  wipow: What is Proof of Work?
-  md: What is Bitcoin Mining Difficulty?
-  tcdp: The Computationally-Difficult Problem
-  difficulty: The Bitcoin Network Difficulty Metric
-  bw: The Block Reward
+  hwc: Perbandingan Perangkat Keras Pertambangan Bitcoin
+  wibm: Apakah Menambang Bitcoin ?
+  what-is-blockchain: Apakah Blockchain (Rantai Blok)?
+  wipow: Apakah Proof of Work (Bukti dari Pekerjaan)?
+  md: Apakah Tingkat Kesulitan Pertambangan Bitcoin?
+  tcdp: Masalah Kesulitan Komputasi
+  difficulty: Metric Kesulitan Jaringan Bitcoin
+  bw: Hadiah Blok
 ---
 
 <center>
@@ -21,45 +21,45 @@ toc:
 <div class="home-grid">
 	<a href="/getting-started/" class="section">
 		<img src="/images/icons/mining.png"> 
-		<div class="section-title">New to Mining?</div> 
-		<div class="section-view">Get started ›</div> 
+		<div class="section-title">Baru dengan Menambang?</div> 
+		<div class="section-view">Memulai ›</div> 
 	</a>
 	<a href="/bitcoin-mining-hardware/" class="section">
 		<img src="/images/icons/mining2.png"> 
-		<div class="section-title">Mining Hardware</div> 
-		<div class="section-view">Learn More ›</div> 
+		<div class="section-title">Perangkat Keras Pertambangan</div> 
+		<div class="section-view">Pelajari ›</div> 
 	</a>
 	<a href="/best-bitcoin-cloud-mining-contract-reviews/" class="section">
 		<img src="/images/icons/cloud.png"> 
-		<div class="section-title">Cloud Mining</div> 
-		<div class="section-view">Learn More ›</div> 
+		<div class="section-title">Pertambangan Awan</div> 
+		<div class="section-view">Pelajari ›</div> 
 	</a>
 </div>
 
 <img class="icon-home" alt="bitcoin mining" src="/images/icons/icon-big-bitcoinfrom.png">
-<h2>How Bitcoin Mining Works</h2>
-<p>Where do bitcoins come from? With paper money, a government decides when to print and distribute money. Bitcoin doesn't have a central government.</p>
+<h2>Bagaimana Cara Kerja Pertambangan Bitcoin</h2>
+<p>Dari mana bitcoin dihasilkan? Dengan uang kertas, pemerintah memutuskan kapan mencetak dan mendistribusikan uang. Bitcoin tidak mempunyai pemerintah pusat.</p>
 
-<p>With Bitcoin, miners use <a href="/bitcoin-mining-software/">special software</a> to solve math problems and are issued a certain number of bitcoins in exchange. This provides a smart way to issue the currency and also creates an incentive for more people to mine.</p>
+<p>Dengan Bitcoin, penambang menggunakan <a href="/bitcoin-mining-software/">perangkat lunak khusus</a> untuk memecahkan masalah matematika dan menghasilkan sejumlah Bitcoins sebagai hasilnya. Ini merupakan cara cerdas untuk mengeluarkan mata uang dan juga menciptakan insentif bagi lebih banyak orang untuk menambang.</p>
 
 <img class="icon-home" alt="bitcoin is secure" src="/images/icons/icon-big-secure.png">
-<h2>Bitcoin is Secure</h2>
+<h2>Bitcoin Aman</h2>
 
-<p>Bitcoin miners help keep the Bitcoin network secure by approving transactions. Mining is an important and integral part of Bitcoin that ensures fairness while keeping the Bitcoin network stable, safe and secure.</p>
+<p>Dengan mengesahkan transaksi-transaksi, penambang Bitcoin membantu menjaga jaringan bitcoin tetap terlindung. Pertambangan adalah bagian penting dan integral dari Bitcoin yang menjamin kesetaraan sambil menjaga jaringan Bitcoin stabil, terlindung dan aman.</p>
 
 <img class="icon-home" alt="bitcoin is secure" src="/images/icons/icon-big-links.png">
 <h2>Links</h2>
 <ul>
-	<li><a href="https://www.weusecoins.com/" target="_blank">We Use Coins</a> - Learn all about crypto-currency.<br></li>
-	<li><a href="https://www.reddit.com/r/Bitcoin/" target="_blank">Bitcoin News</a> - Where the Bitcoin community gets news.<br></li>
-	<li><a href="http://www.bitcoin.kn">Bitcoin Knowledge Podcast</a> - Interviews with the top people in the Bitcoin world</li>
+	<li><a href="https://www.weusecoins.com/" target="_blank">We Use Coins</a> - Belajar semua hal tentang mata uang crypto.<br></li>
+	<li><a href="https://www.reddit.com/r/Bitcoin/" target="_blank">Bitcoin News</a> - Tempat dimana komunitas Bitcoin mendapatkan kabar berita.<br></li>
+	<li><a href="http://www.bitcoin.kn">Bitcoin Knowledge Podcast</a> - Wawancara dengan orang orang TOP di dunia Bitcoin.</li>
 </ul>
 
 <hr id="hwc" style="width: 100%; margin: 20px 0; color: #eee;" />
 
-<h2>Bitcoin Mining Hardware Comparison</h2>
+<h2>Perbandingan Perangkat Keras Pertambangan Bitcoin</h2>
 
-<p>Currently, based on <b>(1)</b> price per hash and <b>(2)</b> electrical efficiency the best Bitcoin miner options are:</p>
+<p>Pada saat ini, berdasarkan pada <b>(1)</b> harga per hash dan <b>(2)</b> efesiensi listrik pilihan alat penambang bitcoin terbaik adalah:</p>
 
 <div class="hardware-comparison">
 {% for miner in site.data.hardware %}
@@ -70,34 +70,34 @@ toc:
 </div>
 
 <hr style="width: 100%; margin: 20px 0; color: #eee;" />
-<h2 id="wibm">What is Bitcoin Mining?</h2>
+<h2 id="wibm">Apakah pertambangan Bitcoin?</h2>
 <center><img src="/images/what-is-bitcoin-mining.png" width="700" height="auto">
-<a href="/images/what-is-bitcoin-mining-high-resolution.png" target="_blank">Visualize and Download High-Resolution Infographic</a></center>
+<a href="/images/what-is-bitcoin-mining-high-resolution.png" target="_blank">Memvisualisasikan dan Mengunduh Infographic Resolusi Tinggi</a></center>
 
 {% include page-toc.html %}
 
-<p>Bitcoin mining is the process of adding transaction records to Bitcoin's public ledger of past transactions or <b>blockchain</b>. This ledger of past transactions is called the block chain as it is a chain of blocks. The block chain serves to confirm transactions to the rest of the network as having taken place.
-<p>Bitcoin nodes use the <b>block chain</b> to distinguish legitimate Bitcoin transactions from attempts to re-spend coins that have already been spent elsewhere.
-<h3 id="what-is-blockchain">What is the Blockchain?</h3>
+<p>Pertambangan Bitcoin adalah proses penambahan rekaman transaksi ke buku kas induk umum Bitcoin untuk transaksi masa lalu atau <b>blockchain (Rantai Blok)</b>. Buku  dari transaksi masa lalu ini disebut rantai blok karena merupakan rantai dari blok- blok. Rantai blok berfungsi untuk mengkonfirmasi transaksi yang terjadi ke seluruh jaringan.
+<p>Simpul Bitcoin menggunakan <b> rantai blok </ b> untuk membedakan transaksi Bitcoin yang sah dari upaya untuk mengunakan koin kembali yang telah dihabiskan di tempat lain.
+<h3 id="what-is-blockchain">Apakah Block Chain (Rantai Blok)?</h3>
 <center><iframe width="700" height="394" src="https://www.youtube.com/embed/YIVAluSL9SU" frameborder="0" allowfullscreen></iframe></center>
-<p><a href="http://bitcoinminer.com/">Bitcoin mining</a> is intentionally designed to be resource-intensive and difficult so that the number of blocks found each day by miners remains steady. Individual blocks must contain a <a href="/what-is-proof-of-work/">proof of work</a> to be considered valid. This proof of work is verified by other Bitcoin nodes each time they receive a block. Bitcoin uses the <a href="/what-is-hashcash/">hashcash</a> proof-of-work function.
-<p>The primary purpose of mining is to allow Bitcoin nodes to reach a secure, tamper-resistant consensus. Mining is also the mechanism used to introduce Bitcoins into the system: Miners are paid any transaction fees as well as a "subsidy" of newly created coins.
-<p>This both serves the purpose of disseminating new coins in a decentralized manner as well as motivating people to provide security for the system.
-<p>Bitcoin mining is so called because it resembles the mining of other commodities: it requires exertion and it slowly makes new currency available at a rate that resembles the rate at which commodities like gold are mined from the ground.
-<h2 id="wipow">What is Proof of Work?</h2>
+<p><a href="http://bitcoinminer.com/">Pertambangan Bitcoin</a> sengaja dirancang untuk menjadi sumber daya intensif dan sulit sehingga jumlah blok yang ditemukan setiap hari oleh para penambang tetap stabil. Block individu harus memuat <a href="/what-is-proof-of-work/">proof of work (bukti dari pekerjaan)</a> untuk dianggap sah. Bukti kerja diverifikasi oleh simpul Bitcoin setiap kali mereka menerima blok. Bitcoin menggunakan <a href="/what-is-hashcash/">hashcash</a>fungsi proof-of-work (bukti dari pekerjaan).
+<p>Tujuan utama dari pertambangan adalah untuk memungkinkan simpul Bitcoin  untuk mencapai, konsensus aman tahan terhadap kerusakan. Pertambangan juga merupakan mekanisme yang digunakan untuk memperkenalkan Bitcoins ke dalam sistem: Penambang dibayar dengan biaya transaksi serta dari "subsidi" koin yang baru dibuat.
+<p>Ini baik melayani tujuan menyebarkan koin baru dengan cara desentralisasi serta memotivasi orang untuk memberikan keamanan untuk sistem.
+<p>Pertambangan Bitcoin dinamakan demikian karena menyerupai pertambangan komoditas lain: membutuhkan pengerahan tenaga dan perlahan-lahan membuat mata uang baru tersedia pada tingkat yang menyerupai tingkat di mana komoditas seperti emas yang ditambang dari tanah.
+<h2 id="wipow">Apakah Proof of Work (Bukti dari Pekerjaan)?</h2>
 <center><img src="/images/what-is-proof-of-work.png" width="700" height="auto">
-<a href="/images/what-is-proof-of-work-high-resolution.png" target="_blank">Visualize and Download High-Resolution Infographic</a></center></center>
-<p>A <a href="/what-is-proof-of-work/">proof of work</a> is a piece of data which was difficult (costly, time-consuming) to produce so as to satisfy certain requirements. It must be trivial to check whether data satisfies said requirements.
-<p>Producing a proof of work can be a random process with low probability, so that a lot of trial and error is required on average before a valid proof of work is generated. Bitcoin uses the Hashcash proof of work.
-<h2 id="md">What is Bitcoin Mining Difficulty?</h2>
+<a href="/images/what-is-proof-of-work-high-resolution.png" target="_blank">Memvisualisasikan dan Mengunduh Infographic Resolusi Tinggi</a></center></center>
+<p>A <a href="/what-is-proof-of-work/">proof of work (bukti dari pekerjaan)</a> adalah sepotong data yang sulit (mahal, memakan waktu) untuk dihasilkan untuk memenuhi persyaratan tertentu. Harus secara teratur untuk diperiksa apakah data di katakan memenuhi persyaratan.
+<p>Memproduksi sebuah bukti kerja dapat menjadi proses acak dengan probabilitas rendah, sehingga rata-rata banyak trial and error diperlukan sebelum bukti pekerjaan yang dihasilkan sah. Bitcoin menggunakan bukti kerja Hashcash.
+<h2 id="md">Apakah Tingkat Kesulitan Pertambangan Bitcoin?</h2>
 <center><img src="/images/what-is-bitcoin-mining-difficulty.png" width="700" height="auto">
-<a href="/images/what-is-bitcoin-mining-difficulty-high-resolution.png" target="_blank">Visualize and Download High-Resolution Infographic</a></center>
-<h3 id="tcdp">The Computationally-Difficult Problem</h3>
-<p>Bitcoin mining a block is difficult because the SHA-256 hash of a block's header must be lower than or equal to the target in order for the block to be accepted by the network.
-<p>This problem can be simplified for explanation purposes: The hash of a block must start with a certain number of zeros. The probability of calculating a hash that starts with many zeros is very low, therefore many attempts must be made. In order to generate a new hash each round, a nonce is incremented. See Proof of work for more information.
+<a href="/images/what-is-bitcoin-mining-difficulty-high-resolution.png" target="_blank">Memvisualisasikan dan Mengunduh Infographic Resolusi Tinggi</a></center>
+<h3 id="tcdp">Masalah Kesulitan Komputasi</h3>
+<p>Menambang Bitcoin blok sulit karena hasil hash SHA256 dari sebuah header blok harus lebih rendah dari atau sama dengan target agar blok dapat diterima oleh jaringan.
+<p>Masalah ini dapat disederhanakan untuk tujuan penjelasan: hash dari blok harus dimulai dengan sejumlah angka nol. Probabilitas menghitung hash yang dimulai dengan banyak nol sangat rendah, karena itu banyak upaya harus dilakukan. Dalam rangka untuk menghasilkan hash baru setiap putaran, sebuah nonce ditambahkan. Lihat bukti dari pekerjaan untuk informasi lebih lanjut.
 <h3 id="difficulty">The Bitcoin Network Difficulty Metric</h3>
-<p>The <a href="/what-is-bitcoin-mining-difficulty/">Bitcoin mining network difficulty</a> is the measure of how difficult it is to find a new block compared to the easiest it can ever be. It is recalculated every 2016 blocks to a value such that the previous 2016 blocks would have been generated in exactly two weeks had everyone been mining at this difficulty. This will yield, on average, one block every ten minutes.
-<p>As more miners join, the rate of block creation will go up. As the rate of block generation goes up, the difficulty rises to compensate which will push the rate of block creation back down. Any blocks released by malicious miners that do not meet the required difficulty target will simply be rejected by everyone on the network and thus will be worthless.
-<h3 id="bw">The Block Reward</h3>
-<p>When a block is discovered, the discoverer may award themselves a certain number of bitcoins, which is agreed-upon by everyone in the network. Currently this bounty is 25 bitcoins; this value will halve every 210,000 blocks. See Controlled Currency Supply.
-<p>Additionally, the miner is awarded the fees paid by users sending transactions. The fee is an incentive for the miner to include the transaction in their block. In the future, as the number of new bitcoins miners are allowed to create in each block dwindles, the fees will make up a much more important percentage of mining income.
+<p><a href="/what-is-bitcoin-mining-difficulty/">Kesulitan jaringan pertambangan Bitcoin</a> adalah ukuran seberapa sulitnya untuk menemukan blok baru dibandingkan dengan yang paling mudah pernah didapat. Hal ini dihitung ulang setiap 2016 blok ke nilai misalnya 2016 blok sebelumnya  akan telah dihasilkan dalam tepat dua minggu setelah semua orang menambang di kesulitan ini. Ini akan menghasilkan, rata-rata, satu blok setiap sepuluh menit.
+<p>Karena semakin banyak penambang bergabung, tingkat penciptaan blok akan naik. Karena tingkat generasi blok naik, kesulitan naik untuk mengimbangi yang akan mendorong tingkat penciptaan blok kembali turun. Setiap blok yang dirilis oleh penambang berbahaya tidak memenuhi target kesulitan yang dibutuhkan hanya akan ditolak oleh semua orang di jaringan dan dengan demikian tidak akan berharga.
+<h3 id="bw">Hadiah Blok</h3>
+<p>Ketika sebuah blok ditemukan, sang penemu mendapatkan penghargaan sejumlah Bitcoins, yang disepakati oleh semua orang dalam jaringan. Saat ini hadiahnya 12.5 Bitcoins; nilai ini akan terbagi dua setiap 210.000 blok. Lihat persediaan mata uang terkontrol.
+<p>Selain itu, penambang diberikan biaya yang dibayar oleh pengguna yang mengirimkan transaksi. biayanya adalah insentif bagi penambang untuk menyertakan transaksi di blok mereka. Di masa depan, apabila jumlah penambang Bitcoins baru diizinkan untuk membuat di setiap blok berkurang, biaya ini akan membuat persentase yang jauh lebih penting dari pendapatan pertambangan.
