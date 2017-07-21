@@ -1,0 +1,89 @@
+---
+layout: default
+title: Bitcoin Mining - Tutto quello che devi sapere sul Bitcoin Mining
+description: Bitcoin Mining - Tutto quello che devi sapere sul Bitcoin Mining
+---
+
+<center><iframe width="720" height="394" src="https://www.youtube.com/embed/GmOzih6I1zs" frameborder="0" allowfullscreen></iframe></center>
+
+<div class="home-grid">
+	<a href="/getting-started/" class="section">
+		<img src="/images/icons/mining-small.png"> 
+		<div class="section-title">Nuovo nel Mining?</div> 
+		<div class="section-view">Inizia ›</div> 
+	</a>
+	<a href="/bitcoin-mining-hardware/" class="section">
+		<img src="/images/icons/mining2-small.png"> 
+		<div class="section-title">Mining Hardware</div> 
+		<div class="section-view">Leggi di più ›</div> 
+	</a>
+	<a href="/best-bitcoin-cloud-mining-contract-reviews/" class="section">
+		<img src="/images/icons/cloud-small.png"> 
+		<div class="section-title">Cloud Mining</div> 
+		<div class="section-view">Leggi di più ›</div> 
+	</a>
+</div>
+
+<img class="icon-home" alt="bitcoin mining" src="/images/icons/icon-big-bitcoinfrom.png">
+<h2>Bitcoin Mining - Come funziona</h2>
+<p>Da dove vengono i Bitcoin? Il governo é responsabile quando si tratta di stampare e distribuire denaro fisico. Bitcoin non ha un governo centrale.</p>
+
+<p>Nel mondo del Bitcoin, 'miners' usano <a href="/bitcoin-mining-software/">del software specializzato</a> per risolvere problemi di carattere matematico e in cambio ricevono una certa quantità di Bitcoin. Questo intelligente sistema guida il conio della valuta e presenta un incentivo che attira crescenti numeri di 'miners'.</p>
+
+<img class="icon-home" alt="bitcoin is secure" src="/images/icons/icon-big-secure.png">
+<h2>Bitcoin è sicuro</h2>
+
+<p>I miners aiutano nel mantenere la rete Bitcoin sicura ratificando le transazioni. Il processo di mining è un'importante parte del mondo dei Bitcoin, che assicura equità e mantiene la rete Bitcoin stabile e protetta.</p>
+
+<img class="icon-home" alt="bitcoin is secure" src="/images/icons/icon-big-links.png">
+<h2>Links</h2>
+<ul>
+	<li><a href="https://www.weusecoins.com/" target="_blank">Usiamo Bitcoin</a> - Leggi sulla 'cripto-currency'</li>
+	<li><a href="https://www.bitcoinmining.com/news" target="_blank">Bitcoin Mining - Notizie</a> - Dove la community dei miners preferisce ottenere notizie.</li>
+	<li><a href="https://www.weusecoins.com/news" target="_blank"Usiamo Bitcoin - Notizie</a> - Dove la community dei miners preferisce ottenere notizie.</li>
+	<li><a href="http://www.bitcoin.kn">Bitcoin Knowledge Podcast</a> - Interviste con le persone più famose nel mondo dei Bitcoin</li>
+</ul>
+
+<hr id="hwc" style="width: 100%; margin: 20px 0; color: #eee;" />
+
+<h2>Bitcoin Mining Hardware Comparison</h2>
+
+<p>Currently, based on <b>(1)</b> price per hash and <b>(2)</b> electrical efficiency the best Bitcoin miner options are:</p>
+
+<div class="hardware-comparison">
+{% for miner in site.data.hardware %}
+{% if miner.cat contains 'featured' %}
+{% include hardware-compare.html %}
+{% endif %}
+{% endfor %}
+</div>
+
+<p>Il processo di 'Bitcoin mining' consiste nell'aggiungere documentazione su nuove transazioni al registro pubblico di Bitcoin, che contiene informazioni su tutte le transazioni passate, nella forma di <b>blocco catena (blockchain)</b>. Questo registro di transazioni passate si chiama blocco catena perchè consiste in una concatenazione di blocchi. Il blocco catena è in grado di confermare che transazioni siano avvenute all'interno della rete ed è perció molto importante.
+<p>Snodi nella rete Bitcoin usano il <b>blocco catenan</b> per distinguere transazioni legittime da tentativi fraudolenti di rispendere moneta che è già stata spesa in passato.
+
+{% include page-toc.html %}
+
+<hr style="width: 100%; margin: 20px 0; color: #eee;" />
+<h2 id="wibm">Che cos'è Bitcoin Mining?</h2>
+<center><img src="/images/what-is-bitcoin-mining.jpg" width="700" height="auto">
+<a href="/images/what-is-bitcoin-mining.jpg" target="_blank">Visualizza e scarica Infographic ad alta risoluzione</a></center>
+
+<h3 id="what-is-blockchain">Che cos'è il blocco catena?</h3>
+<center><iframe width="700" height="394" src="https://www.youtube.com/embed/YIVAluSL9SU" frameborder="0" allowfullscreen></iframe></center>
+<p><a href="http://bitcoinminer.com/">Bitcoin mining</a> è strutturato in modo tale da essere difficile e costoso in quanto richiede notevoli risorse. In questo modo viene garantito un flusso di conio costante da parte dei 'miners'. I singoli blocchi devono contenere una <a href="/what-is-proof-of-work/">prova di lavoro (proof-of-work)</a> per essere considerati validi. Questa proof of work viene verificata da altri snodi nella rete Bitcoin ogni volta che ricevono un blocco. Come proof-of-work, Bitcoin usa la funzione <a href="/what-is-hashcash/">hashcash</a>.
+<p>Lo scopo principale del 'mining' è quello di permettere agli snodi Bitcoin di raggiungere una situazione di accordo, in cui sono protetti e non possono essere manomessi. Inoltre, 'Mining' è il meccanismo usato per introdurre unità di Bitcoin nel sistema: ai 'miners' vengono pagate spese di transazione e una piccola parte della moneta Bitcoin appena creata.
+<p>Questo tipo di struttura assicura che la nuova moneta venga distribuita in maniera decentralizzata e inoltre aumenta l'interesse dei 'miners' nel volere rendere sicuro il sistema.
+<p>Bitcoin mining viene chiamato in questo modo perchè rispecchia l'estrazione di altro tipo di risorse: richiede sforzo e rende lentamente disponibile più risorse ad una velocità simile a quella con cui beni di lusso come l'oro vengono ricavati da sottoterra.
+<h2 id="wipow">Che cos'è una Proof of Work?</h2>
+<p>Una <a href="/what-is-proof-of-work/">proof of work</a> è un'informazione che è stata difficile (costosa, ha richiesto molto tempo) da ricavare in modo da soddisfare certi requisiti. Dev'essere semplice controllare se l'informazione soddisfa questi requisiti.
+<p>Ricavare una proof of work valida puó essere un processo casuale con scarse probabilità, cosicchè verrà richiesto un, in media, lungo processo di prova ed errore prima di generarla. Bitcoin usa la proof of work 'Hashcash'.
+<h2 id="md">Qual è la difficoltà nel Bitcoin mining?</h2>
+<h3 id="tcdp">I problemi di alta difficoltà computazionale</h3>
+<p>Bitcoin mining un blocco è difficile perchè la hash SHA-256 dell'header del blocco deve essere più bassa o uguale a quella del bersaglio per far sì che il blocco venga accettato dalla rete.
+<p>Questo problema puó essere semplificato per fornire una spiegazione: la hash del blocco deve cominciare con una certa quantità di zero. La probabilità di calcolare una hash che cominci con molti zero è molto bassa, perció deve essere attentato numerose volte. Per far sì che venga generata una nuova hash ad ogni round, un numero unico viene aumentato. Vai a Proof of Work per saperne di più.
+<h3 id="difficulty">La Misura di Difficoltà della rete Bitcoin</h3>
+<p>La <a href="/what-is-bitcoin-mining-difficulty/">difficoltà della rete di Bitcoin mining</a> è la misura di quanto è difficile trovare un nuovo blocco in paragone con la difficoltà più bassa possibile. Ogni 2016imo blocco, la misura di difficoltà della rete viene ricalcolata allineata con un valore tale che i 2016 blocchi appena estratti sarebbero stati estratti in due settimane, se tutti avessero minato a questa difficoltà. In media, questa situazione risulterebbe nell'estrazione di un blocco ogni dieci minuti.
+<p>Il ritmo di estrazione dei blocchi aumenta all'aumento del numero dei 'miners'. L'aumento in estrazione porta ad un aumento della difficoltà per compensazione, che di nuovo causa il calo del rateo di estrazione. Qualsiasi blocco rilasciato nella rete da <a href="https://www.bitcoinminer.com/">bitcoin miners</a> maligni, e che non soddisfano i requisiti di difficoltà imposti, vengono semplicemente rifiutati da tutti sulla rete e saranno dunque inutili.
+<h3 id="bw">La Ricompensa Blocco</h3>
+<p>Quando un nuovo blocco viene estratto, l'estrattore puó accettare una ricompensa che consiste in una certa quantità di Bitcoin, decisa da tutti sulla rete. Al momento questa ricompensa è di 25 bitcoin; questa cifra verrà dimezzata ogni 210,000 bitcoin.Vedi 'Controlled Currency Supply'.
+<p>Inoltre, il 'miner' viene ricompensato con le spese che gli utilizzatori di bitcoin pagano quando compiono una transazione. Quesst'ultima ricompensa è un incentivo che deve spingere il 'miner' ad includere la transazione nel proprio blocco. In futuro, quando il numero di bitcoins che i 'miners' sono in grado di creare in ciascuno dei blocchi sarà calato, le commissioni sulle transazioni costituiranno una più grande percentuale delle entrate di un 'miner'.
