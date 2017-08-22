@@ -51,7 +51,7 @@ Những dịch vụ được liệt kê trong mục này KHÔNG có nghĩa là c
 
 <strong><a href="http://geni.us/minex">Đánh giá Minex</a></strong>: Minex là một trang aggregator (tập hợp thông tin) mang tính sáng tạo từ các dự án blockchain (chuỗi các khối dữ liệu) được trình bày theo định dạng game mô phỏng kinh tế. Người dùng mua các Cloudpack, sau đó sử dụng các Cloudpack này để xây dựng chỉ số từ các bộ chọn trước gồm các nông trại, đợt quay xổ số, sòng bài đào trên đám mây, các thị trường thực tế và nhiều phương thức khác.
 
-<strong>Đánh giá Minergate<strong>: Cung cấp cả dịch vụ mỏ đào Bitcoin thông thường (pool mining), đào hợp nhất (merged mining) và đào trên đám mây (cloud mining).
+<strong>Đánh giá Minergate</strong>: Cung cấp cả dịch vụ mỏ đào Bitcoin thông thường (pool mining), đào hợp nhất (merged mining) và đào trên đám mây (cloud mining).
 
 <strong><a href="http://geni.us/advendorgm">Đánh giá Hashnest</a></strong>: Hashnest được vận hành bởi Bitmain - công ty sản xuất dòng máy đào Bitcoin Antminer. HashNest hiện có hơn 600 máy Antminer S7 cho thuê. Bạn có thể xem mức giá mới nhất và số máy trống trên trang web của Hashnest. Tại thời điểm viết bài này, hash rate của của một máy Antminer S7 có thể được thuê với giá $1.200.
 
