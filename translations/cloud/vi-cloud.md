@@ -31,13 +31,13 @@ Khi đó, tất cả các công đoạn đào Bitcoin đều được thực hi�
 <h2>Bất lợi khi đào Bitcoin trên nền tảng đám mây là gì? </h2>
 <img src="/images/bitcoin-cloud-mining-scams.jpg" alt="bitcoin disadvantages"/>
 <ul>
-</li>GIAN LẬN!!! </li>
-</li>Các công ty khai thác Bitcoin trên đám mây chưa được chứng nhận hoặc làm ăn mập mờ</li>
-</li>Không vui! Nếu bạn muốn xây dựng các hệ thống khai thác Bitcoin của riêng mình. </li>
-</li>Lợi nhuận thấp hơn - Các dịch vụ hoặc các công ty đào Bitcoin trên nền tảng đám mây sẽ trích một phần lợi nhuận để bù đắp chi phí của họ</li>
-</li>Các hợp đồng đào Bitcoin có thể bị chấm dứt hiệu lực hoặc không được thanh toán theo hợp đồng nếu giá Bitcoin tụt quá thấp</li>
-</li>Người dùng không được sở hữu phần cứng đào Bitcoin</li>
-</li>Không thể thay đổi phần mềm đào Bitcoin</li>
+<li>GIAN LẬN!!! </li>
+<li>Các công ty khai thác Bitcoin trên đám mây chưa được chứng nhận hoặc làm ăn mập mờ</li>
+<li>Không vui! Nếu bạn muốn xây dựng các hệ thống khai thác Bitcoin của riêng mình. </li>
+<li>Lợi nhuận thấp hơn - Các dịch vụ hoặc các công ty đào Bitcoin trên nền tảng đám mây sẽ trích một phần lợi nhuận để bù đắp chi phí của họ</li>
+<li>Các hợp đồng đào Bitcoin có thể bị chấm dứt hiệu lực hoặc không được thanh toán theo hợp đồng nếu giá Bitcoin tụt quá thấp</li>
+<li>Người dùng không được sở hữu phần cứng đào Bitcoin</li>
+<li>Không thể thay đổi phần mềm đào Bitcoin</li>
 </ul>
 <h2>Các dịch vụ khai thác Bitcoin trên nền tảng đám mây tốt nhất</h2>
 
