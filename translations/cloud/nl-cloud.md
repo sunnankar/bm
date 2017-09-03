@@ -106,7 +106,7 @@ Er is een gelimiteerd aantal opties voor Ethercloudmining-contracten. Als niets 
 <strong><a href="http://geni.us/hashflare">Hashflare Recensie</a></strong>: Hashflare is een grote Ether cloudmining-aanbieder met redelijk geprijsde Ethereumcloudmining-contracten.
 
 <strong><a href="http://geni.us/advendorgm">Genesis Mining Recensie</a></strong>: Genesis Mining is de grootste Ether cloudmining-aanbieder. Ethereumcloudmining-contracten zijn redelijk geprijsd.
- 
+
 <strong><a href="http://geni.us/minex">Minex Recensie</a></strong>: Minex is een innovatieve aggregator van blockchain-projecten, gepresenteerd als economische simulatiegame. Gebruikers kunnen Cloudpacks kopen welke dan kunnen worden gebruikt om een index van voorgeselecteerde cloudmining farms, loterijen, casino’s, beurzen in de echte wereld en nog veel meer op te bouwen.
 
 <strong><a href="http://geni.us/hashflare">Eobot Recensie</a></strong>: Eobot biedt Ethereumcloudmining-contracten aan met 0.0060 ETH maandelijkse uitbetalingen.
