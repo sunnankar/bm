@@ -3,8 +3,8 @@ layout: post
 title: Die besten Bitcoin Cloud Mining Verträge Bewertungen und Vergleiche
 description: Die besten Bitcoin Cloud Mining Verträge Bewertungen und Vergleiche
 published: true
-author: Melvin Draupnir
-author-url: /melvin-draupnir/
+author: Bitcoin Mining
+author-url: /
 ---
 
 <h2>Was ist Bitcoin Cloud Mining?</h2>
