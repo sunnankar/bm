@@ -3,8 +3,8 @@ layout: post
 title: Đánh giá và so sánh các loại hợp đồng đào Bitcoin trên nền tảng đám mây tốt nhất
 description: Đánh giá và so sánh các loại hợp đồng đào Bitcoin trên nền tảng đám mây tốt nhất
 published: true
-author: Melvin Draupnir
-author-url: /melvin-draupnir/
+author: Bitcoin Mining
+author-url: /
 ---
 
 <h2>Đào Bitcoin trên nền tảng đám mây là gì? </h2>
