@@ -45,21 +45,21 @@ Ett omnämnande i denna sektion är INTE en rekommendation av dessa tjänster oc
 
 <strong><a href="http://geni.us/hashflare">Hashflare – översikt</a></strong>: Hashflare erbjuder kontrakt för SHA-256-mining och mer lönsamma SHA-256-coins kan utvinnas medan automatiska utbetalningar fortfarande sker i BTC. Kunder måste köpa minst 10 GH/s.
 
-<strong><a href="">Genesis Mining – översikt</a></strong>: Genesis Mining är den största leverantören för Bitcoin- och scrypt-mining. Genesis Mining erbjuder tre planer för molnbaserad Bitcoin-mining till rimliga priser. Kontrakt för Zcash-mining finns också tillgängliga.
+<strong><a href="http://geni.us/advendorgm">Genesis Mining – översikt</a></strong>: Genesis Mining är den största leverantören för Bitcoin- och scrypt-mining. Genesis Mining erbjuder tre planer för molnbaserad Bitcoin-mining till rimliga priser. Kontrakt för Zcash-mining finns också tillgängliga.
 
-<strong><a href="">Hashing 24 – översikt</a></strong>: Hashing24 har sysslat med Bitcoin-mining sedan 2012. De har lokaler på Island och i Georgien. De använder moderna ASIC-chip från BitFury för att leverera största möjliga prestanda och effektivitet.
+<strong><a href="http://geni.us/hashing24">Hashing 24 – översikt</a></strong>: Hashing24 har sysslat med Bitcoin-mining sedan 2012. De har lokaler på Island och i Georgien. De använder moderna ASIC-chip från BitFury för att leverera största möjliga prestanda och effektivitet.
 
-<strong><a href="">Minex – översikt</a></strong>: Minex är en innovativ aggregator för blockkedje-projekt som presenteras som en ekonomisk simulering i spelformat. Användare köper Cloudpacks som sedan kan användas för att bygga ett index från förvalda uppsättningar av molnmining-farmer, lotterier, kasinon, verkliga marknader och mycket mer.
+<strong><a href="http://geni.us/advendorgm">Minex – översikt</a></strong>: Minex är en innovativ aggregator för blockkedje-projekt som presenteras som en ekonomisk simulering i spelformat. Användare köper Cloudpacks som sedan kan användas för att bygga ett index från förvalda uppsättningar av molnmining-farmer, lotterier, kasinon, verkliga marknader och mycket mer.
 
 <strong>Minergate – översikt</strong>: Erbjuder både poolade och sammansatta molnbaserade miningtjänster för Bitcoin.
 
-<strong><a href="">Hashnest – översikt</a></strong>: Hashnest drivs av Bitmain, som producerade miner-serien Antminer. HashNest har för närvarande över 600 Antminer S7 till uthyrning. Du kan hitta aktuell prissättning och tillgänglighet på Hashnests webbsida. I skrivande stund kostar det 1 200 USD att hyra en hash rate för en Antminer S7.
+<strong><a href="http://geni.us/advendorgm">Hashnest – översikt</a></strong>: Hashnest drivs av Bitmain, som producerade miner-serien Antminer. HashNest har för närvarande över 600 Antminer S7 till uthyrning. Du kan hitta aktuell prissättning och tillgänglighet på Hashnests webbsida. I skrivande stund kostar det 1 200 USD att hyra en hash rate för en Antminer S7.
 
 <strong>Bitcoin Cloud Mining – översikt</strong>: För närvarande är alla kontrakt från Bitcoin Cloud Mining contracts slutsålda.
 
 <strong>NiceHash – översikt</strong>: NiceHash är unikt på så sätt att en orderbok används för att matcha köpare och säljare och miningkonrakt. Se deras hemsida för aktuella priser.
 
-<strong><a href="">Eobot – översikt</a></strong>: Börja med molnbaserad Bitcoin-mining för så lite som 10 USD. Eobot hävdar att kunder kan gå jämt upp på 14 månader.
+<strong><a href="http://geni.us/hashflare">Eobot – översikt</a></strong>: Börja med molnbaserad Bitcoin-mining för så lite som 10 USD. Eobot hävdar att kunder kan gå jämt upp på 14 månader.
 
 <strong>MineOnCloud – översikt</strong>: MineOnCloud har för närvarande ungefär 35 TH/s av miningutrustning till uthyrning i molnet. Miners tillgängliga för uthyrning inkluderar bland annat AntMiner S4 och S5.
 
@@ -83,33 +83,33 @@ Det finns alla möjliga typer av molnmining-verksamheter för andra former av bl
 
 Det finns begränsade möjligheter för kontrakt på molnbaserad Litecoin-mining. Om inget av nedanstående passar dig, kan du köpa kontrakt för molnbaserad Bitcoin-mining (listade ovan) och helt enkelt konvertera de Bitcoins du tjänar till Litecoin.
 
-<strong><a href="">Hashflare – översikt</a></strong>: Hashflare erbjuder kontrakt för scrypt-mining med ett minsta inköp på 1 MH/s.
+<strong><a href="http://geni.us/hashflare">Hashflare – översikt</a></strong>: Hashflare erbjuder kontrakt för scrypt-mining med ett minsta inköp på 1 MH/s.
 
-<strong><a href="">Genesis Mining – översikt</a></strong>: Genesis Mining erbjuder kontrakt för molnbaserad Litecoin-mining.
+<strong><a href="http://geni.us/advendorgm">Genesis Mining – översikt</a></strong>: Genesis Mining erbjuder kontrakt för molnbaserad Litecoin-mining.
 
-<strong><a href="">Minex – översikt</a></strong>: Minex är en innovativ aggregator för blockkedje-projekt som presenteras som en ekonomisk simulering i spelformat. Användare köper Cloudpacks som sedan kan användas för att bygga ett index från förvalda uppsättningar av molnmining-farmer, lotterier, kasinon, verkliga marknader och mycket mer.
+<strong><a href="http://geni.us/minex">Minex – översikt</a></strong>: Minex är en innovativ aggregator för blockkedje-projekt som presenteras som en ekonomisk simulering i spelformat. Användare köper Cloudpacks som sedan kan användas för att bygga ett index från förvalda uppsättningar av molnmining-farmer, lotterier, kasinon, verkliga marknader och mycket mer.
 
 <strong>Minergate – översikt</strong>: Erbjuder både poolade och sammansatta molnbaserade miningtjänster för Litecoin.
 
-<strong><a href="">Eobot – översikt</a></strong>: Eobot erbjuder kontrakt för molnbaserad Litecoin-mining med 0,0071 månatliga LTC-utbetalningar.
+<strong><a href="http://geni.us/hashflare">Eobot – översikt</a></strong>: Eobot erbjuder kontrakt för molnbaserad Litecoin-mining med 0,0071 månatliga LTC-utbetalningar.
 
 <h2>De bästa kontrakten för molnbaserad Dash-mining och jämförelser</h2>
 
 Det finns begränsade möjligheter för kontrakt på molnbaserad Dash-mining. Om inget av nedanstående passar dig, kan du köpa kontrakt för molnbaserad Bitcoin-mining (listade ovan) och helt enkelt konvertera de Bitcoins du tjänar till Dash.
 
-<strong><a href="">Genesis Mining – översikt</a></strong>: Genesis Mining är den största leverantören av molnbaserad X11-mining. Genesis Mining erbjuder tre planer för molnbaserad Dash X11-mining till rimliga priser.
+<strong><a href="http://geni.us/advendorgm">Genesis Mining – översikt</a></strong>: Genesis Mining är den största leverantören av molnbaserad X11-mining. Genesis Mining erbjuder tre planer för molnbaserad Dash X11-mining till rimliga priser.
 
 <h2>De bästa kontrakten för molnbaserad Ether-mining och jämförelser</h2>
 
 Det finns begränsade möjligheter för kontrakt på molnbaserad Ether-mining. Om inget av nedanstående passar dig, kan du köpa kontrakt för molnbaserad Bitcoin-mining (listade ovan) och helt enkelt konvertera de Bitcoins du tjänar till Ether.
 
-<strong><a href="">Hashflare – översikt</a></strong>: Hashflare är en stor leverantör av molnmining för Ether med kontrakt för molnbaserad Ethereum-mining till rimliga priser.
+<strong><a href="http://geni.us/hashflare">Hashflare – översikt</a></strong>: Hashflare är en stor leverantör av molnmining för Ether med kontrakt för molnbaserad Ethereum-mining till rimliga priser.
 
-<strong><a href="">Genesis Mining – översikt</a></strong>: Genesis Mining är den största leverantören av molnbaserad Ether-mining. De har kontrakt för molnbaserad Ethereum-mining till rimliga priser.
+<strong><a href="http://geni.us/advendorgm">Genesis Mining – översikt</a></strong>: Genesis Mining är den största leverantören av molnbaserad Ether-mining. De har kontrakt för molnbaserad Ethereum-mining till rimliga priser.
 
-<strong><a href="">Minex – översikt</a></strong>: Minex är en innovativ aggregator för blockkedje-projekt som presenteras som en ekonomisk simulering i spelformat. Användare köper Cloudpacks som sedan kan användas för att bygga ett index från förvalda uppsättningar av molnmining-farmer, lotterier, kasinon, verkliga marknader och mycket mer.
+<strong><a href="http://geni.us/minex">Minex – översikt</a></strong>: Minex är en innovativ aggregator för blockkedje-projekt som presenteras som en ekonomisk simulering i spelformat. Användare köper Cloudpacks som sedan kan användas för att bygga ett index från förvalda uppsättningar av molnmining-farmer, lotterier, kasinon, verkliga marknader och mycket mer.
 
-<strong><a href="">Eobot – översikt</a></strong>: Eobot erbjuder kontrakt för molnbaserad Ethereum-mining med 0,0060 månatliga ETH-utbetalningar.
+<strong><a href="http://geni.us/hashflare">Eobot – översikt</a></strong>: Eobot erbjuder kontrakt för molnbaserad Ethereum-mining med 0,0060 månatliga ETH-utbetalningar.
 
 Denna guide för molnbaserad Ethereum-mining visar hur du utvinner Ethereum med hjälp av molnservrar från Amazon.
 
