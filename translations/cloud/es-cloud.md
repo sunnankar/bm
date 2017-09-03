@@ -2,8 +2,8 @@
 layout: post
 title: Reseñas y comparaciones de los mejores contratos de minería de bitcoins en la nube
 description: Reseñas y comparaciones de los mejores contratos de minería de bitcoins en la nube
-author: Melvin Draupnir
-author-url: /melvin-draupnir/
+author: Bitcoin Mining
+author-url: /
 published: true
 ---
 
