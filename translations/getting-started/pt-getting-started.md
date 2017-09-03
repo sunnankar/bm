@@ -2,8 +2,8 @@
 layout: post
 title: Guia de Mineração Bitcoin – Como começar a minerar bitcoins
 description: Guia de Mineração Bitcoin – Como começar a minerar bitcoins
-author: Melvin Draupnir
-author-url: /melvin-draupnir/
+author: Bitcoin Mining
+author-url: /
 published: true
 ---
 
