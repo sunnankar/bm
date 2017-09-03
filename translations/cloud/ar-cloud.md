@@ -2,8 +2,8 @@
 layout: post
 title: أفضل تقييماتومقارنات عقود التعدين السحابي لعملة البتكوين
 description: أفضل تقييماتومقارنات عقود التعدين السحابي لعملة البتكوين
-author: Melvin Draupnir
-authorurl: /melvin-draupnir/
+author: Bitcoin Mining
+authorurl: /
 published: true
 ---
 
