@@ -11,7 +11,7 @@ published: true
 
 Moln-mining eller moln-hashing gör det möjligt för användare att köpa miningkapacitet som motsvarar hårdvaran i datacenter.
 
-Två operatörer, Hashflare och Genesis Mining, erbjuder kontrakt sedan flera år.
+Två operatörer, <a href="http://geni.us/hashflare">Hashflare</a> och <a href="http://geni.us/advendorgm">GenesisMining</a>, erbjuder kontrakt sedan flera år.
 
 Molnbaserad Bitcoin-mining gör det möjligt att tjäna Bitcoins utan hårdvara eller mjukvara för Bitcoinmining, elektricitet, bandbredd eller andra offlineproblem. 
 
@@ -145,7 +145,7 @@ Det har förekommit en oerhörd mängd bedrägerier inom molnbaserad Bitcoin-min
 
 <strong>NiceHash – översikt</strong>: NiceHash låter dig sälja och köpa hashingkraft. Att sälja hashingkraft görs enkelt genom att ansluta din miner till våra stratum-miningpooler medan köpare kan köpa hashingpower on demand och betala efter förbrukning. Säger sig erbjuda en innovativ, enkel och riskfri molnmining-tjänst. Du kan utvinna den stora majoriteten av populära valutor, baserade på SHA-256 (Bitcoin, etc.), Scrypt (Litecoin, Dogecoin, etc.), Scrypt-N (Vertcoin, etc.) och X11 (DarkCoin, etc.).
 
-<strong>Eobot – översikt: Säger sig vara den enklaste, billigaste och bästa lösningen för molnmining. Börja med så lite som 10 USD via PayPal och välj mellan alla kryptovalutor inklusive Bitcoin, Litecoin, Peercoin, Namecoin, Feathercoin, Dogecoin, NautilusCoin, och Vertcoin.
+<strong>Eobot – översikt</strong>: Säger sig vara den enklaste, billigaste och bästa lösningen för molnmining. Börja med så lite som 10 USD via PayPal och välj mellan alla kryptovalutor inklusive Bitcoin, Litecoin, Peercoin, Namecoin, Feathercoin, Dogecoin, NautilusCoin, och Vertcoin.
 
 MineOnCloud – översikt</strong>: MineOnCloud verkar ha föråldrad hårdvara. Den lanserades i november 2013. De erbjuder kontrakt på Bitcoin-mining för SHA256 och använder ett väldigt stabilt ASIC 28nm-chip. De har två alternativa kontrakt för bitcoin-mining - ett dagspass och ett årligt kontrakt. Kunder kan välja Bitcoinmining-pool och byta gratis varje månad med det årliga kontraktet.
 
