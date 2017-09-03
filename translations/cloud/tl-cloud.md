@@ -11,7 +11,7 @@ published: true
 
 Pinapayagan ng cloud mining o cloud hashing ang mga user na bumili ng ispasiyo sa pagmimina para sa hardware sa mga data centre.
 
-Dalawang mga operator, <a href="http://geni.us/hashflare">Hashflare</a> at <a href="http://geni.us/advendorgm">GenesisMining</a>, ang ilang taon nang nag-aalok ng mga kontrata. 
+Dalawang mga operator, <a href="http://geni.us/hashflare">Hashflare</a> at <a href="http://geni.us/advendorgm">Genesis Mining</a>, ang ilang taon nang nag-aalok ng mga kontrata. 
 
 Pinapayagan ng Bitcoin cloud mining ang mga tao na kumita ng mga Bitcoin nang walang bitcoin mining hardware, bitcoin mining software, kuryente, bandwidth o iba pang mga isyu offline.
 
