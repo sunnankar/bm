@@ -11,7 +11,7 @@ published: true
 
 Cloud mining (kopanie bitcoinów w chmurze) lub cloud hashing pozwala użytkownikom na kupno zdolności kopania takiej, jaką posiada sprzęt w centrach danych.
 
-Dwóch operatorów, Hashflare i Genesis Mining, oferuje kontrakty już od kilku lat.
+Dwóch operatorów, <a href="http://geni.us/hashflare">Hashflare</a> i <a href="http://geni.us/advendorgm">GenesisMining</a>, oferuje kontrakty już od kilku lat.
 
 Bitcoin cloud mining umożliwia ludziom zarabianie Bitcoinów bez posiadania sprzętu do kopania bitcoinów, oprogramowania do kopania bitcoinów, prądu, łącza internetowego i innych czynników offline.
 
