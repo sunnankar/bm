@@ -2,8 +2,8 @@
 layout: post
 title: En İyi Bitcoin CloudMining Sözleşmesi İncelemeleri ve Karşılaştırmaları
 description: En İyi Bitcoin CloudMining Sözleşmesi İncelemeleri ve Karşılaştırmaları
-author: Melvin Draupnir
-authorurl: /melvin-draupnir/
+author: Bitcoin Mining
+authorurl: /
 published: true
 ---
 
