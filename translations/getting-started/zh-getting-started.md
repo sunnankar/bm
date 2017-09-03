@@ -2,8 +2,8 @@
 layout: post
 title: 比特币挖矿指南 - 比特币挖矿入门
 description: 比特币挖矿指南 - 比特币挖矿入门
-author: Melvin Draupnir
-author-url: /melvin-draupnir/
+author: Bitcoin Mining
+author-url: /
 published: true
 ---
 
