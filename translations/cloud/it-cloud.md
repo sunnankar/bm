@@ -2,8 +2,8 @@
 layout: post
 title: Resoconti e comparazioni tra i migliori contratti per il cloud mining di bitcoin
 description: Resoconti e comparazioni tra i migliori contratti per il cloud mining di bitcoin
-author: Melvin Draupnir
-authorurl: /melvin-draupnir/
+author: Bitcoin Mining
+authorurl: /
 published: true
 ---
 
