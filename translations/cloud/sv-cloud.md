@@ -2,8 +2,8 @@
 layout: post
 title: Genomgång och jämförelser av de bästa kontrakten för molnbaserad Bitcoin-mining
 description: Genomgång och jämförelser av de bästa kontrakten för molnbaserad Bitcoin-mining
-author: Melvin Draupnir
-authorurl: /melvin-draupnir/
+author: Bitcoin Mining
+authorurl: /
 published: true
 ---
 
