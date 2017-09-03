@@ -2,8 +2,8 @@
 layout: post
 title: Analyse et comparaisons des meilleurs contrats de cloud-mining de bitcoins
 description: Analyse et comparaisons des meilleurs contrats de cloud-mining de bitcoins
-author: Melvin Draupnir
-authorurl: /melvin-draupnir/
+author: Bitcoin Mining
+authorurl: /
 published: true
 ---
 
