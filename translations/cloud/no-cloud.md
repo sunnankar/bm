@@ -103,7 +103,7 @@ Det er begrensede muligheter for Dash‘cloud mining’-kontrakter. Dersom ingen
 
 Det er begrensede muligheter for Ether‘cloud mining’-kontrakter. Dersom ingenting på listen nedenfor dekker behovene dine, kan du kjøpe Bitcoin ‘cloud mining’-kontrakter (listet ovenfor) og konvertere bitcoinsene du tjener til Ether.
 
-<strong><a href="http://geni.us/hashflare">Hashflare: Hashflare er en stor Ether cloud mining-leverandør med rimelige Ethereum ‘cloud mining’-kontrakter.
+<strong><a href="http://geni.us/hashflare">Hashflare</a></strong>: Hashflare er en stor Ether cloud mining-leverandør med rimelige Ethereum ‘cloud mining’-kontrakter.
 
 <strong><a href="http://geni.us/advendorgm">Genesis Mining</a></strong>: Genesis Mining er den største Ether cloud mining-leverandøren. Ethereum cloud mining-kontrakter er rimelige.
 
