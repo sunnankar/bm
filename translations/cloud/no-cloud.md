@@ -2,8 +2,8 @@
 layout: post
 title: Beste kontraktanmeldelser og sammenligninger for Bitcoin cloud mining
 description: Beste kontraktanmeldelser og sammenligninger for Bitcoin cloud mining
-author: Melvin Draupnir
-authorurl: /melvin-draupnir/
+author: Bitcoin Mining
+authorurl: /
 published: true
 ---
 
