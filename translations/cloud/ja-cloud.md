@@ -3,8 +3,8 @@ layout: post
 title: 最高のBitcoinクラウドマイニング契約のレビューと比較
 description: 最高のBitcoinクラウドマイニング契約のレビューと比較
 published: true
-author: Melvin Draupnir
-author-url: /melvin-draupnir/
+author: Bitcoin Mining
+author-url: /
 ---
 
 <h2>Bitcoinクラウドマイニングとは？</h2>
