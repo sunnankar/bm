@@ -2,8 +2,8 @@
 layout: post
 title: Anleitung zum Bitcoin-Mining - Fangen Sie an, Bitcoins zu schürfen
 description: Anleitung zum Bitcoin-Mining - Fangen Sie an, Bitcoins zu schürfen
-author: Melvin Draupnir
-author-url: /melvin-draupnir/
+author: Bitcoin Mining
+author-url: /
 published: true
 ---
 

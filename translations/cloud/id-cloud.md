@@ -2,8 +2,8 @@
 layout: post
 title: Ulasan dan Perbandingan Kontrak Penambangan Awan Bitcoin Terbaik
 description: Ulasan dan Perbandingan Kontrak Penambangan Awan Bitcoin Terbaik
-author: Melvin Draupnir
-authorurl: /melvin-draupnir/
+author: Bitcoin Mining
+authorurl: /
 published: true
 ---
 

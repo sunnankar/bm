@@ -2,8 +2,8 @@
 layout: post
 title: 最佳比特币云挖矿合约评价与比较
 description: 最佳比特币云挖矿合约评价与比较
-author: Melvin Draupnir
-author-url: /melvin-draupnir/
+author: Bitcoin Mining
+author-url: /
 published: true
 ---
 

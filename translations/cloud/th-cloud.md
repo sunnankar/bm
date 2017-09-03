@@ -2,8 +2,8 @@
 layout: post
 title: การวิจารณ์และเปรียบเทียบสัญญาการขุดบิตคอยน์บนระบบคลาวน์ที่ดีที่สุด
 description: การวิจารณ์และเปรียบเทียบสัญญาการขุดบิตคอยน์บนระบบคลาวน์ที่ดีที่สุด
-author: Melvin Draupnir
-authorurl: /melvin-draupnir/
+author: Bitcoin Mining
+authorurl: /
 published: true
 ---
 

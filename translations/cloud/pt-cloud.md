@@ -2,8 +2,8 @@
 layout: post
 title: Melhores comparativos e análises de contratos de mineração de Bitcoin em nuvem
 description: Melhores comparativos e análises de contratos de mineração de Bitcoin em nuvem
-author: Melvin Draupnir
-author-url: /melvin-draupnir/
+author: Bitcoin Mining
+author-url: /
 published: true
 ---
 

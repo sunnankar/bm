@@ -2,8 +2,8 @@
 layout: post
 title: Руководство по майнингу биткойнов - Знакомство с биткойн-майнингом
 description: Руководство по майнингу биткойнов - Знакомство с биткойн-майнингом
-author: Melvin Draupnir
-author-url: /melvin-draupnir/
+author: Bitcoin Mining
+author-url: /
 published: true
 ---
 

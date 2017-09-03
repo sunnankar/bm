@@ -2,8 +2,8 @@
 layout: post
 title: ビットコインマイニング (採掘) ガイド– ビットコインマイニング入門
 description: ビットコインマイニング (採掘) ガイド– ビットコインマイニング入門
-author: Melvin Draupnir
-author-url: /melvin-draupnir/
+author: Bitcoin Mining
+author-url: /
 published: true
 ---
 
