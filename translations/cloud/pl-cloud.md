@@ -45,21 +45,21 @@ Fakt bycia umieszczonym na tej liście NIE jest poparciem dla tych usług, słu�
 
 <strong><a href="http://geni.us/hashflare">Recenzja  Hashflare</a></strong>: Hashflare oferuje kontrakty kopania SHA-256, a bardziej zyskowne żetony SHA-256 mogą być kopane, podczas gdy automatyczne wypłaty wciąż są w BTC. Klienci muszą zakupić co najmniej 10 GH/s.
 
-<strong><a href="">Recenzja Genesis Mining</a></strong>: Genesis Mining to największy dostawca Bitcoin oraz scrypt cloud mining. Genesis Mining oferuje trzy plany Bitcoin cloud mining w rozsądnych cenach. Kontrakty kopania Zcash są również dostępne.
+<strong><a href="http://geni.us/advendorgm">Recenzja Genesis Mining</a></strong>: Genesis Mining to największy dostawca Bitcoin oraz scrypt cloud mining. Genesis Mining oferuje trzy plany Bitcoin cloud mining w rozsądnych cenach. Kontrakty kopania Zcash są również dostępne.
 
-<strong><a href="">Recenzja Hashing 24</a></strong>: Hashing24 jest zaangażowane w kopanie Bitcoinów od 2012 r. Posiadają placówki na Islandii i w Gruzji. Używają nowoczesnych chipów ASIC od BitFury, aby dostarczać maksymalną możliwą wydajność i skuteczność.
+<strong><a href="http://geni.us/hashing24">Recenzja Hashing 24</a></strong>: Hashing24 jest zaangażowane w kopanie Bitcoinów od 2012 r. Posiadają placówki na Islandii i w Gruzji. Używają nowoczesnych chipów ASIC od BitFury, aby dostarczać maksymalną możliwą wydajność i skuteczność.
 
-<strong><a href="">Recenzja Minex</a></strong>: Minex to innowacyjny agregator projektów blockchain, prezentowany w formacie ekonomicznej gry symulacyjnej. Użytkownicy kupują Cloudpacki, które mogą być użyte do budowy zbioru wstępnie wybranych zestawów farm cloud mining, loterii, kasyn, prawdziwych rynków i wiele innych.
+<strong><a href="http://geni.us/minex">Recenzja Minex</a></strong>: Minex to innowacyjny agregator projektów blockchain, prezentowany w formacie ekonomicznej gry symulacyjnej. Użytkownicy kupują Cloudpacki, które mogą być użyte do budowy zbioru wstępnie wybranych zestawów farm cloud mining, loterii, kasyn, prawdziwych rynków i wiele innych.
 
 <strong>Recenzja Minergate</strong>: Oferuje zarówno pool, jak i merged mining oraz usługi cloud mining dla Bitcoinów.
 
-<strong><a href="">Recenzja Hashnest</a></strong>: Hashnest jest prowadzony przez Bitmain, producenta linii koparek Bitcoinów Antminer. HashNest obecnie posiada ponad 600 Antminer S7s do wypożyczenia. Możesz przejrzeć najnowsze ceny i dostępność na stronie Hashnesta. W momencie pisania, jeden Antminer S7's może zostać wypożyczony za 1,200 $.
+<strong><a href="http://geni.us/advendorgm">Recenzja Hashnest</a></strong>: Hashnest jest prowadzony przez Bitmain, producenta linii koparek Bitcoinów Antminer. HashNest obecnie posiada ponad 600 Antminer S7s do wypożyczenia. Możesz przejrzeć najnowsze ceny i dostępność na stronie Hashnesta. W momencie pisania, jeden Antminer S7's może zostać wypożyczony za 1,200 $.
 
 <strong>Recenzja Bitcoin Cloud Mining</strong>: Obecnie wszystkie kontrakty Bitcoin Cloud Mining są wyprzedane.
 
 <strong>Recenzja NiceHash</strong>: NiceHash jest wyjątkowy, dzięki użyciu księgi zamówień w celu dopasowania kupców i sprzedawców kontraktów kopania. Sprawdź ich stronę, aby poznać najnowsze ceny.
 
-<strong><a href="">Recenzja Eobot</a></strong>: Można zacząć Bitcoin cloud mining już od $10. Eobot uważa, że klientom może się to zwrócić nawet w ciągu 14 miesięcy.
+<strong><a href="http://geni.us/hashflare">Recenzja Eobot</a></strong>: Można zacząć Bitcoin cloud mining już od $10. Eobot uważa, że klientom może się to zwrócić nawet w ciągu 14 miesięcy.
 
 <strong>Recenzja MineOnCloud</strong>: MineOnCloud obecnie posiada możliwy do wypożyczenia sprzęt do kopania o mocy około 35 TH/s. Niektóre koparki dostępne do wypożyczenia posiadają AntMiner S4s oraz S5s.
 
@@ -83,33 +83,33 @@ Istnieje wiele opcji cloud mining dla innych form technologii blockchain.
 
 Istnieją ograniczone opcje kontraktów Litecoin cloud mining. Jeśli nic z listy poniżej nie spełnia Twoich oczekiwań, możesz kupić kontrakty Bitcoin cloud mining (wymienione powyżej) i zwyczajnie wymienić zarobione bitcoiny na litecoiny.
 
-<strong><a href="">Recenzja Hashflare</a></strong>: Hashflare oferuje kontrakty skryptowego kopania z minimalnym zakupem w wysokości 1 MH/s.
+<strong><a href="http://geni.us/hashflare">Recenzja Hashflare</a></strong>: Hashflare oferuje kontrakty skryptowego kopania z minimalnym zakupem w wysokości 1 MH/s.
 
-<strong><a href="">Recenzja Genesis Mining</a></strong>: Genesis Mining oferuje kontrakty Litecoin cloud mining.
+<strong><a href="http://geni.us/advendorgm">Recenzja Genesis Mining</a></strong>: Genesis Mining oferuje kontrakty Litecoin cloud mining.
 
-<strong><a href="">Recenzja Minex</a></strong>: Minex to innowacyjny agregator projektów blockchain, prezentowany w formacie ekonomicznej gry symulacyjnej. Użytkownicy kupują Cloudpacki, które mogą być użyte do budowy zbioru wstępnie wybranych zestawów farm cloud mining, loterii, kasyn, prawdziwych rynków i wiele innych.
+<strong><a href="http://geni.us/minex">Recenzja Minex</a></strong>: Minex to innowacyjny agregator projektów blockchain, prezentowany w formacie ekonomicznej gry symulacyjnej. Użytkownicy kupują Cloudpacki, które mogą być użyte do budowy zbioru wstępnie wybranych zestawów farm cloud mining, loterii, kasyn, prawdziwych rynków i wiele innych.
 
 <strong>Recenzja Minergate</strong>: Oferuje zarówno pool, jak i merged mining oraz usługi cloud mining dla Litecoinów.
 
-<strong><a href="">Recenzja Eobot</a></strong>: Eobot oferuje kontrakty Litecoin cloud mining z miesięcznymi wypłatami w wysokości 0.0071 LTC.
+<strong><a href="http://geni.us/hashflare">Recenzja Eobot</a></strong>: Eobot oferuje kontrakty Litecoin cloud mining z miesięcznymi wypłatami w wysokości 0.0071 LTC.
 
 <h2>Najlepsze Usługi oraz Porównanie Dash Cloud Mining </h2>
 
 Istnieją ograniczone opcje kontraktów Dash cloud mining. Jeśli nic z listy poniżej nie spełnia Twoich oczekiwań, możesz kupić kontrakty Bitcoin cloud mining (wymienione powyżej) i zwyczajnie wymienić zarobione bitcoiny na Dash.
 
-<strong><a href="">Recenzja Genesis Mining</a></strong>: Genesis Mining to największy dostawca X11 cloud mining. Genesis Mining oferuje trzy plany Dash X11 cloud mining w rozsądnych cenach.
+<strong><a href="http://geni.us/advendorgm">Recenzja Genesis Mining</a></strong>: Genesis Mining to największy dostawca X11 cloud mining. Genesis Mining oferuje trzy plany Dash X11 cloud mining w rozsądnych cenach.
 
 <h2>Najlepsze Usługi oraz Porównanie Ether Cloud Mining </h2>
 
 Istnieją ograniczone opcje kontraktów Ether cloud mining. Jeśli nic z listy poniżej nie spełnia Twoich oczekiwań, możesz kupić kontrakty Bitcoin cloud mining (wymienione powyżej) i zwyczajnie wymienić zarobione bitcoiny na ether.
 
-<strong><a href="">Recenzja Hashflare</a></strong>: Hashflare to duży dostawca Ether cloud mining, posiadający kontrakty Ethereum cloud mining w rozsądnych cenach.
+<strong><a href="http://geni.us/hashflare">Recenzja Hashflare</a></strong>: Hashflare to duży dostawca Ether cloud mining, posiadający kontrakty Ethereum cloud mining w rozsądnych cenach.
 
-<strong><a href="">Recenzja Genesis Mining</a></strong>: Genesis Mining to największy dostawca Ether cloud mining. Kontrakty Ethereum cloud mining są w rozsądnych cenach.
+<strong><a href="http://geni.us/advendorgm">Recenzja Genesis Mining</a></strong>: Genesis Mining to największy dostawca Ether cloud mining. Kontrakty Ethereum cloud mining są w rozsądnych cenach.
 
-<strong><a href="">Recenzja Minex</a></strong>: Minex to innowacyjny agregator projektów blockchain, prezentowany w formacie ekonomicznej gry symulacyjnej. Użytkownicy kupują Cloudpacki, które mogą być użyte do budowy zbioru wstępnie wybranych zestawów farm cloud mining, loterii, kasyn, prawdziwych rynków i wiele innych.
+<strong><a href="http://geni.us/minex">Recenzja Minex</a></strong>: Minex to innowacyjny agregator projektów blockchain, prezentowany w formacie ekonomicznej gry symulacyjnej. Użytkownicy kupują Cloudpacki, które mogą być użyte do budowy zbioru wstępnie wybranych zestawów farm cloud mining, loterii, kasyn, prawdziwych rynków i wiele innych.
 
-<strong><a href="">Recenzja Eobot</a></strong>: Eobot oferuje kontrakty Ethereum cloud mining z miesięcznymi wypłatami w wysokości 0.0060 ETH.
+<strong><a href="http://geni.us/hashflare">Recenzja Eobot</a></strong>: Eobot oferuje kontrakty Ethereum cloud mining z miesięcznymi wypłatami w wysokości 0.0060 ETH.
 
 Ten poradnik Ethereum cloud mining pokaże Ci jak kopać Ethereum przy użyciu serwerów Amazon w chmurze.
 
