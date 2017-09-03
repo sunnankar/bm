@@ -2,8 +2,8 @@
 layout: post
 title: Porównanie i Recenzje Najlepszych Kontraktów Bitcoin Cloud Mining
 description: Porównanie i Recenzje Najlepszych Kontraktów Bitcoin Cloud Mining
-author: Melvin Draupnir
-authorurl: /melvin-draupnir/
+author: Bitcoin Mining
+authorurl: /
 published: true
 ---
 
