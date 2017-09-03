@@ -2,8 +2,8 @@
 layout: post
 title: Τα ΚαλύτεραΣυμβόλαιαΕξόρυξηςBitcoinστο Cloud, ΑξιολογήσειςκαιΣυγκρίσεις
 description: Τα ΚαλύτεραΣυμβόλαιαΕξόρυξηςBitcoinστο Cloud, ΑξιολογήσειςκαιΣυγκρίσεις
-author: Melvin Draupnir
-authorurl: /melvin-draupnir/
+author: Bitcoin Mining
+authorurl: /
 published: true
 ---
 
