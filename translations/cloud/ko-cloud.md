@@ -2,8 +2,8 @@
 layout: post
 title: 최고의 비트코인 클라우드 채굴 계약 리뷰 및 비교
 description: 최고의 비트코인 클라우드 채굴 계약 리뷰 및 비교
-author: Melvin Draupnir
-authorurl: /melvin-draupnir/
+author: Bitcoin Mining
+authorurl: /
 published: true
 ---
 
