@@ -2,8 +2,8 @@
 layout: post
 title: Лучший контракт по облачному майнингу биткоиновОтзывы и сравнения
 description: Лучший контракт по облачному майнингу биткоиновОтзывы и сравнения
-author: Melvin Draupnir
-author-url: /melvin-draupnir/
+author: Bitcoin Mining
+author-url: /
 published: true
 ---
 
