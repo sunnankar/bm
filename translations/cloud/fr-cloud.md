@@ -11,7 +11,7 @@ published: true
 
 Le cloud-mining ou le cloud-hashing permet aux utilisateurs d’acheter des capacités de minage de hardware dans des centres de données.
 
-Deux opérateurs, Hashflare et Genesis Mining, offrent des contrats depuis plusieurs années.
+Deux opérateurs, <a href="http://geni.us/hashflare">Hashflare</a> et <a href="http://geni.us/advendorgm">Genesis Mining</a>, offrent des contrats depuis plusieurs années.
 
 Le cloud-mining de bitcoins permet à des personnes de gagner des bitcoins sans hardware de minage de bitcoins, logiciel de minage de bitcoins, électricité, bande passante ou autre problème hors-ligne.
 
