@@ -2,8 +2,8 @@
 layout: post
 title: Pinakamahusay na mga Review ng Kontrata ng Bitcoin Cloud Mining at mga Paghahambing 
 description: Pinakamahusay na mga Review ng Kontrata ng Bitcoin Cloud Mining at mga Paghahambing 
-author: Melvin Draupnir
-authorurl: /melvin-draupnir/
+author: Bitcoin Mining
+authorurl: /
 published: true
 ---
 
