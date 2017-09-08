@@ -43,7 +43,7 @@ published: true
 
 <p><strong>مراجعة Minergate</strong>: تقدم كلا من التعدين الجماعي والمدمج وخدمات التعدين السحابي للحصول على البيتكوين.</p>
 
-<p><a href="http://geni.us/advendorgm">مراجعة Hashnest</a>: تعمل Hashnest بقيادة Bitmain، وهو منتج خط Antminer من المنقبين عن البيتكوين. تملك HashNest حالياً ما يزيد عن 600 Antminer S7s للإيجار. يمكنك استعراض أحدث الأسعار والتوافر على موقع Hashnest الإلكتروني. وفي وقت كتابة هذا التقرير، يمكن تأجير معدل هاش Antminer S7 واحد مقابل 1.200 دولاراً أمريكياً.</p>
+<p><strong><a href="http://geni.us/advendorgm">مراجعة Hashnest</a></strong>: تعمل Hashnest بقيادة Bitmain، وهو منتج خط Antminer من المنقبين عن البيتكوين. تملك HashNest حالياً ما يزيد عن 600 Antminer S7s للإيجار. يمكنك استعراض أحدث الأسعار والتوافر على موقع Hashnest الإلكتروني. وفي وقت كتابة هذا التقرير، يمكن تأجير معدل هاش Antminer S7 واحد مقابل 1.200 دولاراً أمريكياً.</p>
 
 <p>مراجعة تعدين سحابة البيتكوين: جميع عقود تعدين سحابة البيتكوين مباعة حالياً.</p>
 
@@ -68,12 +68,12 @@ published: true
 <p>لكي يتسم التجمع باللامركزية الكاملة، نوصي باستخدام <a href="http://p2pool.in/">p2pool</a> بشدة.</p>
 
 <p>من المعتقد أن التجمعات التالية هي كتل للتحقق الكامل من الصحة حالياً مع Bitcoin Core 0.9.5 أو الأحدث منه (يوصى باستخدام 0.10.2 أو الأحدث منه بسبب نقاط ضعف DoS):</p>
-
-•	<a href="https://bitminter.com/">BitMinter</a>
-•	<a href="http://www.kano.is/">CK Pool</a>
-•	<a href="http://eligius.st/~gateway/">Eligius</a>
-•	<a href="https://en.bitcoin.it/wiki/Bitcoin_Pooled_Mining">Slush Pool</a>
- 
+<ul>
+<li><a href="https://bitminter.com/">BitMinter</a></li>
+<li><a href="http://www.kano.is/">CK Pool</a></li>
+<li><a href="http://eligius.st/~gateway/">Eligius</a></li>
+<li><a href="https://en.bitcoin.it/wiki/Bitcoin_Pooled_Mining">Slush Pool</a></li>
+ </ul>
 <h2>الخطوة الرابعة - إعداد محفظة بيتكوين</h2>
 
 <p>الخطوة التالية في التنقيب عن عملات البيتكوين هي إعداد محفظة بيتكوين أو استخدام محفظة بيتكوين القائمة الخاصة بك لتلقي عملات البيتكوين التي تنقب عنها. <a href="http://geni.us/copay">Copay</a> هي محفظة بيتكوين رائعة وتعمل على العديد من أنظمة التشغيل المختلفة. تتوفر أيضاً <a href="http://geni.us/ledger">محافظ أجهزة بيتكوين</a>.</p>
@@ -83,13 +83,13 @@ published: true
 <p>للحصول على مساعدة في اختيار محفظة بيتكوين، يمكنك <a href="https://www.weusecoins.com/en/find-the-best-bitcoin-wallet/">البدء من هنا</a>.</p>
 
 <p>ستحتاج أيضاً إلى أن تتمكن من شراء عملات البيتكوين الخاصة بك وبيعها. ومن أجل هذا، نوصيك بما يلي:</p>
-
-•	<a href="http://geni.us/spectrocoin">SpectroCoin</a> - صرافة أوروبية مع  SEPA في نفس اليوم ويمكن شراؤها ببطاقات الائتمان
-•	<a href="https://www.kraken.com/">Kraken</a> - أكبر صرافة أوروبية مع SEPA في نفس اليوم
-•	<a href="https://www.weusecoins.com/en/how-buy-bitcoins-online-best-bitcoin-exchange-rate-bitcoin-price/">شراء دليل بيتكوين </a>- اطلب المساعدة في العثور على صرافة بيتكوين في بلادك.
-•	<a href="http://geni.us/localbitcoins">عملات البيتكوين المحلية</a> - تتيح لك هذه الخدمة الرائعة البحث في مجتمعك عمن هو على استعداد لبيع عملات البيتكوين الخاصة به إليك مباشرة. لكن توخ الحذر!
-•	<a href="http://geni.us/coinbase">Coinbase</a> هو مكان جيد للبدء عندما ترغب في شراء عملات البيتكوين. نوصيك بشدة بعدم الاحتفاظ بأي عملات بيتكوين في خدمتهم.
- 
+<ul>
+<li><a href="http://geni.us/spectrocoin">SpectroCoin</a> - صرافة أوروبية مع  SEPA في نفس اليوم ويمكن شراؤها ببطاقات الائتمان</li>
+<li><a href="https://www.kraken.com/">Kraken</a> - أكبر صرافة أوروبية مع SEPA في نفس اليوم</li>
+<li><a href="https://www.weusecoins.com/en/how-buy-bitcoins-online-best-bitcoin-exchange-rate-bitcoin-price/">شراء دليل بيتكوين </a>- اطلب المساعدة في العثور على صرافة بيتكوين في بلادك.</li>
+<li><a href="http://geni.us/localbitcoins">عملات البيتكوين المحلية</a> - تتيح لك هذه الخدمة الرائعة البحث في مجتمعك عمن هو على استعداد لبيع عملات البيتكوين الخاصة به إليك مباشرة. لكن توخ الحذر!</li>
+<li><a href="http://geni.us/coinbase">Coinbase</a> هو مكان جيد للبدء عندما ترغب في شراء عملات البيتكوين. نوصيك بشدة بعدم الاحتفاظ بأي عملات بيتكوين في خدمتهم.</li>
+ </ul>
 <h2>الخطوة الخامسة - ابق على اطلاع بأخبار بيتكوين</h2>
 
 <p>من المهم أن تبقى على اطلاع بأخبار البيتكوين من أجل أرباح تعدين بيتكوين الخاصة بك. إذا كنت ترغب في الاطلاع على أخبار بيتكوين العامة، فنحن نوصيك بقسم <a href="https://www.weusecoins.com/news/">WeUseCoins news</a>.</p>
