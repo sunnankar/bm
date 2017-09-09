@@ -46,6 +46,7 @@ Hindi pag-eendorso ng mgaserbisyongitoangmakasamasalistahansaseksyongito. Nagkar
 <strong><a href="http://geni.us/advendorgm">Review saHashnest</a></strong>: AngHashnestay pinatatakbo ngBitmain, angprodyuser ng Antminernahanay ng mgapangmina ng Bitcoin. AngHashNestay kasalukuyang may mahigitsa 600 Antminer S7naipinaparenta.Maaarimongtingnanangpinakabagong update sapresyo at availability sa website ng HashNest. Sapanahon ng pagkakasulatnito, ang hash rate ng isangAntminer S7 ay maaaringrentahansahalagang$1,200.
 
 <strong>Review saPagmimina ng Bitcoin sa Cloud</strong>: Sa kasalukuyan, ubosnaanglahat ng kontratasaPagmimina ng Bitcoin sa Cloud.
+
 <strong>Review saNiceHash</strong>: NatatangiangNiceHashdahilgumagamitito ng librosapag-order upangpagtugmainangmgabumibili at nagbebenta ng mgakontratasapagmimina. Tingnanang website nitopara samgapinakabagongpresyo.
 
 <strong><a href="http://geni.us/hashflare">Review saEobot</a></strong>: Simulanangpagmimina ng Bitcoin sa cloud sahalagang$10 lang. AyonsaEobotkayangmakuha ng mgakostumerangkanilangipinuhunansaloob ng 14 nabuwan.
