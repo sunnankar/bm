@@ -8,7 +8,8 @@ published: true
 ---
 
 你将了解（1）如何进行比特币挖矿，（2）如何开始挖比特币，（3）最好的比特币挖矿软件是什么，（4）最好的比特币挖矿硬件是什么，（5）哪里能找到最好的比特币采矿池和（6）如何优化你的比特币收益。
-
+<center><iframe width="700" height="394" src="https://www.youtube.com/embed/GmOzih6I1zs" frameborder="0" allowfullscreen></iframe>
+<hr style="width: 100%; margin: 20px 0; color: #eee;" /></center>
 比特币挖矿很难做到有利可图，但如果你尝试的话，那么这个比特币挖矿机可能是一个很好的机会。
 
 
