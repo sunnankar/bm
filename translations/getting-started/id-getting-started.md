@@ -33,25 +33,25 @@ Pilihan lain adalah membeli kontrak menambang Bitcoin lewat cloud. Hal ini amat 
 
 Dicantumkan dalam bagian ini BUKAN berarti anjuran untuk menggunakan layanan-layanan tersebut. Sudah amat sering terjadi berbagai penipuan menambang Bitcoin lewat cloud.
 
-<a href="http://geni.us/hashflare">Ulasan Hashflare</a>: Hashflare menawarkan kontrak menambang SHA-256 dan koin SHA-256 yang lebih menguntungkan dapat ditambang sementara pembayaran otomatis tetap dilakukan dalam BTC. Pelanggan harus membeli paling sedikit 10 GH/d.
+<strong><a href="http://geni.us/hashflare">Ulasan Hashflare</a></strong>: Hashflare menawarkan kontrak menambang SHA-256 dan koin SHA-256 yang lebih menguntungkan dapat ditambang sementara pembayaran otomatis tetap dilakukan dalam BTC. Pelanggan harus membeli paling sedikit 10 GH/d.
 
-<a href="http://geni.us/advendorgm">Ulasan Genesis Mining</a>: Genesis Mining adalah penyedia layanan menambang Bitcoin dan scrypt yang terbesar. Genesis Mining menawarkan tiga jenis layanan menambang Bitcoin lewat cloud yang ditawarkan dengan harga wajar. Kontrak untuk menambang Zcash juga tersedia.
+<strong><a href="http://geni.us/advendorgm">Ulasan Genesis Mining</a></strong>: Genesis Mining adalah penyedia layanan menambang Bitcoin dan scrypt yang terbesar. Genesis Mining menawarkan tiga jenis layanan menambang Bitcoin lewat cloud yang ditawarkan dengan harga wajar. Kontrak untuk menambang Zcash juga tersedia.
 
-<a href="http://geni.us/hashing24">Ulasan Hashing 24</a>: Hashing24 telah menjalankan menambang Bitcoin sejak 2012. Mereka memiliki fasilitas di Islandia dan Georgia. Mereka menggunakan chip ASIC modern dari BitFury yang memberikan kinerja dan efisiensi maksimum yang dapat dicapai.
+<strong><a href="http://geni.us/hashing24">Ulasan Hashing 24</a></strong>: Hashing24 telah menjalankan menambang Bitcoin sejak 2012. Mereka memiliki fasilitas di Islandia dan Georgia. Mereka menggunakan chip ASIC modern dari BitFury yang memberikan kinerja dan efisiensi maksimum yang dapat dicapai.
 
-<a href="http://geni.us/minex">Ulasan Minex</a>: Minex adalah agregator inovatif dari proyek-proyek blockchain yang dipresentasikan dalam suatu format permainan simulasi ekonomi. Pengguna membeli Cloudpack yang kemudian dapat digunakan untuk membangun suatu indeks dari himpunan yang telah dipilih dari jaringan penambangan cloud, lotre, kasino, pasar dunia nyata, dan masih banyak lagi.
+<strong><a href="http://geni.us/minex">Ulasan Minex</a></strong>: Minex adalah agregator inovatif dari proyek-proyek blockchain yang dipresentasikan dalam suatu format permainan simulasi ekonomi. Pengguna membeli Cloudpack yang kemudian dapat digunakan untuk membangun suatu indeks dari himpunan yang telah dipilih dari jaringan penambangan cloud, lotre, kasino, pasar dunia nyata, dan masih banyak lagi.
 
-Ulasan Minergate: Menawarkan menambang kumpulan dan gabungan dan layanan menambang cloud untuk Bitcoin.
+<strong>Ulasan Minergate</strong>: Menawarkan menambang kumpulan dan gabungan dan layanan menambang cloud untuk Bitcoin.
 
-<a href="http://geni.us/advendorgm">Ulasan Hashnest</a>: Hashnest dioperasikan oleh Bitmain, produsen penambang Bitcoin bermerek Antminer. HashNest saat ini memiliki lebih dari 600 Antminer S7 untuk disewakan. Anda dapat melihat harga terbaru dan ketersediaan pada situs web Hashnest. Pada saat penulisan ini, satu Antminer S7 dapat disewa dengan tarif $1.200.
+<strong><a href="http://geni.us/advendorgm">Ulasan Hashnest</a></strong>: Hashnest dioperasikan oleh Bitmain, produsen penambang Bitcoin bermerek Antminer. HashNest saat ini memiliki lebih dari 600 Antminer S7 untuk disewakan. Anda dapat melihat harga terbaru dan ketersediaan pada situs web Hashnest. Pada saat penulisan ini, satu Antminer S7 dapat disewa dengan tarif $1.200.
 
-Ulasan Bitcoin Cloud Mining: Saat ini semua kontrak Bitcoin Cloud Mining sudah terjual habis.
+<strong>Ulasan Bitcoin Cloud Mining</strong>: Saat ini semua kontrak Bitcoin Cloud Mining sudah terjual habis.
 
-Ulasan NiceHash: NiceHash memiliki keunikan karena menggunakan sebuah sistem orderbook untuk mempertemukan penjual dan pembeli kontrak menambang. Lihat situs webnya untuk mengetahui harga terakhir.
+<strong>Ulasan NiceHash</strong>: NiceHash memiliki keunikan karena menggunakan sebuah sistem orderbook untuk mempertemukan penjual dan pembeli kontrak menambang. Lihat situs webnya untuk mengetahui harga terakhir.
 
-<a href="http://geni.us/hashflare">Ulasan Eobot</a>: Dapat mulai menambang Bitcoin lewat cloud bisa cukup dengan $10. Eobot mengklaim bahwa pelanggan dapat balik modal dalam 14 bulan.
+<strong><a href="http://geni.us/hashflare">Ulasan Eobot</a></strong>: Dapat mulai menambang Bitcoin lewat cloud bisa cukup dengan $10. Eobot mengklaim bahwa pelanggan dapat balik modal dalam 14 bulan.
 
-Ulasan MineOnCloud: MineOnCloud saat ini memiliki sekitar peralatan menambang sebesar 35 TH/d untuk disewakan di cloud. Sebagian penambang yang tersedia untuk disewakan juga termasuk AntMiner S4s dan S5s.
+<strong>Ulasan MineOnCloud</strong>: MineOnCloud saat ini memiliki sekitar peralatan menambang sebesar 35 TH/d untuk disewakan di cloud. Sebagian penambang yang tersedia untuk disewakan juga termasuk AntMiner S4s dan S5s.
 
 <h2>Langkah 2 - Unduh Peranti Lunak Gratis Untuk Menambang Bitcoin</h2>
 
