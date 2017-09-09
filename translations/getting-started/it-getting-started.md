@@ -72,7 +72,7 @@ I seguenti pools si ritengono essere blocchi interamente convalidati mediante Bi
 <li><a href="http://www.kano.is/">CK Pool</a></li>
 <li><a href="http://eligius.st/~gateway/">Eligius</a></li>
 <li><a href="https://en.bitcoin.it/wiki/Bitcoin_Pooled_Mining">Slush Pool</a></li>
-<ul>
+</ul>
  
 <h2>Passo 4 –Imposta un Portafoglio Bitcoin</h2>
 
