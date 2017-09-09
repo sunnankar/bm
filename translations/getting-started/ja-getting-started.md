@@ -8,7 +8,8 @@ published: true
 ---
 
 このガイドでは、(1) ビットコインマイニングのしくみ、(2) ビットコインマイニングのはじめ方、(3) ビットコインマイニングの最良ソフトウェア、(4)ビットコインマイニングの最良ハードウェア、(5)ビットコインの最良マイニングプールの場所、(6)ビットコイン収入を最適化する方法、が習得できます。
-
+<center><iframe width="700" height="394" src="https://www.youtube.com/embed/GmOzih6I1zs" frameborder="0" allowfullscreen></iframe>
+<hr style="width: 100%; margin: 20px 0; color: #eee;" /></center>
 ビットコインマイニングで利益を出すのは難しいですが、トライしてみるならこのビットコインマイナーがおそらくナイスショットとなることでしょう。
 
 
