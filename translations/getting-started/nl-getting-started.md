@@ -8,7 +8,8 @@ published: true
 ---
 
 Je zult leren (1) hoebitcoinminingwerkt, (2) hoe te beginnen met bitcoinmining, (3) wat de bestebitcoinmining software is, (4) watde <a href="https://www.bitcoinmining.com/bitcoin-mining-hardware/">bestebitcoinmining hardware</a> is, (5) waar je de bestebitcoinmining pools kunt vinden en (6) hoe je je bitcoin-opbrengsten optimaliseert.
-
+<center><iframe width="700" height="394" src="https://www.youtube.com/embed/GmOzih6I1zs" frameborder="0" allowfullscreen></iframe>
+<hr style="width: 100%; margin: 20px 0; color: #eee;" /></center>
 Bitcoinmining is <a href="https://www.bitcoinmining.com/bitcoin-mining-profitability/">lasting om met winst te doen</a> maar als je het probeert is deze <a href="http://geni.us/37CM">Bitcoinminer</a> waarschijnlijk je beste kans. 
 
 <h2>Hoe BitcoinMiningWerkt</h2>
