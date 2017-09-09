@@ -8,7 +8,8 @@ published: true
 ---
 
 Imparerai (1) come funziona il bitcoin mining, (2) come cominciare a ricavare bitcoin, (3) quali sono i migliori software per il mining di bitcoin, (4) qual è il <a href="https://www.bitcoinmining.com/bitcoin-mining-hardware/">miglior hardware per il mining di bitcoin</a>, (5) dove trovare i migliori pools per il mining di bitcoins e (6) come ottimizzare i tuoi guadagni in bitcoins.
-
+<center><iframe width="700" height="394" src="https://www.youtube.com/embed/GmOzih6I1zs" frameborder="0" allowfullscreen></iframe>
+<hr style="width: 100%; margin: 20px 0; color: #eee;" /></center>
 Il mining di bitcoin è <a href="https://www.bitcoinmining.com/bitcoin-mining-profitability/">difficile da svolgere in modo proficuo</a> ma se ci vuoi comunque provare questo <a href="http://geni.us/37CM">Bitcoin miner</a> probabilmente ti sarà d’aiuto. 
 
 <h2>Come funziona il Bitcoin Mining </h2>
