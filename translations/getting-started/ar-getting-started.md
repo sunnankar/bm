@@ -8,7 +8,8 @@ published: true
 ---
 
 <p>ستتعلم (1) كيف يتم تعدين البيتكوين، و(2) كيف تبدأ في تعدين البيتكوين، و(3) ما أفضل برنامج لتعدين البيتكوين، و(4) ما <a href=" /bitcoin-mining-hardware/">أفضل أجهزة لتعدين البيتكوين</a>، و(5) أين تجد أفضل تجمعات تعدين البيتكوين و(6) كيف تزيد من أرباح البيتكوين الخاصة بك.</p>
-
+<center><iframe width="700" height="394" src="https://www.youtube.com/embed/GmOzih6I1zs" frameborder="0" allowfullscreen></iframe>
+<hr style="width: 100%; margin: 20px 0; color: #eee;" /></center>
 <p>تعدين البيتكوين <a href=" /bitcoin-mining-profitability/">يصعب إجراءه بطريقة مربحة</a> لكن إذا حاولت فقد يكون <a href="http://geni.us/37CM">عامل تعدين بيتكوين</a> هذا فرصة جيدة. </p>
  
 <h2>كيف يتم تعدين البيتكوين</h2>
