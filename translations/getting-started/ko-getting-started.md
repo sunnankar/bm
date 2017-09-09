@@ -8,7 +8,8 @@ published: true
 ---
 
 귀하는 이제 (1) 비트코인 채굴이 어떻게 작동하는지, (2) 비트코인 채굴을 어떻게 시작하는지, (3) 비트코인 채굴을 위한 최고의 소프트웨어는 무엇인지, (4) <a href="https://www.bitcoinmining.com/bitcoin-mining-hardware/">최고의 비트코인 채굴 하드웨어는</a> 무엇인지, (5) 어디서 최고의 비트코인 채굴 풀을 찾는지 그리고 (6) 벌은 비트코인을 어떻게 활용하는지에 대해 배울 것입니다.
-
+<center><iframe width="700" height="394" src="https://www.youtube.com/embed/GmOzih6I1zs" frameborder="0" allowfullscreen></iframe>
+<hr style="width: 100%; margin: 20px 0; color: #eee;" /></center>
 비트코인 채굴은<a href="https://www.bitcoinmining.com/bitcoin-mining-profitability/">이윤을 내기 어렵지만</a> 만약 이 <a href="http://geni.us/37CM">비트코인 채굴기</a>를 사용한다면 좋은 시도가 될 수 있습니다.
 
 <h2>비트코인 채굴은 어떻게 작동하는가</h2>
