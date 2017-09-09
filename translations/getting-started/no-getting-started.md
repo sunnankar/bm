@@ -8,7 +8,8 @@ published: true
 ---
 
 Du villære (1) hvordanutvinningav Bitcoins fungerer, (2) hvordan du kanstarteutvinningav Bitcoins, (3) hva den besteprogramvaren for utvinningav Bitcoins er, (4) hva den <a href="https://www.bitcoinmining.com/bitcoin-mining-hardware/">bestemaskinvaren for utvinningav Bitcoins</a>er, (5) hvor du finner de besteutvinningsfondene for Bitcoins og (6) hvordanoptimalisere Bitcoin fortjenesten din.
-
+<center><iframe width="700" height="394" src="https://www.youtube.com/embed/GmOzih6I1zs" frameborder="0" allowfullscreen></iframe>
+<hr style="width: 100%; margin: 20px 0; color: #eee;" /></center>
 Utvinningav Bitcoin er<a href="https://www.bitcoinmining.com/bitcoin-mining-profitability/">vanskelig å gjøre med fortjeneste</a> men hvis du prøvererdenne<a href="http://geni.us/37CM">Bitcoin utvinneren</a> etgodtforsøk.
 
 <h2>Hvordanutvinningav Bitcoins fungerer</h2>
