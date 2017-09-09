@@ -48,6 +48,7 @@ Umieszczenie usługi na tej liście NIE oznacza rekomendowania jej. Istnieje nie
 <strong>Przegląd usługi Bitcoin Cloud Mining</strong>: Obecnie wszystkie umowy oferowane w ramach usługi Bitcoin Cloud Mining są wyprzedane.
 
 <strong>Przegląd usługi NiceHash</strong>: Wyjątkowość usługi NiceHash polega na tym, że korzysta się w niej z księgi zamówień w celu dopasowania nabywców i sprzedawców w umowach o wykopywanie. Z aktualnym cennikiem można się zapoznać w witrynie internetowej usługi.
+
 <strong><a href="http://geni.us/hashflare">Przegląd usługi Eobot</a></strong>: Zacznij wykopywać bitcoiny w chmurze w cenie już od 10 USD. Według twórców Eobota klienci mogą liczyć na rentowność korzystania z tej usługi po 14 miesiącach.
 
 <strong>Przegląd usługi MineOnCloud</strong>: MineOnCloud dysponuje obecnie sprzętem o parametrach około 35 TH/s do wynajęcia w chmurze. Pośród koparek dostępnych do wynajęcia znajdują się Antminer S4s i S5s.
