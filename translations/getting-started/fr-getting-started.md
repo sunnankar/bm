@@ -8,7 +8,8 @@ published: true
 ---
 
 Vous découvrirez (1) comment le minage de bitcoins fonctionne, (2) comment commencer à miner des bitcoins, (3) le meilleur logiciel de minage de bitcoins, (4) le <a href="https://www.bitcoinmining.com/bitcoin-mining-hardware/">meilleur matériel de minage de bitcoins</a>, (5) l'endroit où trouver les meilleurs pools de minage de bitcoins et (6) comment optimiser vos gains de bitcoins.
-
+<center><iframe width="700" height="394" src="https://www.youtube.com/embed/GmOzih6I1zs" frameborder="0" allowfullscreen></iframe>
+<hr style="width: 100%; margin: 20px 0; color: #eee;" /></center>
 Le minage de Bitcoins est <a href="https://www.bitcoinmining.com/bitcoin-mining-profitability/">difficilement rentable</a>, mais si vous voulez essayez, alors <a href="http://geni.us/37CM">Bitcoin miner</a> en vaut probablement le coup.  
 
 <h2>Comment le minage de Bitcoins fonctionne</h2>
