@@ -8,7 +8,8 @@ published: true
 ---
 
 Sie werden erfahren, (1) wie das Bitcoin-Mining funktioniert, (2) wie man beginnt, Bitcoins zu schürfen, (3) welches die beste Software für das Bitcoin-Mining ist, (4) welches die beste Hardware für das Bitcoin-Mining ist, (5) wo Sie die besten Pools zum Bitcoin-Mining finden und (6) wie Sie Ihre Bitcoin-Einkünfte optimieren. 
-
+<center><iframe width="700" height="394" src="https://www.youtube.com/embed/GmOzih6I1zs" frameborder="0" allowfullscreen></iframe>
+<hr style="width: 100%; margin: 20px 0; color: #eee;" /></center>
 <a href="/bitcoin-mining-its-about-solving-problems-27/">Bitcoin-Mining</a> ist zwar schwierig auf profitable Weise zu betreiben , aber wenn Sie es versuchen, ist dieser  <a href="/avalon-nano-3-usb-bitcoin-miner-review/">Bitcoin-Miner</a>  evtl. ein guter Versuch.
 
 <h2>Wie das Bitcoin-Mining funktioniert</h2>
