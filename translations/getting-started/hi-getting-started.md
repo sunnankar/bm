@@ -8,7 +8,8 @@ published: true
 ---
 
 यहाँ आप सीखेंगे कि (1) बिटकॉइन माइनिंग कैसे काम करती है, (2) बिटकॉइन की माइनिंग कैसे शुरू करें, (3) सर्वोत्तम बिटकॉइन माइनिंग सॉफ्टवेयर क्या है, (4) <a href="https://www.bitcoinmining.com/bitcoin-mining-hardware/">सर्वोत्तम बिटकॉइन माइनिंग हार्डवेयर</a> क्या होता है, (5) सर्वोत्तम बिटकॉइन माइनिंग पूल कहाँ पाए जा सकते हैं और (6) अपनी बिटकॉइन की कमाई को इष्टतम कैसे बनाएं।
-
+<center><iframe width="700" height="394" src="https://www.youtube.com/embed/GmOzih6I1zs" frameborder="0" allowfullscreen></iframe>
+<hr style="width: 100%; margin: 20px 0; color: #eee;" /></center>
 बिटकॉइन माइनिंग <a href="https://www.bitcoinmining.com/bitcoin-mining-profitability/">लाभदायक ढंग से करना कठिन है</a> लेकिन यदि आप कोशिश करना चाहते हैं तो यह <a href="http://geni.us/37CM">Bitcoin miner</a> एक अच्छा प्रयास हो सकता है। 
 
 <h2>बिटकॉइन माइनिंग कैसे काम करती है</h2>
