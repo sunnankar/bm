@@ -19,7 +19,7 @@ Nababayaran ng network ng Bitcoin angmgaminero ng Bitcoin para sakanilangpagsisi
 
 <h2>Hakbang 1 –KuninangPinakamahusayna Hardware saPagmimina ng Bitcoin </h2>
 
-Pagbili ng mga Bitcoin –Sailangsitwasyon, maaaringkailanganinmongbumili ng hardware sapagmiminagamitangmga bitcoin. Baka gusto mo ring tingnanang<a href="http://www.bitcoincharts.com/">mgatsart ng bitcoin>/a>. 
+Pagbili ng mga Bitcoin –Sailangsitwasyon, maaaringkailanganinmongbumili ng hardware sapagmiminagamitangmga bitcoin. Baka gusto mo ring tingnanang<a href="http://www.bitcoincharts.com/">mgatsart ng bitcoin</a>. 
 
 <h2>PaanoMagsisimulasaPagmimina ng Bitcoin</h2>
 
