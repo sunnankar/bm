@@ -8,7 +8,8 @@ published: true
 ---
 
 თქვენ შეისწავლით იმას (1), თუ როგორ მუშაობს bitcoin-ის მოპოვების საქმე, (2) თუ როგორ დაიწყოთ bitcoin-ების მოპოვება, (3) რომელია bitcoin-თა მოპოვების საუკეთესო პროგრამული უზრუნველყოფა, (4) რომელია <a href="https://www.bitcoinmining.com/bitcoin-mining-hardware/">bitcoin-თა მოპოვების საუკეთესო აპარატურა</a>, (5) თუ სად იპოვოთ bitcoin-თა მოპოვების საუკეთესო ფონდი (პული) და (6) როგორ გაუკეთოთ ოპტიმიზაცია თქვენს bitcoin-თა გამომუშავებას.
-
+<center><iframe width="700" height="394" src="https://www.youtube.com/embed/GmOzih6I1zs" frameborder="0" allowfullscreen></iframe>
+<hr style="width: 100%; margin: 20px 0; color: #eee;" /></center>
 Bitcoin-ების მოპოვების <a href="https://www.bitcoinmining.com/bitcoin-mining-profitability/">განხორციელება მოგებით ძნელია</a>, მაგრამ თუ სცდით მაშინ ეს Bitcoin-ების მომპოვებელი შესაძლოა კარგი გასროლა იყოს.
 
 <h2>როგორ მუშაობს Bitcoin-თა მოპოვების საქმე</h2>
