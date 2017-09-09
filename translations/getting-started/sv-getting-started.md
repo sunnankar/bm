@@ -9,7 +9,8 @@ published: true
 
 
 Du kommer att lära dig (1) hur skapande av Bitcoin fungerar, (2) hur du börjar skapa Bitcoins, (3) vilken den bästa mjukvaran är för skapande av Bitcoin, (4) vilken den <a href="https://www.bitcoinmining.com/bitcoin-mining-hardware/">bästa hårdvaran är för skapande av Bitcoin</a> är, (5) var du kan hitta de bästa genereringspoolerna för Bitcoin och (6) hur du optimerar dina intäkter av Bitcoin.
-
+<center><iframe width="700" height="394" src="https://www.youtube.com/embed/GmOzih6I1zs" frameborder="0" allowfullscreen></iframe>
+<hr style="width: 100%; margin: 20px 0; color: #eee;" /></center>
 Att skapa Bitcoin är <a href="https://www.bitcoinmining.com/bitcoin-mining-profitability/">svårt att göra med vinst </a>men om du försöker så är enna <a href="http://geni.us/37CM">Bitcoin miner</a> troligen att rekommendera. 
 
 <h2>Hur skapande av Bitcoin fungerar</h2>
