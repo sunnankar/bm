@@ -8,7 +8,8 @@ published: true
 ---
 
 Θαμάθεις(1) πώςλειτουργείτοbitcoin, (2) πώςναξεκινήσειςτηνεξόρυξηbitcoin, (3) ποιοείναιτοκαλύτερολογισμικόγιατηνεξόρυξη bitcoin, (4) ποιο είναι το <a href="https://www.bitcoinmining.com/bitcoin-mining-hardware/">καλύτερο υλικό για την εξόρυξη bitcoin</a>, (5) πού να βρεις τα καλύτερα pool εξόρυξηςκαι (6) πώς να βελτιστοποιήσεις τα κέρδη σου από το bitcoin.
-
+<center><iframe width="700" height="394" src="https://www.youtube.com/embed/GmOzih6I1zs" frameborder="0" allowfullscreen></iframe>
+<hr style="width: 100%; margin: 20px 0; color: #eee;" /></center>
 Ηεξόρυξηbitcoinείναι <a href="https://www.bitcoinmining.com/bitcoin-mining-profitability/">δύσκολοναγίνειμεκέρδος</a> αλλάανπροσπαθήσεις τότε αυτός ο <a href="http://geni.us/37CM">εξοπλισμός εξόρυξης bitcoin</a> είναι μάλλον μια καλή επιλογή. 
 
 <h2>ΠώςΛειτουργείηΕξόρυξηBitcoin</h2>
