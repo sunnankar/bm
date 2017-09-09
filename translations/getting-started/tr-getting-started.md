@@ -8,7 +8,8 @@ published: true
 ---
 
 (1) bitcoin madenciliğinin nasıl çalıştığını, (2) bitcoin madenciliği yapmaya nasıl başlanacağını, (3) en iyi bitcoin madenciliği yazılımının ne olduğunu, (4) <a href="https://www.bitcoinmining.com/bitcoin-mining-hardware/">en iyi bitcoin madenciliği donanımının</a> ne olduğunu, (5) en iyi bitcoin madenciliği havuzlarının nerede bulunacağını ve (6) bitcoin kazançlarınızı nasıl optimize edeceğinizi öğreneceksiniz.
-
+<center><iframe width="700" height="394" src="https://www.youtube.com/embed/GmOzih6I1zs" frameborder="0" allowfullscreen></iframe>
+<hr style="width: 100%; margin: 20px 0; color: #eee;" /></center>
 Bitcoin madenciliğini <a href="https://www.bitcoinmining.com/bitcoin-mining-profitability/">kârlı biçimde yapmak zordur</a>, ama eğer deniyorsanız bu <a href="http://geni.us/37CM">Bitcoin madencisi</a> muhtemelen iyi bir denemedir. 
 
 <h2>Bitcoin Madenciliği Nasıl Çalışır</h2>
