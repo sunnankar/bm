@@ -8,7 +8,8 @@ published: true
 ---
 
 Matututunanmo kung (1) paanogumaganaangpagmimina ng bitcoin, (2) paanomagsisimulangmagmina ng mga bitcoin, (3) anoangpinakamgandang software sapagmimina ng bitcoin, (4) anoang <a href="https://www.bitcoinmining.com/bitcoin-mining-hardware/">pinakamahusayna hardware sapagmimina ng bitcoin</a>, (5) saanmahahanapangpinakamagandangpagmiminahan ng bitcoin (6) paanomao-optimize angiyongmgakikitaing bitcoin.
-
+<center><iframe width="700" height="394" src="https://www.youtube.com/embed/GmOzih6I1zs" frameborder="0" allowfullscreen></iframe>
+<hr style="width: 100%; margin: 20px 0; color: #eee;" /></center>
 Angpagmimina ng bitcoin ay <a href="https://www.bitcoinmining.com/bitcoin-mining-profitability/">mahirappagkakitaan</a> perokungsusubokka, malamang ay magandangsumubokgamitang <a href="http://geni.us/37CM">Pangmina ng bitcoin</a> naito.
 
 <h2>PaanoGumaganaangPagmimina ng Bitcoin</h2>
