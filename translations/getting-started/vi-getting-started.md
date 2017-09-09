@@ -8,7 +8,8 @@ published: true
 ---
 
 Bạn sẽ tìm hiểu (1) cơ chế đào Bitcoin, (2) cách bắt đầu đào Bitcoin, (3) phần mềm đào Bitcoin tốt nhất là gì, (4) <a href="https://www.bitcoinmining.com/bitcoin-mining-hardware/">phần cứng đào Bitcoin tốt nhất</a> là gì, (5) nơi có những mỏ đào Bitcoin tốt nhất (6) cách tối ưu hóa thu nhập Bitcoin của bạn.
-
+<center><iframe width="700" height="394" src="https://www.youtube.com/embed/GmOzih6I1zs" frameborder="0" allowfullscreen></iframe>
+<hr style="width: 100%; margin: 20px 0; color: #eee;" /></center>
 <a href="http://geni.us/37CM">Khó kiếm lời</a> từ việc đào Bitcoin nhưng nếu bạn dùng thử <a href="https://www.bitcoinmining.com/bitcoin-mining-profitability/">máy đào Bitcoin</a> này, chắc chắn bạn sẽ có khởi đầu thuận lợi. 
 
 <h2>Cơ chế Đào Bitcoin</h2>
