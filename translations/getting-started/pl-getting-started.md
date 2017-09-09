@@ -8,7 +8,8 @@ published: true
 ---
 
 Dowiesz się, (1) jak działa wykopywanie bitcoinów, (2) jak zacząć wykopywać bitcoiny, (3) jakie jest najlepsze oprogramowanie do wykopywania bitcoinów, (4) jaki jest <a href="https://www.bitcoinmining.com/bitcoin-mining-hardware/">najlepszy sprzęt komputerowy do wykopywania bitcoinów</a>, (5) gdzie znaleźć najlepsze kopalnie do wykopywania bitcoinów oraz (6) jak zoptymalizować zarabianie bitcoinów.
-
+<center><iframe width="700" height="394" src="https://www.youtube.com/embed/GmOzih6I1zs" frameborder="0" allowfullscreen></iframe>
+<hr style="width: 100%; margin: 20px 0; color: #eee;" /></center>
 <a href="https://www.bitcoinmining.com/bitcoin-mining-profitability/">Trudno jest wykopywać bitcoiny z zyskiem</a>, jeśli się jednak tego próbuje, to zapewne warto dać szansę tej <a href="http://geni.us/37CM">koparce do wykopywania bitcoinów</a>. 
 
 <h2>Jak działa wykopywanie waluty Bitcoin</h2>
