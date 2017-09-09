@@ -8,7 +8,8 @@ published: true
 ---
 
 ທ່ານຈະຮຽນຮູ້ (1) ວິທີທີ່ໂປຣແກຣມຫາເງິນBitcoin ເຮັດວຽກ, (2) ວິທີທີ່ເລີ່ມໃຊ້ໂປຣແກມເງິນBitcoin, (3) ໂປຣແກມຊອບແວຫາເງິນBitcoin ທີ່ດີສຸດແມ່ນຫຍັງ, (4) ອຸປະກອນຮາດແວຫາເງິນBitcoinທີ່ດີທີ່ສຸດແມ່ນຫຍັງ, (5)ຊອກຫາກຸ່ມຫາເງິນ Bitcoin ທີ່ດີສຸດໄດ້ຢູ່ໃສ່ ແລະ (6) ວິທີເພີ່ມລາຍໄດ້ຈາກໂປຣແກມBitcoinຂອງທ່ານໃຫ້ຫລາຍທີ່ສຸດ.
-
+<center><iframe width="700" height="394" src="https://www.youtube.com/embed/GmOzih6I1zs" frameborder="0" allowfullscreen></iframe>
+<hr style="width: 100%; margin: 20px 0; color: #eee;" /></center>
 ການຫາເງິນ Bitcoin ແມ່ນຫຍຸ້ງຍາກໃນການເຮັດໃຫ້ມີກໍາໄລ ແຕ່ຖ້າທ່ານລອງໃຊ້ໂປຣແກມນັກຫາເງິນBitcoinແມ່ນຖືວ່າເປັນໂອກາດທີ່ດີ. 
 
 <h2>ວິທີທີ່ໂປຣແກມຫາເງິນ Bitcoin ເຮັດວຽກ</h2>
