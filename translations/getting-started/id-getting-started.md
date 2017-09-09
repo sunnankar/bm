@@ -8,7 +8,8 @@ published: true
 ---
 
 Anda akan belajar (1) bagaimana cara kerja menambang bitcoin, (2) bagaimana cara mulai menambang bitcoin, (3) peranti lunak terbaik untuk menambang bitcoin, (4) <a href="https://www.bitcoinmining.com/bitcoin-mining-hardware/">peranti keras terbaik untuk menambang bitcoin</a>, (5) di mana kumpulan penambang terbaik, dan (6) cara mengoptimalkan pendapatan bitcoin Anda.
-
+<center><iframe width="700" height="394" src="https://www.youtube.com/embed/GmOzih6I1zs" frameborder="0" allowfullscreen></iframe>
+<hr style="width: 100%; margin: 20px 0; color: #eee;" /></center>
 Menambang bitcoin <a href="https://www.bitcoinmining.com/bitcoin-mining-profitability/">sulit dilakukan secara menguntungkan</a> tetapi jika Anda ingin mencobanya maka <a href="http://geni.us/37CM">panduan menambang Bitcoin</a> ini mungkin pilihan yang bagus. 
 
 <h2>Bagaimana Cara Kerja Menambang Bitcoin</h2>
