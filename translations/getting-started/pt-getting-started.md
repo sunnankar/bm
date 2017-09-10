@@ -8,7 +8,8 @@ published: true
 ---
 
 Você aprenderá (1) como funciona a mineração de bitcoins, (2) como começar a minerar, (3) qual é o melhor software para mineração, (4) qual é o melhor equipamento para mineração de bitcoin, (5) onde encontrar as melhores pools de mineração e (6) como otimizar seus ganhos em Bitcoin.
-
+<center><iframe width="700" height="394" src="https://www.youtube.com/embed/GmOzih6I1zs" frameborder="0" allowfullscreen></iframe>
+<hr style="width: 100%; margin: 20px 0; color: #eee;" /></center>
 É difícil minerar bitcoins de maneira rentável, mas se quiser tentar, esse minerador Bitcoin é uma boa opção.
 
 <h2>Como Funciona a Mineração de Bitcoin</h2>

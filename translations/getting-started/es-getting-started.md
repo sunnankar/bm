@@ -8,7 +8,8 @@ published: true
 ---
 
 Aprenderás cómo funciona la minería bitcoin, 2) cómo comenzar a minar bitcoins, 3) cuál es el mejor software de minería de bitcoins, (4) cuál es el mejor hardware de minería de bitcoin, (5) dónde encontrar las mejores bases de minería de bitcoin y (6) cómo optimizar tus ganancias en bitcoin.
-
+<center><iframe width="700" height="394" src="https://www.youtube.com/embed/GmOzih6I1zs" frameborder="0" allowfullscreen></iframe>
+<hr style="width: 100%; margin: 20px 0; color: #eee;" /></center>
 La minería bitcoin es difícil de hacer rentable pero si lo intentas entonces el minero de Bitcoin probablemente es una buena opción. 
 
 <h2>Cómo funciona la minería de Bitcoin</h2>
