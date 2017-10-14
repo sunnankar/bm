@@ -116,7 +116,7 @@
     comm_ports: Ethernet
     dev_friendly: GPL infringement
     gsg: https://www.bitcoinmining.com/antminer-s3-bitcoin-miner-setup/
-    buy: http://geni.us/37CM
+    buy: http://geni.us/tablehf
     btcpm: 0.1645
     img: bitcoin-miner-antminer-s7-small.jpg
     cat: featured
@@ -137,7 +137,7 @@
     comm_ports: Ethernet
     dev_friendly: GPL infringement
     gsg: https://www.bitcoinmining.com/antminer-s3-bitcoin-miner-setup/
-    buy: http://geni.us/antminers9search
+    buy: http://geni.us/tablehf
     btcpm: 0.3603
     img: bitcoin-miner-antminer-s9.jpg
     cat: featured
@@ -174,7 +174,7 @@
     comm_ports: USB
     dev_friendly: code
     gsg: /usb-bitcoin-miner-setup-guide/
-    buy: http://geni.us/bitmainu2
+    buy: http://geni.us/tablehf
     btcpm: 0.0002
     weight: 0.8 ounces
     cat: usbminer
@@ -382,7 +382,7 @@
     comm_ports: USB or Ethernet
     dev_friendly: code, docs, samples
     gsg: 
-    buy: http://geni.us/3upk
+    buy: http://geni.us/tablehf
     btcpm: 0.1232
     weight: 9.5 pounds
     cat: featured
@@ -997,7 +997,7 @@
     comm_ports: USB
     dev_friendly: code, samples
     gsg: https://www.bitcoinmining.com/usb-bitcoin-miner-setup-guide/
-    buy: http://geni.us/bitfuryredfury
+    buy: http://geni.us/tablehf
     btcpm: 0.00021
     img: bitcoin-miner-bitfury-usb.jpg
     cat: usbminer
@@ -1137,7 +1137,7 @@
     comm_ports: Ethernet
     dev_friendly: code, samples
     gsg: https://www.bitcoinmining.com/spondoolies-tech-SP20-bitcoin-miner-setup/
-    buy: http://geni.us/3mnh
+    buy: http://geni.us/tablehf
     btcpm: 0.0599
     img: bitcoin-miner-spondoolies-small.jpg
     cat:
@@ -1294,7 +1294,7 @@
     comm_ports: USB
     dev_friendly: code, samples
     gsg: /usb-bitcoin-miner-setup-guide/
-    buy: http://geni.us/gekkoscienceusb
+    buy: http://geni.us/tablehf
     btcpm: 0.0003    
     weight: 0.8 ounces
     cat: 
@@ -1315,7 +1315,7 @@
     comm_ports: USB
     dev_friendly: code, samples
     gsg: /usb-bitcoin-miner-setup-guide/
-    buy: http://geni.us/gekkoscienceusb
+    buy: http://geni.us/tablehf
     btcpm: 0.0003    
     weight: 0.8 ounces
     cat: usbminer
