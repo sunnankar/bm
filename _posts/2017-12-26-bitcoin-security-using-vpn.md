@@ -15,13 +15,13 @@ published: true
 
 <center><img src="/images/safe-online-101.jpg" alt="bitcoin safe online"></center>
 
-<p>One of the best ways to ensure that your data and information is kept as safe as possible is to use a VPN whenever you go online and you can install one across your devices. It can be hard to find the best VPN as there are so many options out there.There are a number of detailed, and more importantly objective, guides out there like thisNordVPN review which can help you identify the right VPN for your computing and security needs. </p>
+<p>One of the best ways to ensure that your data and information is kept as safe as possible is to use a VPN whenever you go online and you can install one across your devices. It can be hard to find the best VPN as there are so many options out there.There are a number of detailed, and more importantly objective, guides out there like this <a href="https://securethoughts.com/nordvpn-review/">NordVPN review</a> which can help you identify the right VPN for your computing and security needs. </p>
 
 <p>VPN stands for virtual private network and in essence it can create a network, within a network, that acts as bubble to keep your browsing session separate from others. If I haven’t already convinced you about the wonders of a VPN then here are two reasons you, as a <a href="/bitcoin-mining-for-beginners-how-to-mine-bitcoins/">bitcoin user</a>, should install one right now!</p>
 
 <h4>They Keep You Safe On Public Wifi</h4>
 
-<p>Sometimes you have to use wifi when you are away from your home network and your office but still need to get connected. This means going to a coffee shop or a restaurant where they offer wifi for the public. These networks, while ultra-convenient, are very unsafe and usually targets for online thieves looking to get some of your private info. </p>
+<p>Sometimes you have to use wifi when you are away from your home network and your office but still need to get connected. This means going to a coffee shop or a restaurant where they offer wifi for the public. These networks, while ultra-convenient, <a href="https://www.howtogeek.com/178696/why-using-a-public-wi-fi-network-can-be-dangerous-even-when-accessing-encrypted-websites/">are very unsafe and usually targets</a> for online thieves looking to get some of your private info. </p>
 
 <p>With so much important bitcoin related data it's vital to keep it safe and out of the hands of people who want to steal it.This is where a VPN comes in, it creates your own little space within a public network that is totally private. It takes you out of the public milieu and gives you a VIP spot where your browsing experience and your data is well guarded. </p>
 
