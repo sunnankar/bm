@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Bitcoin Data Security Online
-description: Bitcoin Data Security Online
+title: Two Reasons All Bitcoin Users Should Install a VPN Right Now
+description: Two Reasons All Bitcoin Users Should Install a VPN Right Now
 author: BitcoinMining
 authorurl: /
 published: true
