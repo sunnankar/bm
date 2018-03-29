@@ -2,7 +2,7 @@
 title: Decentralized casinos expected to take over the online gambling industry
 description: Decentralized casinos expected to take over the online gambling industry
 author: Christina Farkas
-authorurl: /
+authorurl: /christina-farkas/
 published: true
 layout: post
 ---
