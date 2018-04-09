@@ -1,7 +1,7 @@
 ---
 title: How To Get Started With Bitcoin Gambling?
 description: How To Get Started With Bitcoin Gambling?
-author: WeUseCoins
+author: BitcoinMining
 authorurl: /
 published: true
 layout: post
