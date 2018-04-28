@@ -42,6 +42,8 @@ Although Ethereum has only recently gained popularity, there are already a few E
 
 * [EthPool](http://ethpool.org)
 * [Ethereum Nanopool](http://eth.nanopool.org/)
+* [2Miners](https://2miners.com/eth-mining-pool)
+
 
 ## Get an Ethereum Wallet
 
