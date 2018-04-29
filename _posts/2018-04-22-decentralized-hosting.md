@@ -2,7 +2,7 @@
 title: Decentralized Hosting - How Does It Really Work?
 description: Decentralized Hosting is getting more popular by the day, but is it really that good, and is it simple enough to use for everyone? Let's find out..
 author: Evan Andrews
-authorurl: /evan-andrews/
+authorurl: https://www.linkedin.com/in/evan-andrews-1a38b36/
 published: true
 layout: post
 ---
