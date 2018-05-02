@@ -42,7 +42,7 @@ toc:
 
 <h2 id="bmpo">Bitcoin Mining Pool Options</h2>
 
-<p>For a fully decentralized pool, we highly recommend <a rel="nofollow" target="_blank" href="http://p2pool.in">p2pool</a>.</p>
+<p>For a fully decentralized pool, we highly recommend <a rel="nofollow" target="_blank" href="http://p2pool.in">p2pool</a> or <a rel="nofollow" target="_blank" href="http://multipool.us">Multipool</a>.</p>
 
 <p>The following pools are believed to be <b>currently fully validating blocks</b> with Bitcoin Core 0.11 or later:</p>
 
