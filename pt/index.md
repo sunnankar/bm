@@ -79,7 +79,7 @@ toc:
 <h3 id="what-is-blockchain">O que é Blockchain?</h3>
 <center><iframe width="700" height="394" src="https://www.youtube.com/embed/YIVAluSL9SU" frameborder="0" allowfullscreen></iframe></center>
 <p><a href="http://bitcoinminer.com/">Mineração de Bitcoin</a> é intencionalmente projetada para ser difícil e intensiva em recursos para que o número de blocos minerados a cada dia permaneça estável. Blocos individuais devem conter uma <a href="/what-is-proof-of-work/">prova de trabalho</a> para serem considerados válidos. Esta prova de trabalho é verificada por outros nós Bitcoin cada vez que eles recebem um bloco. Bitcoin usa a função prova de trabalho <a href="/what-is-hashcash/">hashcash</a>.
-<p>O propósito primordial da mineração é permitir que os nós Bitcoin consenso em termos de segurança e resistência a fraudes. Minerar é também o mecanismo usado para introduzir Bitcoins no sistema: Mineradores recebem taxas por transação, bem como um subsídio de novas moedas postas em circulação.
+<p>O propósito primordial da mineração é permitir que os nós Bitcoin entrem em consenso para garantir a segurança e resistência a fraudes. Minerar é também o mecanismo usado para introduzir Bitcoins no sistema: Mineradores recebem taxas por transação, bem como um subsídio de novas moedas postas em circulação.
 <p>This both serves the purpose of disseminating new coins in a decentralized manner as well as motivating people to provide security for the system.
 <p>Mineração de Bitcoin is so called because it resembles the mining of other commodities: it requires exertion and it slowly makes new currency available at a rate that resembles the rate at which commodities like gold are mined from the ground.
 <h2 id="wipow">O que é prova de trabalho??</h2>
