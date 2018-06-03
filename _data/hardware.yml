@@ -1,0 +1,1322 @@
+-
+    product: AntMiner S1
+    advertised_mhashs: 180,000
+    advertised_ghashs: 180
+    mhashJ: 500
+    ghashJ: 0.5
+    mhash_s_usd: 800
+    ghash_s_usd: 0.8
+    watts: 360
+    powerefficiencywgh: 2.00
+    priceusd: 299.00
+    currently_shipping: Discontinued
+    comm_ports: Ethernet
+    dev_friendly: GPL infringement
+    gsg: 
+    buy: 
+    btcpm: 
+-
+    product: AntMiner S2
+    advertised_mhashs: 1,000,000
+    advertised_ghashs: 1,000
+    mhashJ: 900
+    ghashJ: 0.9
+    mhash_s_usd: 442
+    ghash_s_usd: 0.442
+    watts: 1100
+    powerefficiencywgh: 1.10
+    priceusd: 2259.00
+    currently_shipping: Discontinued
+    comm_ports: Ethernet
+    dev_friendly: GPL infringement
+    gsg: 
+    buy: 
+    btcpm: 
+-
+    product: AntMiner S3
+    advertised_mhashs: 441,000
+    advertised_ghashs: 441
+    mhashJ: 1300
+    ghashJ: 1.3
+    mhash_s_usd: 1154
+    ghash_s_usd: 1.154
+    watts: 340
+    powerefficiencywgh: 0.77
+    priceusd: 382.00
+    currently_shipping: Discontinued
+    comm_ports: Ethernet
+    dev_friendly: GPL infringement
+    gsg: 
+    buy: 
+    btcpm: 
+-
+    product: AntMiner S4 
+    advertised_mhashs: 2,000,000
+    advertised_ghashs: 2,000
+    mhashJ: 1429
+    ghashJ: 1.429
+    mhash_s_usd: 1429
+    ghash_s_usd: 1.429
+    watts: 1400
+    powerefficiencywgh: 0.70
+    priceusd: 1400.00
+    currently_shipping: Discontinued
+    comm_ports: Ethernet
+    dev_friendly: GPL infringement
+    gsg: 
+    buy: 
+    btcpm: 
+-
+    product: AntMiner S5 
+    advertised_mhashs: 1,155,000
+    advertised_ghashs: 1,155
+    mhashJ: 1957
+    ghashJ: 1.957
+    mhash_s_usd: 3121
+    ghash_s_usd: 3.121
+    watts: 590
+    powerefficiencywgh: 0.51
+    priceusd: 370.00
+    currently_shipping: Discontinued
+    comm_ports: Ethernet
+    dev_friendly: GPL infringement
+    gsg: 
+    buy: 
+    btcpm: 
+-
+    product: AntMiner S5+
+    advertised_mhashs: 7,722,000
+    advertised_ghashs: 7,722
+    mhashJ: 2247
+    ghashJ: 2.247
+    mhash_s_usd: 3347
+    ghash_s_usd: 3.347
+    watts: 3,436
+    powerefficiencywgh: 0.44
+    priceusd: 2307.00
+    currently_shipping: Yes
+    comm_ports: Ethernet
+    dev_friendly: GPL infringement
+    gsg: 
+    buy: 
+    btcpm: 
+-
+    product: AntMiner S7 
+    advertised_mhashs: 4,860,000
+    advertised_ghashs: 4,860
+    advertised_thashs: 4.73
+    mhashJ: 4000
+    ghashJ: 4
+    mhash_s_usd: 2666
+    ghash_s_usd: 2.666
+    watts: 1,210
+    powerefficiencywgh: 0.25
+    priceusd: 479.95
+    currently_shipping: No
+    comm_ports: Ethernet
+    dev_friendly: GPL infringement
+    gsg: https://www.bitcoinmining.com/antminer-s3-bitcoin-miner-setup/
+    buy: http://geni.us/tablehf
+    btcpm: 0.1645
+    img: bitcoin-miner-antminer-s7-small.jpg
+    cat: featured
+    weight: 8.8 pounds
+-
+    product: AntMiner S9
+    advertised_mhashs: 13,500,000
+    advertised_ghashs: 13,500
+    advertised_thashs: 13.5
+    mhashJ: 4000
+    ghashJ: 4
+    mhash_s_usd: 2666
+    ghash_s_usd: 2.666
+    watts: 1,372
+    powerefficiencywgh: 0.098
+    priceusd: 1,987.95
+    currently_shipping: Yes
+    comm_ports: Ethernet
+    dev_friendly: GPL infringement
+    gsg: https://www.bitcoinmining.com/antminer-s3-bitcoin-miner-setup/
+    buy: http://geni.us/tablehf
+    btcpm: 0.3603
+    img: bitcoin-miner-antminer-s9.jpg
+    cat: featured
+    weight: 8.1 pounds
+-
+    product: AntMiner U1 
+    advertised_mhashs: 1,600
+    advertised_ghashs: 2
+    mhashJ: 800
+    ghashJ: 0.8
+    mhash_s_usd: 55
+    ghash_s_usd: 0.055
+    watts: 2
+    powerefficiencywgh: 1.25
+    priceusd: 29.00
+    currently_shipping: Discontinued
+    comm_ports: USB
+    dev_friendly: code, samples
+    gsg: 
+    buy: 
+    btcpm: 
+-
+    product: AntMiner U2
+    advertised_mhashs: 2,000
+    advertised_ghashs: 2
+    mhashJ: 1,000
+    ghashJ: 1
+    mhash_s_usd: 115
+    ghash_s_usd: 0.115
+    watts: 2
+    powerefficiencywgh: 1.00
+    priceusd: 49.66
+    currently_shipping: Discontinued
+    comm_ports: USB
+    dev_friendly: code
+    gsg: /usb-bitcoin-miner-setup-guide/
+    buy: http://geni.us/tablehf
+    btcpm: 0.0002
+    weight: 0.8 ounces
+    cat: usbminer
+    img: usb-bitcoin-miner-antminer-u2.jpg
+-
+    product: AntMiner U3 
+    advertised_mhashs: 63,000
+    advertised_ghashs: 63
+    mhashJ: 1,000
+    ghashJ: 1
+    mhash_s_usd: 1658
+    ghash_s_usd: 1.658
+    watts: 63
+    powerefficiencywgh: 1.00
+    priceusd: 38.00
+    currently_shipping: Yes
+    comm_ports: USB
+    dev_friendly: code
+    gsg: 
+    buy: 
+    btcpm: 
+-
+    product: ASICMiner BE Blade
+    advertised_mhashs: 10,752
+    advertised_ghashs: 11
+    mhashJ: 129
+    ghashJ: 0.129
+    mhash_s_usd: 28
+    ghash_s_usd: 0.028
+    watts: 83
+    powerefficiencywgh: 7.72
+    priceusd: 350.00
+    currently_shipping: Discontinued
+    comm_ports: Ethernet
+    dev_friendly: samples
+    gsg: 
+    buy: 
+    btcpm: 
+-
+    product: ASICMiner BE Cube
+    advertised_mhashs: 30,000
+    advertised_ghashs: 30
+    mhashJ: 150
+    ghashJ: 0.15
+    mhash_s_usd: 55
+    ghash_s_usd: 0.055
+    watts: 200
+    powerefficiencywgh: 6.67
+    priceusd: 550.00
+    currently_shipping: Discontinued
+    comm_ports: Ethernet
+    dev_friendly: samples
+    gsg: 
+    buy: 
+    btcpm: 
+-
+    product: ASICMiner BE Sapphire
+    advertised_mhashs: 336
+    advertised_ghashs: 0
+    mhashJ: 130
+    ghashJ: 0.13
+    mhash_s_usd: 17
+    ghash_s_usd: 0.017
+    watts: 2.55
+    powerefficiencywgh: 7.59
+    priceusd: 20.00
+    currently_shipping: Discontinued
+    comm_ports: USB
+    dev_friendly: samples
+    gsg: 
+    buy: 
+    btcpm: 
+-
+    product: ASICMiner BE Tube
+    advertised_mhashs: 800,000
+    advertised_ghashs: 800
+    mhashJ: 888
+    ghashJ: 0.888
+    mhash_s_usd: 2500
+    ghash_s_usd: 2.5
+    watts: 900
+    powerefficiencywgh: 1.13
+    priceusd: 320.00
+    currently_shipping: Discontinued
+    comm_ports: Proprietary
+    dev_friendly: samples
+    gsg: 
+    buy: 
+    btcpm: 
+-
+    product: ASICMiner BE Prisma
+    advertised_mhashs: 1,400,000
+    advertised_ghashs: 1,400
+    mhashJ: 1333
+    ghashJ: 1.333
+    mhash_s_usd: 2333
+    ghash_s_usd: 2.333
+    watts: 1100
+    powerefficiencywgh: 0.79
+    priceusd: 600.00
+    currently_shipping: Discontinued
+    comm_ports: Proprietary
+    dev_friendly: No
+    gsg: 
+    buy: 
+    btcpm: 
+-
+    product: Avalon Batch 1
+    advertised_mhashs: 66,300
+    advertised_ghashs: 66
+    mhashJ: 107
+    ghashJ: 0.107
+    mhash_s_usd: 52.34
+    ghash_s_usd: 0.05234
+    watts: 620
+    powerefficiencywgh: 9.35
+    priceusd: 1299.00
+    currently_shipping: Discontinued
+    comm_ports: Ethernet, Wifi
+    dev_friendly: code
+    gsg: 
+    buy: 
+    btcpm: 
+-
+    product: Avalon Batch 2
+    advertised_mhashs: 82,000
+    advertised_ghashs: 82
+    mhashJ: 117
+    ghashJ: 0.117
+    mhash_s_usd: 54.7
+    ghash_s_usd: 0.0547
+    watts: 700
+    powerefficiencywgh: 8.54
+    priceusd: 1499.00
+    currently_shipping: Discontinued
+    comm_ports: Ethernet, Wifi
+    dev_friendly: code
+    gsg: 
+    buy: 
+    btcpm: 
+-
+    product: Avalon Batch 3
+    advertised_mhashs: 82,000
+    advertised_ghashs: 82
+    mhashJ: 117
+    ghashJ: 0.117
+    mhash_s_usd: 54.7
+    ghash_s_usd: 0.0547
+    watts: 700
+    powerefficiencywgh: 8.54
+    priceusd: 1499.00
+    currently_shipping: Discontinued
+    comm_ports: Ethernet, Wifi
+    dev_friendly: code
+    gsg: 
+    buy: 
+    btcpm: 
+-
+    product: Avalon2
+    advertised_mhashs: 300,000
+    advertised_ghashs: 300
+    mhashJ: x
+    ghashJ: x
+    mhash_s_usd: x
+    ghash_s_usd: x
+    watts: x
+    powerefficiencywgh: x
+    priceusd: 3075.00
+    currently_shipping: Discontinued
+    comm_ports: USB or Ethernet
+    dev_friendly: code, docs, samples
+    gsg: 
+    buy: 
+    btcpm: 
+-
+    product: Avalon3
+    advertised_mhashs: 800,000
+    advertised_ghashs: 800
+    mhashJ: x
+    ghashJ: x
+    mhash_s_usd: x
+    ghash_s_usd: x
+    watts: x
+    powerefficiencywgh: x
+    priceusd: x
+    currently_shipping: Discontinued
+    comm_ports: USB or Ethernet
+    dev_friendly: code, docs, samples
+    gsg: 
+    buy: 
+    btcpm: 
+-
+    product: Avalon6
+    advertised_mhashs: 800,000
+    advertised_ghashs: 800
+    advertised_thashs: 3.5
+    mhashJ: x
+    ghashJ: x
+    mhash_s_usd: x
+    ghash_s_usd: x
+    watts: x
+    powerefficiencywgh: 0.29
+    priceusd: 499.95
+    currently_shipping: Yes
+    comm_ports: USB or Ethernet
+    dev_friendly: code, docs, samples
+    gsg: 
+    buy: http://geni.us/tablehf
+    btcpm: 0.1232
+    weight: 9.5 pounds
+    cat: featured
+    img: avalon6-small.jpg    
+-
+    product: bi*fury
+    advertised_mhashs: 5,000
+    advertised_ghashs: 5
+    mhashJ: 1,176
+    ghashJ: 1.176
+    mhash_s_usd: 24
+    ghash_s_usd: 0.024
+    watts: 4.25
+    powerefficiencywgh: 0.85
+    priceusd: 209.00
+    currently_shipping: Discontinued
+    comm_ports: USB
+    dev_friendly: docs, samples
+    gsg: 
+    buy: 
+    btcpm: 
+-
+    product: BFL SC 5Gh/s
+    advertised_mhashs: 5,000
+    advertised_ghashs: 5
+    mhashJ: 166
+    ghashJ: 0.166
+    mhash_s_usd: 18.24
+    ghash_s_usd: 0.01824
+    watts: 30
+    powerefficiencywgh: 6.00
+    priceusd: 274.00
+    currently_shipping: Discontinued
+    comm_ports: USB
+    dev_friendly: docs, samples
+    gsg: 
+    buy: 
+    btcpm: 
+-
+    product: BFL SC 10 Gh/s
+    advertised_mhashs: 10,000
+    advertised_ghashs: 10
+    mhashJ: x
+    ghashJ: x
+    mhash_s_usd: 200
+    ghash_s_usd: 0.2
+    watts: x
+    powerefficiencywgh: x
+    priceusd: 50.00
+    currently_shipping: Yes
+    comm_ports: USB
+    dev_friendly: docs, samples
+    gsg: 
+    buy: 
+    btcpm: 
+-
+    product: BFL SC 25 Gh/s
+    advertised_mhashs: 25,000
+    advertised_ghashs: 25
+    mhashJ: 166
+    ghashJ: 0.166
+    mhash_s_usd: 20
+    ghash_s_usd: 0.02
+    watts: 150
+    powerefficiencywgh: 6.00
+    priceusd: 1249.00
+    currently_shipping: Discontinued
+    comm_ports: USB
+    dev_friendly: docs, samples
+    gsg: 
+    buy: 
+    btcpm: 
+-
+    product: BFL Little Single
+    advertised_mhashs: 30,000
+    advertised_ghashs: 30
+    mhashJ: x
+    ghashJ: x
+    mhash_s_usd: 46.22
+    ghash_s_usd: 0.04622
+    watts: x
+    powerefficiencywgh: x
+    priceusd: 649.00
+    currently_shipping: Discontinued
+    comm_ports: USB
+    dev_friendly: docs, samples
+    gsg: 
+    buy: 
+    btcpm: 
+-
+    product: BFL SC 50 Gh/s
+    advertised_mhashs: 50,000
+    advertised_ghashs: 50
+    mhashJ: 166
+    ghashJ: 0.166
+    mhash_s_usd: 50
+    ghash_s_usd: 0.05
+    watts: 300
+    powerefficiencywgh: 6.00
+    priceusd: 984.00
+    currently_shipping: Discontinued
+    comm_ports: USB
+    dev_friendly: docs, samples
+    gsg: 
+    buy: 
+    btcpm: 
+-
+    product: 'BFL Single ''SC'''
+    advertised_mhashs: 60,000
+    advertised_ghashs: 60
+    mhashJ: 250
+    ghashJ: 0.25
+    mhash_s_usd: 46.18
+    ghash_s_usd: 0.04618
+    watts: 240
+    powerefficiencywgh: 4.00
+    priceusd: 1299.00
+    currently_shipping: Discontinued
+    comm_ports: USB
+    dev_friendly: docs, samples
+    gsg: 
+    buy: 
+    btcpm: 
+-
+    product: BFL 230 GH/s Rack Mount
+    advertised_mhashs: 230,000
+    advertised_ghashs: 230
+    mhashJ: x
+    ghashJ: x
+    mhash_s_usd: 500
+    ghash_s_usd: 0.5
+    watts: x
+    powerefficiencywgh: x
+    priceusd: 399 (used)
+    currently_shipping: Discontinued
+    comm_ports: USB
+    dev_friendly: docs
+    gsg: 
+    buy: 
+    btcpm: 
+-
+    product: BFL 500 GH/s Mini Rig SC
+    advertised_mhashs: 500,000
+    advertised_ghashs: 500
+    mhashJ: 185
+    ghashJ: 0.185
+    mhash_s_usd: x
+    ghash_s_usd: x
+    watts: 2700
+    powerefficiencywgh: 5.40
+    priceusd: 22484.00
+    currently_shipping: Discontinued
+    comm_ports: Wifi
+    dev_friendly: docs, samples
+    gsg: 
+    buy: 
+    btcpm: 
+-
+    product: BFL Monarch 700GH/s
+    advertised_mhashs: 700,000
+    advertised_ghashs: 700
+    mhashJ: 1428
+    ghashJ: 1.428
+    mhash_s_usd: 508
+    ghash_s_usd: 0.508
+    watts: 490
+    powerefficiencywgh: 0.70
+    priceusd: 1379.00
+    currently_shipping: Yes
+    comm_ports: PCIe, USB
+    dev_friendly: docs, samples
+    gsg: 
+    buy: 
+    btcpm: 
+-
+    product: BitFury S.B.
+    advertised_mhashs: x
+    advertised_ghashs: x
+    mhashJ: x
+    ghashJ: x
+    mhash_s_usd: x
+    ghash_s_usd: x
+    watts: x
+    powerefficiencywgh: x
+    priceusd: x
+    currently_shipping: Discontinued
+    comm_ports: RPi GPIO
+    dev_friendly: No
+    gsg: 
+    buy: 
+    btcpm: 
+-
+    product: Bitmine.ch Avalon Clone 85GH
+    advertised_mhashs: 85,000
+    advertised_ghashs: 85
+    mhashJ: x
+    ghashJ: x
+    mhash_s_usd: 13
+    ghash_s_usd: 0.013
+    watts: 650
+    powerefficiencywgh: 7.65
+    priceusd: 6489.00
+    currently_shipping: Discontinued
+    comm_ports: Ethernet, Wifi, USB
+    dev_friendly: code
+    gsg: 
+    buy: 
+    btcpm: 
+-
+    product: Black Arrow Prospero X-1
+    advertised_mhashs: 100,000
+    advertised_ghashs: 100
+    mhashJ: 1000
+    ghashJ: 1
+    mhash_s_usd: 270
+    ghash_s_usd: 0.27
+    watts: 100
+    powerefficiencywgh: 1.00
+    priceusd: 370.00
+    currently_shipping: Discontinued
+    comm_ports: Ethernet
+    dev_friendly: docs, samples
+    gsg: 
+    buy: 
+    btcpm: 
+-
+    product: Black Arrow Prospero X-3
+    advertised_mhashs: 2,000,000
+    advertised_ghashs: 2,000
+    mhashJ: 1000
+    ghashJ: 1
+    mhash_s_usd: 333
+    ghash_s_usd: 0.333
+    watts: 2000
+    powerefficiencywgh: 1.00
+    priceusd: 6000.00
+    currently_shipping: Discontinued
+    comm_ports: Ethernet
+    dev_friendly: 
+    gsg: 
+    buy: 
+    btcpm: 
+-
+    product: Blue Fury
+    advertised_mhashs: 2,500
+    advertised_ghashs: 3
+    mhashJ: 1000
+    ghashJ: 1
+    mhash_s_usd: 17.8
+    ghash_s_usd: 0.0178
+    watts: 2.5
+    powerefficiencywgh: 1.00
+    priceusd: 140.00
+    currently_shipping: Discontinued
+    comm_ports: USB
+    dev_friendly: code, samples
+    gsg: 
+    buy: 
+    btcpm: 
+-
+    product: BTC Garden AM-V1 310 GH/s
+    advertised_mhashs: 310,000
+    advertised_ghashs: 310
+    mhashJ: 954
+    ghashJ: 0.954
+    mhash_s_usd: 1003
+    ghash_s_usd: 1.003
+    watts: 324
+    powerefficiencywgh: 1.05
+    priceusd: 309.00
+    currently_shipping: Discontinued
+    comm_ports: RPi GPIO
+    dev_friendly: No
+    gsg: 
+    buy: 
+    btcpm: 
+-
+    product: BTC Garden AM-V1 616 GH/s
+    advertised_mhashs: 616,000
+    advertised_ghashs: 616
+    mhashJ: 951
+    ghashJ: 0.951
+    mhash_s_usd: 1760
+    ghash_s_usd: 1.76
+    watts: 648
+    powerefficiencywgh: 1.05
+    priceusd: 350.00
+    currently_shipping: Discontinued
+    comm_ports: RPi GPIO
+    dev_friendly: No
+    gsg: 
+    buy: 
+    btcpm: 
+-
+    product: CoinTerra TerraMiner IV
+    advertised_mhashs: 1,600,000
+    advertised_ghashs: 1,600
+    mhashJ: x
+    ghashJ: x
+    mhash_s_usd: 1066.67
+    ghash_s_usd: 1.06667
+    watts: 2100
+    powerefficiencywgh: 1.31
+    priceusd: 1500.00
+    currently_shipping: Discontinued
+    comm_ports: Ethernet
+    dev_friendly: docs, code, samples
+    gsg: 
+    buy: 
+    btcpm: 
+-
+    product: Drillbit
+    advertised_mhashs: x
+    advertised_ghashs: x
+    mhashJ: x
+    ghashJ: x
+    mhash_s_usd: x
+    ghash_s_usd: x
+    watts: x
+    powerefficiencywgh: x
+    priceusd: x
+    currently_shipping: Discontinued
+    comm_ports: USB
+    dev_friendly: code, samples
+    gsg: 
+    buy: 
+    btcpm: 
+-
+    product: HashBuster Micro
+    advertised_mhashs: 20,000
+    advertised_ghashs: 20
+    mhashJ: 869
+    ghashJ: 0.869
+    mhash_s_usd: 29
+    ghash_s_usd: 0.029
+    watts: 23
+    powerefficiencywgh: 1.15
+    priceusd: 688.00
+    currently_shipping: Discontinued
+    comm_ports: USB
+    dev_friendly: docs, samples
+    gsg: 
+    buy: 
+    btcpm: 
+-
+    product: HashBuster Nano
+    advertised_mhashs: x
+    advertised_ghashs: x
+    mhashJ: x
+    ghashJ: x
+    mhash_s_usd: x
+    ghash_s_usd: x
+    watts: x
+    powerefficiencywgh: x
+    priceusd: x
+    currently_shipping: Discontinued
+    comm_ports: USB
+    dev_friendly: docs, samples
+    gsg: 
+    buy: 
+    btcpm: 
+-
+    product: HashCoins Apollo v3
+    advertised_mhashs: 1100000
+    advertised_ghashs: 1,100
+    mhashJ: xxxx
+    ghashJ: x
+    mhash_s_usd: x
+    ghash_s_usd: x
+    watts: 1000
+    powerefficiencywgh: 0.91
+    priceusd: 599.00
+    currently_shipping: Discontinued
+    comm_ports: USB
+    dev_friendly: No
+    gsg: 
+    buy: 
+    btcpm: 
+-
+    product: HashCoins Zeus v3
+    advertised_mhashs: 4,500,000
+    advertised_ghashs: 4,500
+    mhashJ: xxxx
+    ghashJ: x
+    mhash_s_usd: x
+    ghash_s_usd: x
+    watts: 3000
+    powerefficiencywgh: 0.67
+    priceusd: 2299.00
+    currently_shipping: Discontinued
+    comm_ports: USB
+    dev_friendly: No
+    gsg: 
+    buy: 
+    btcpm: 
+-
+    product: HashFast Baby Jet
+    advertised_mhashs: 400,000
+    advertised_ghashs: 400
+    mhashJ: 909
+    ghashJ: 0.909
+    mhash_s_usd: 71
+    ghash_s_usd: 0.071
+    watts: 440
+    powerefficiencywgh: 1.10
+    priceusd: 5600.00
+    currently_shipping: Discontinued
+    comm_ports: Ethernet, USB
+    dev_friendly: docs
+    gsg: 
+    buy: 
+    btcpm: 
+-
+    product: HashFast Sierra
+    advertised_mhashs: 1,200,000
+    advertised_ghashs: 1,200
+    mhashJ: 909
+    ghashJ: 0.909
+    mhash_s_usd: 169
+    ghash_s_usd: 0.169
+    watts: 1320
+    powerefficiencywgh: 1.10
+    priceusd: 7080.00
+    currently_shipping: Discontinued
+    comm_ports: USB
+    dev_friendly: docs, samples
+    gsg: 
+    buy: 
+    btcpm: 
+-
+    product: HashFast Sierra Evo 3
+    advertised_mhashs: 2,000,000
+    advertised_ghashs: 2,000
+    mhashJ: 909
+    ghashJ: 0.909
+    mhash_s_usd: 294
+    ghash_s_usd: 0.294
+    watts: 2200
+    powerefficiencywgh: 1.10
+    priceusd: 6800.00
+    currently_shipping: Discontinued
+    comm_ports: USB
+    dev_friendly: docs
+    gsg: 
+    buy: 
+    btcpm: 
+-
+    product: Klondike
+    advertised_mhashs: 5,200
+    advertised_ghashs: 5
+    mhashJ: 160
+    ghashJ: 0.16
+    mhash_s_usd: 260
+    ghash_s_usd: 0.26
+    watts: 32
+    powerefficiencywgh: 6.15
+    priceusd: 20.00
+    currently_shipping: Discontinued
+    comm_ports: USB
+    dev_friendly: samples
+    gsg: 
+    buy: 
+    btcpm: 
+-
+    product: KnCMiner Mercury
+    advertised_mhashs: 100,000
+    advertised_ghashs: 100
+    mhashJ: x
+    ghashJ: x
+    mhash_s_usd: 50.04
+    ghash_s_usd: 0.05004
+    watts: 250
+    powerefficiencywgh: 2.50
+    priceusd: 1995.00
+    currently_shipping: Discontinued
+    comm_ports: Ethernet
+    dev_friendly: code, samples
+    gsg: 
+    buy: 
+    btcpm: 
+-
+    product: KnC Saturn
+    advertised_mhashs: 250,000
+    advertised_ghashs: 250
+    mhashJ: 400
+    ghashJ: 0.4
+    mhash_s_usd: 66
+    ghash_s_usd: 0.066
+    watts: 300
+    powerefficiencywgh: 1.20
+    priceusd: 2995.00
+    currently_shipping: Discontinued
+    comm_ports: Ethernet
+    dev_friendly: code, samples
+    gsg: 
+    buy: 
+    btcpm: 
+-
+    product: KnC Jupiter
+    advertised_mhashs: 500,000
+    advertised_ghashs: 500
+    mhashJ: 400
+    ghashJ: 0.4
+    mhash_s_usd: 80
+    ghash_s_usd: 0.08
+    watts: 600
+    powerefficiencywgh: 1.20
+    priceusd: 4995.00
+    currently_shipping: Discontinued
+    comm_ports: Ethernet
+    dev_friendly: code, samples
+    gsg: 
+    buy: 
+    btcpm: 
+-
+    product: KnC Neptune
+    advertised_mhashs: 3,000,000
+    advertised_ghashs: 3,000
+    mhashJ: 1429
+    ghashJ: 1.429
+    mhash_s_usd: 231
+    ghash_s_usd: 0.231
+    watts: 2100
+    powerefficiencywgh: 0.70
+    priceusd: 12995.00
+    currently_shipping: Discontinued
+    comm_ports: Ethernet
+    dev_friendly: code, samples
+    gsg: 
+    buy: 
+    btcpm: 
+-
+    product: LittleFury
+    advertised_mhashs: x
+    advertised_ghashs: x
+    mhashJ: x
+    ghashJ: x
+    mhash_s_usd: x
+    ghash_s_usd: x
+    watts: x
+    powerefficiencywgh: x
+    priceusd: x
+    currently_shipping: Discontinued
+    comm_ports: USB
+    dev_friendly: docs, samples
+    gsg: 
+    buy: 
+    btcpm: 
+-
+    product: Metabank
+    advertised_mhashs: 120,000
+    advertised_ghashs: 120
+    mhashJ: 705
+    ghashJ: 0.705
+    mhash_s_usd: 56
+    ghash_s_usd: 0.056
+    watts: 170
+    powerefficiencywgh: 1.42
+    priceusd: 2160.00
+    currently_shipping: No
+    comm_ports: 
+    dev_friendly: code, samples
+    gsg: 
+    buy: 
+    btcpm: 
+-
+    product: NanoFury / IceFury
+    advertised_mhashs: 2,000
+    advertised_ghashs: 2
+    mhashJ: 800
+    ghashJ: 0.8
+    mhash_s_usd: x
+    ghash_s_usd: x
+    watts: 2.5
+    powerefficiencywgh: 1.25
+    priceusd: x
+    currently_shipping: Discontinued
+    comm_ports: USB
+    dev_friendly: code, docs, samples
+    gsg: 
+    buy: 
+    btcpm: 
+-
+    product: NanoFury NF2
+    advertised_mhashs: 3,700
+    advertised_ghashs: 4
+    mhashJ: 740
+    ghashJ: 0.74
+    mhash_s_usd: 74
+    ghash_s_usd: 0.074
+    watts: 5
+    powerefficiencywgh: 1.35
+    priceusd: 50.00
+    currently_shipping: Discontinued
+    comm_ports: USB
+    dev_friendly: code, docs, samples
+    gsg: 
+    buy: 
+    btcpm: 
+-
+    product: BPMC Red Fury USB
+    advertised_mhashs: 2,600
+    advertised_ghashs: 2.5
+    mhashJ: 1040
+    ghashJ: 1.04
+    mhash_s_usd: 4
+    ghash_s_usd: 0.004
+    watts: 2.5
+    powerefficiencywgh: 0.96
+    priceusd: 44.99
+    currently_shipping: Discontinued
+    comm_ports: USB
+    dev_friendly: code, samples
+    gsg: https://www.bitcoinmining.com/usb-bitcoin-miner-setup-guide/
+    buy: http://geni.us/tablehf
+    btcpm: 0.00021
+    img: bitcoin-miner-bitfury-usb.jpg
+    cat: usbminer
+    weight: 1.6 ounces
+-
+    product: ROCKMINER R3-BOX
+    advertised_mhashs: 450,000
+    advertised_ghashs: 450
+    mhashJ: 1000
+    ghashJ: 1
+    mhash_s_usd: 2250
+    ghash_s_usd: 2.25
+    watts: 450
+    powerefficiencywgh: 1.00
+    priceusd: 200.00
+    currently_shipping: Discontinued
+    comm_ports: USB
+    dev_friendly: code, samples
+    gsg: 
+    buy: 
+    btcpm: 
+-
+    product: ROCKMINER R4-BOX
+    advertised_mhashs: 470,000
+    advertised_ghashs: 470
+    mhashJ: 1000
+    ghashJ: 1
+    mhash_s_usd: 2238
+    ghash_s_usd: 2.238
+    watts: 470
+    powerefficiencywgh: 1.00
+    priceusd: 210.00
+    currently_shipping: Discontinued
+    comm_ports: USB
+    dev_friendly: code, samples
+    gsg: 
+    buy: 
+    btcpm: 
+-
+    product: ROCKMINER Rocket BOX
+    advertised_mhashs: 450,000
+    advertised_ghashs: 450
+    mhashJ: 937
+    ghashJ: 0.937
+    mhash_s_usd: 750
+    ghash_s_usd: 0.75
+    watts: 480
+    powerefficiencywgh: 1.07
+    priceusd: 599.00
+    currently_shipping: Discontinued
+    comm_ports: RPi GPIO
+    dev_friendly: 
+    gsg: 
+    buy: 
+    btcpm: 
+-
+    product: ROCKMINER R-BOX
+    advertised_mhashs: 32,000
+    advertised_ghashs: 32
+    mhashJ: 711
+    ghashJ: 0.711
+    mhash_s_usd: 500
+    ghash_s_usd: 0.5
+    watts: 45
+    powerefficiencywgh: 1.41
+    priceusd: 65.00
+    currently_shipping: Discontinued
+    comm_ports: USB
+    dev_friendly: code, samples
+    gsg: 
+    buy: 
+    btcpm: 
+-
+    product: ROCKMINER R-BOX 110G
+    advertised_mhashs: 110,000
+    advertised_ghashs: 110
+    mhashJ: 917
+    ghashJ: 0.917
+    mhash_s_usd: 1250
+    ghash_s_usd: 1.25
+    watts: 120
+    powerefficiencywgh: 1.09
+    priceusd: 88.00
+    currently_shipping: Discontinued
+    comm_ports: USB
+    dev_friendly: code, samples
+    gsg: 
+    buy: 
+    btcpm: 
+-
+    product: ROCKMINER T1 800G
+    advertised_mhashs: 800,000
+    advertised_ghashs: 800
+    mhashJ: 800
+    ghashJ: 0.8
+    mhash_s_usd: 2462
+    ghash_s_usd: 2.462
+    watts: 1000
+    powerefficiencywgh: 1.25
+    priceusd: 325.00
+    currently_shipping: Discontinued
+    comm_ports: USB
+    dev_friendly: code, samples
+    gsg: 
+    buy: 
+    btcpm: 
+-
+    product: Spondooliestech SP10 Dawson
+    advertised_mhashs: 1,400,000
+    advertised_ghashs: 1,400
+    mhashJ: 1120
+    ghashJ: 1.12
+    mhash_s_usd: 492
+    ghash_s_usd: 0.492
+    watts: 1250
+    powerefficiencywgh: 0.89
+    priceusd: 2845.00
+    currently_shipping: Discontinued
+    comm_ports: Ethernet
+    dev_friendly: code, samples
+    gsg: 
+    buy: 
+    btcpm: 0.1267
+-
+    product: SP20 Jackson
+    advertised_mhashs: 1,700,000
+    advertised_ghashs: 1,700
+    advertised_thashs: 1.3-1.7
+    mhashJ: 1545
+    ghashJ: 1.545
+    mhash_s_usd: 1299
+    ghash_s_usd: 1.299
+    watts: 1100
+    powerefficiencywgh: 0.65
+    priceusd: 248.99
+    currently_shipping: Discontinued
+    comm_ports: Ethernet
+    dev_friendly: code, samples
+    gsg: https://www.bitcoinmining.com/spondoolies-tech-SP20-bitcoin-miner-setup/
+    buy: http://geni.us/tablehf
+    btcpm: 0.0599
+    img: bitcoin-miner-spondoolies-small.jpg
+    cat:
+    weight: 20 pounds
+-
+    product: Spondooliestech SP30 Yukon
+    advertised_mhashs: 4,500,000
+    advertised_ghashs: 4,500
+    mhashJ: 1500
+    ghashJ: 1.5
+    mhash_s_usd: 1068
+    ghash_s_usd: 1.068
+    watts: 3000
+    powerefficiencywgh: 0.67
+    priceusd: 4121.00
+    currently_shipping: Discontinued
+    comm_ports: Ethernet
+    dev_friendly: code, samples
+    gsg: 
+    buy: 
+    btcpm: 
+-
+    product: Spondooliestech SP31 Yukon
+    advertised_mhashs: 4,900,000
+    advertised_ghashs: 4,900
+    mhashJ: 1633
+    ghashJ: 1.633
+    mhash_s_usd: 2361
+    ghash_s_usd: 2.361
+    watts: 3000
+    powerefficiencywgh: 0.61
+    priceusd: 2075.00
+    currently_shipping: Discontinued
+    comm_ports: Ethernet
+    dev_friendly: code
+    gsg: 
+    buy: 
+    btcpm: 
+-
+    product: Spondooliestech SP35 Yukon
+    advertised_mhashs: 5,500,000
+    advertised_ghashs: 5,500
+    mhashJ: 1506
+    ghashJ: 1.506
+    mhash_s_usd: 2460
+    ghash_s_usd: 2.46
+    watts: 3650
+    powerefficiencywgh: 0.66
+    priceusd: 2235.00
+    currently_shipping: Discontinued
+    comm_ports: Ethernet
+    dev_friendly: code
+    gsg: 
+    buy: 
+    btcpm: 
+-
+    product: TerraHash Klondike 16
+    advertised_mhashs: 4,500
+    advertised_ghashs: 5
+    mhashJ: 140
+    ghashJ: 0.14
+    mhash_s_usd: 18
+    ghash_s_usd: 0.018
+    watts: 32
+    powerefficiencywgh: 7.11
+    priceusd: 250.00
+    currently_shipping: No
+    comm_ports: USB
+    dev_friendly: samples
+    gsg: 
+    buy: 
+    btcpm: 
+-
+    product: TerraHash Klondike 64
+    advertised_mhashs: 18,000
+    advertised_ghashs: 18
+    mhashJ: 140
+    ghashJ: 0.14
+    mhash_s_usd: 20
+    ghash_s_usd: 0.02
+    watts: 127
+    powerefficiencywgh: 7.06
+    priceusd: 900.00
+    currently_shipping: No
+    comm_ports: USB
+    dev_friendly: samples
+    gsg: 
+    buy: 
+    btcpm: 
+-
+    product: TerraHash DX Mini (full)
+    advertised_mhashs: 90,000
+    advertised_ghashs: 90
+    mhashJ: 140
+    ghashJ: 0.14
+    mhash_s_usd: 15
+    ghash_s_usd: 0.015
+    watts: 640
+    powerefficiencywgh: 7.11
+    priceusd: 6000.00
+    currently_shipping: No
+    comm_ports: USB
+    dev_friendly: 
+    gsg: 
+    buy: 
+    btcpm: 
+-
+    product: TerraHash DX Large (full)
+    advertised_mhashs: 180,000
+    advertised_ghashs: 180
+    mhashJ: 140
+    ghashJ: 0.14
+    mhash_s_usd: 17.14
+    ghash_s_usd: 0.01714
+    watts: 1,280
+    powerefficiencywgh: 7.11
+    priceusd: 10500.00
+    currently_shipping: No
+    comm_ports: USB
+    dev_friendly: 
+    gsg: 
+    buy: 
+    btcpm: 
+-
+    product: Twinfury
+    advertised_mhashs: 4,500
+    advertised_ghashs: 5
+    mhashJ: 1174
+    ghashJ: 1.174
+    mhash_s_usd: 20
+    ghash_s_usd: 0.02
+    watts: 3.83
+    powerefficiencywgh: 0.85
+    priceusd: 216.00
+    currently_shipping: Discontinued
+    comm_ports: USB
+    dev_friendly: code, samples
+    gsg: 
+    buy: 
+    btcpm: 
+    
+-
+    product: Avalon USB Nano3
+    advertised_mhashs: 3,600
+    advertised_ghashs: 3.6
+    mhashJ: 1174
+    ghashJ: 1.174
+    mhash_s_usd: 20
+    ghash_s_usd: 0.02
+    watts: 3.83
+    powerefficiencywgh: 0.85
+    priceusd: 55.0
+    currently_shipping: Yes
+    comm_ports: USB
+    dev_friendly: code, samples
+    gsg: /usb-bitcoin-miner-setup-guide/
+    buy: http://geni.us/tablehf
+    btcpm: 0.0003    
+    weight: 0.8 ounces
+    cat: 
+    img: usb-bitcoin-miner-avalon-nano3.jpg
+    
+-
+    product: GekkoScience
+    advertised_mhashs: 9,500
+    advertised_ghashs: 9.5
+    mhashJ: 1174
+    ghashJ: 1.174
+    mhash_s_usd: 20
+    ghash_s_usd: 0.02
+    watts: 3.83
+    powerefficiencywgh: 0.33
+    priceusd: 49.97
+    currently_shipping: Yes
+    comm_ports: USB
+    dev_friendly: code, samples
+    gsg: /usb-bitcoin-miner-setup-guide/
+    buy: http://geni.us/tablehf
+    btcpm: 0.0003    
+    weight: 0.8 ounces
+    cat: usbminer
+    img: usb-bitcoin-miner-gekko-science.jpg

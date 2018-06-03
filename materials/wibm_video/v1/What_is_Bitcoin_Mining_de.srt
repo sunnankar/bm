@@ -1,0 +1,133 @@
+1
+00:00:00,500 --> 00:00:02,200
+Was ist Bitcoin-Mining?
+
+2
+00:00:02,400 --> 00:00:04,900
+Bitcoin basiert auf einem Peer-To-Peer Netzwerk.
+
+3
+00:00:05,060 --> 00:00:09,200
+Das bedeutet, jeder der Bitcoin nutzt ist
+auch Teil der Bitcoin-Bank.
+
+4
+00:00:09,679 --> 00:00:12,100
+Aber wie entstehen Bitcoins?
+
+5
+00:00:12,500 --> 00:00:17,000
+Beim herkömmlichen Geld entscheiden die Banken
+wie viel Geld gedruckt und ausgegeben wird.
+
+6
+00:00:17,300 --> 00:00:19,119
+Bitcoin hingegen besitzt keine
+zentrale Bank oder Regierung.
+
+7
+00:00:19,300 --> 00:00:22,400
+Beim Bitcoin benutzen Miner eine bestimmte Software
+um komplexe mathematische Rechenaufgaben zu lösen
+
+8
+00:00:22,640 --> 00:00:25,800
+und erhalten als Belohnung einen bestimmten Anteil Bitcoin.
+
+9
+00:00:26,200 --> 00:00:28,230
+Dadurch ist eine durchdachte Ausgabe von Bitcoin gewährleistet
+
+10
+00:00:28,400 --> 00:00:31,500
+und regt zudem weitere Nutzer an Bitcoins zu minen.
+
+11
+00:00:32,380 --> 00:00:35,510
+Da die Miner für das Genehmigen von Bitcoin
+Transaktionen verantwortlich sind
+
+12
+00:00:35,700 --> 00:00:37,700
+ist das Netzwerk umso sicherere je mehr Miner daran teilnehmen.
+
+13
+00:00:38,000 --> 00:00:42,210
+Das Bitcoin-Netzwerk passt die Mining-Schwierigkeit automatisch an
+
+14
+00:00:42,210 --> 00:00:44,300
+je nachdem wie schnell die mathematischen Formeln gelöst wird.
+
+15
+00:00:44,600 --> 00:00:49,350
+Zu Bitcoins Anfangszeiten lösten die Miner diese
+Matheaufgaben mit ihren heimischen Computern (CPU).
+
+16
+00:00:49,400 --> 00:00:54,900
+Jedoch merkten sie schnell dass die Grafikkarten (GPU)
+diese Matheaufgaben viel effizienter und schneller lösen.
+
+17
+00:00:55,400 --> 00:00:59,400
+Grafikkarten sind schneller, brauchen aber auch
+mehr Strom und erzeugen sehr viel Wärme.
+
+18
+00:01:00,100 --> 00:01:05,000
+Die ersten kommerziellen Miner hatten Chips verbaut
+die eigens für das Mining entwickelt wurden.
+
+19
+00:01:05,200 --> 00:01:08,000
+Diese Chips waren zwar schneller, benötigten aber
+auch dementsprechend viel Strom.
+
+20
+00:01:08,200 --> 00:01:13,300
+Somit wurden ASIC, oder Application Specific Integrated
+Circuit Chips extra für das Minen von Bitcoins entwickelt.
+
+21
+00:01:14,000 --> 00:01:17,900
+Die ASIC Technologie hat das Bitcoin-Mining schneller
+und weniger kostenintensiv gemacht.
+
+22
+00:01:20,500 --> 00:01:24,100
+Mit steigender Bekanntheit des Bitcoin-Mining nahmen
+auch zunhemend mehr Leute am Mining-Geschäft teil
+
+23
+00:01:24,300 --> 00:01:27,200
+was es für den Einzelnen schwieriger machte,
+die mathematischen Formeln zu lösen.
+
+24
+00:01:27,600 --> 00:01:31,540
+Um diesem Problem entgegen zu wirken, wurden Mining-Pools
+gegründet und man fing an mit vereinten Krften zu minen.
+
+25
+00:01:32,200 --> 00:01:35,720
+In einem Pool werden die Rechenaufgaben viel schneller gelöst
+
+26
+00:01:35,720 --> 00:01:39,680
+und jeder Miner wurde entsprechend nach seiner
+anteilig geleisteten Rechenkraft entlohnt.
+
+27
+00:01:40,200 --> 00:01:45,400
+Das Mining ist ein wichtiger und unverzichtbarer
+Bestandteil von Bitcoin der für Fairness sorgt und
+
+28
+00:01:45,500 --> 00:01:47,700
+das Bitcoin Netzwerk stabil, sicher und aufrecht.
+
+29
+00:01:48,000 --> 00:01:54,900
+Für mehr Informationen Bitcoin besuchen Sie:
+https://www.BitcoinMining.com/de/

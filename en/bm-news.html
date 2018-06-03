@@ -1,0 +1,86 @@
+---
+layout: default
+title: The Bitcoin Mining Blog
+description: Read the ten most recent Bitcoin Mining news articles
+permalink: /news/
+toc:
+  start: Getting Started
+  guides: Setup Guides
+  explainers: Explainers
+  altcoins: Alt-coins
+  opinion: Opinion
+  archive: Archive
+---
+
+<p>Read the ten most recent Bitcoin Mining news articles, review the <a href="#archive">Archives</a> or for general Bitcoin news visit <a href="https://www.weusecoins.com/news">WeUseCoins News</a>.
+
+  <ul>
+    {% for post in site.posts limit:10 %}
+      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+  </ul>
+
+{% include page-toc.html %}
+
+<p>Bitcoin has been in the news and discussed by many technological and political leaders. It has made international news with major countries declaring it legal and starting to regulate it including the United States, Russia, China, United Kingdom, Europe and Japan.
+
+Your journey to Bitcoin Mining has begun. We hope you find these articles very interesting and inspiring:
+
+<hr style="width: 100%; margin: 20px 0; color: #eee;" />
+  <a name="start" class="anchor"><h3 id="start">Getting Started</h3></a>
+<ul>
+<li><a href="/bitcoin-mining-for-beginners-how-to-mine-bitcoins/">Bitcoin Mining for Beginners</a></li>
+</ul>
+
+<hr style="width: 100%; margin: 20px 0; color: #eee;" />
+  <a name="guides" class="anchor"><h3 id="guides">Setup Guides</h3></a>
+<ul>
+<li><a href="/how-to-setup-bitcoin-mining-hardware-bitmain-antminer/">How To Setup Bitcoin Mining Hardware Bitmain Antminer S7 S5 and S3</a></li>
+<li><a href="/antminer-s3-bitcoin-miner-setup/">Antminer S5 and S3 - Bitcoin Mining Setup</a></li>
+<li><a href="/usb-bitcoin-miner-setup-guide/">USB - Bitcoin Mining Setup Guide</a></li>
+<li><a href="/spondoolies-tech-SP20-bitcoin-miner-setup/">Spondoolies Tech SP20 - Quick Start Guide</a></li>
+</ul>
+
+<hr style="width: 100%; margin: 20px 0; color: #eee;" />
+  <a name="explainers" class="anchor"><h3 id="explainers">Explainers</h3></a>
+<ul>
+<li><a href="/what-is-bitcoin-mining-difficulty/">What is Bitcoin mining difficulty?</a></li>
+<li><a href="/what-is-proof-of-work/">What is Proof of Work?</a></li>
+<li><a href="/what-is-hashcash/">What is Hashcash?</a></li>
+<li><a href="/what-is-the-bitcoin-block-reward/">What is the Bitcoin Mining Block Reward?</a></li>
+<li><a href="/is-bitcoin-mining-waste-electricity/">Is Bitcoin Mining a Waste of Electricity?</a></li>
+<li><a href="/how-are-new-bitcoins-created/">How are New Bitcoins Generated and Created?</a></li>
+<li><a href="/bitcoin-mining-fees/">How do Bitcoin Mining Fees Work?</a></li>
+<li><a href="/some-fast-facts-about-bitcoin-mining-14/">Some Fast Facts About Bitcoin Mining</a></li>
+<li><a href="/bitcoin-mining-its-about-solving-problems-27/">Bitcoin Mining – It’s About Solving Problems</a></li>
+<li><a href="/bitcoin-mining-heart-attack/">A Bitcoin Mining Heart Attack</a></li>
+<li><a href="/bitcoins-may-be-virtual-but-theyre-very-very-real-6/">Bitcoins May Be Virtual | But They Are Very Very Real</a></li>
+</ul>
+
+<hr style="width: 100%; margin: 20px 0; color: #eee;" />
+  <a name="altcoins" class="anchor"><h3 id="altcoins">Alt-coins</h3></a>
+<ul>
+<li><a href="/what-is-dogecoin-mining/">What is Dogecoin mining?</a></li>
+<li><a href="/what-is-litecoin-mining/">What is Litecoin mining?</a></li>
+<li><a href="/what-is-dash-mining/">What is DASH mining?</a></li>
+<li><a href="/ethereum-mining/">Ethereum Mining Guide</a></li>
+<li><a href="/what-is-ethereum-cloud-mining/">Ethereum cloud mining guide</a></li>
+</ul>
+
+<hr style="width: 100%; margin: 20px 0; color: #eee;" />
+  <a name="opinion" class="anchor"><h3 id="opinion">Opinion</h3></a>
+<ul>
+<li><a href="/banks-and-brokerages-should-be-mining-the-blockchain/">Banks and Brokerages Should Be Mining The Blockchain</a></li>
+<li><a href="/certain-traits-necessary-for-bitcoin-mining-success-21/">Certain Traits Necessary For Bitcoin Mining Success</a></li>
+<li><a href="/bitcoin-mining-pools-give-everyone-a-chance-to-be-involved-12/">Bitcoin Mining Pools Give Everyone a Chance To Be Involved</a></li>
+<li><a href="/avalon-wins-the-asic-race-sort-of-23/">Avalon Wins the ASIC Race – Sort Of</a>
+<li><a href="/bitcoin-mining-learn-foreign-exchange-traders/">What Bitcoin Mining Can Learn From Forex Traders</a>
+</ul>
+
+<hr style="width: 100%; margin: 20px 0; color: #eee;" />
+  <a name="archive" class="anchor"><h3 id="archive">Archive of all posts on Bitcoin Mining:</h3></a>
+<ul>
+	{% for post in site.posts %}
+	<li><a href="{{ post.url }}">{{ post.title }}</a></li>
+	{% endfor %}
+</ul>

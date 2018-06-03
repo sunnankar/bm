@@ -1,0 +1,91 @@
+<!DOCTYPE html>{% assign lang = page.lang %}{% assign t = site.data.translations[lang] %}
+<html lang="{{ lang }}">
+  <head>
+   <title>{% if page.seotitle %}{{ page.seotitle }}{% elsif page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
+
+    {% if page.description %}
+    <meta name="description" content="{{ page.description }}">
+    {% else %}
+    <meta name="description" content= "Anything" >
+    {% endif %}
+
+    {% include meta.html %}
+
+    <!--[if lt IE 9]>
+      <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+    <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
+    <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
+
+    <!-- Created with Jekyll Now -->
+    {% include javascript.html %}
+    {% include pushcrew.html %}
+  </head>
+
+  <body>
+    <div class="wrapper-masthead">
+      <div class="container">
+        <header class="masthead clearfix">
+          <a href="{{ site.baseurl }}/{% if lang != 'en' %}{{ lang }}/{% endif %}" class="site-avatar"><img src="{{ site.avatar }}" width="210" height="50"/></a>
+
+          <nav class="site-navigation">
+            {% for url in t.navigation %}
+              <a href="{{ site.baseurl }}/{% if lang != 'en' %}{{ lang }}/{% endif %}{{ url[0] }}/">{{ url[1] }}</a>
+            {% endfor %}
+          </nav>
+        </header>
+      </div>
+    </div>
+
+    <div id="main" role="main" class="container">
+      {% include social-shares.html %}
+      {% include header-banner.html %}
+      {{ content }}
+    </div>
+
+    <div class="wrapper-footer">
+      <div class="container">
+        <footer class="footer">
+          {% include ad-footer.html %}
+          {% include email-form.html %}
+
+          <p>
+            {% include svg-icons.html %}
+          </p>
+
+          <nav class="footer">
+            <a href="https://github.com/sunnankar/bm/">{{ t.footer.contribute }}</a>
+            {% for link in t.footer.links %}
+            <a href="{{ site.baseurl }}/{% if lang != 'en' %}{{ lang }}/{% endif %}{{ link[0] }}">{{ link[1] }}</a>
+            {% endfor %}
+          </nav>
+
+          <nav class="languages">
+            {% for language in site.data.translations %}
+              {% if language[0] == lang %}
+                {% continue %}
+              {% endif %}
+              <a href="{{ site.baseurl }}/{% if language[0] != 'en' %}{{ language[0] }}/{% endif %}">{{ language[1].native }}</a>
+            {% endfor %}
+          </nav>
+          Bitcoin Mining™® © 2011-2017 Hesiod Services LLC | <a href="{{ site.baseurl }}/terms/">Terms</a> |  <a href="{{ site.baseurl }}/privacy/">Privacy</a>
+          <p>
+        </footer>
+      </div>
+    </div>
+
+    {% if page.charts %}
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/1.0.2/Chart.min.js"></script>
+    <script src="{{ site.baseurl }}/assets/js/bitcoin-charts.js"></script>
+    <script>
+      {% for chart in page.charts %}
+      BitcoinCharts.initChart('{{ chart }}');
+      {% endfor %}
+    </script>
+    {% endif %}
+    {% include contribute-notif.html t=t %}
+    {% include analytics.html %}
+  </body>
+</html>

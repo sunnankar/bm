@@ -1,0 +1,69 @@
+en:
+  native: English
+  navigation:
+    getting-started: Start
+    bitcoin-mining-news: News
+    bitcoin-mining-pools: Pool
+    best-bitcoin-cloud-mining-contract-reviews: Cloud
+    bitcoin-mining-software: Software
+    bitcoin-mining-hardware: Hardware
+  footer:
+    contribute: Contribute
+    links:
+      advertise: Advertise
+      faq: FAQ
+      about-us: About Us
+  contribute-notif:
+    heading: Contribute and translate!
+    text: >
+          <p>We want to spread knowledge about Bitcoin everywhere, do you think you can help us increase our content or translate for those who don't speak English?</p>
+          <p>Visit us on <a href="%github-url%">GitHub</a> and learn how to contribute.</p>
+  post:
+    written-by: 'Written by <a href="%authorurl%">%author%</a> on %date%.'
+es:
+  native: Español
+  navigation:
+   iniciando: Iniciando
+   piscinas: Piscinas
+   nube: Nube
+   software: Software
+   hardware: Hardware
+  footer:
+   contribute: Contribuye
+   links:
+     patrocinio: Patrocinio
+     faq: FAQ
+     acerca: Acerca de Nosotros
+  contribute-notif:
+    heading: Contribuye y Traduce!
+    text: >
+         <p>Nosotros queremos expandir el conocimiento acerca de los Bitcoins donde sea, si crees que puedes ayudarnos con la traducción de nuestro contenido para aquellos que no hablan Ingles</p>
+         <p>Visitanos en <a href="%github-url%">GitHub</a> y aprende como contribuir.</p>
+  post:
+   written-by: 'Escrito por <a href="%authorurl%">%author%</a> el %date%.'
+de:
+  native: Deutsch
+  navigation:
+    erste-schritte: Erste Schritte
+  footer:
+    contribute: Beitragen
+    links:
+      werben: Werben
+  contribute-notif:
+    heading: Hilf uns und übersetze!
+    text: >
+          <p>Wir wollen Wissen über Bitcoin weltweit verbreiten, meinst du, du kannst uns helfen oder Inhalt für die, die eine andere Sprache sprechen übersetzen?</p>
+          <p>Schau vorbei auf <a href="%github-url%">GitHub</a> und lerne wie du beitragen kannst.</p>
+  post:
+    written-by: 'Geschrieben von <a href="%authorurl%">%author%</a> am %date%.'
+fr:
+  native: Français
+  contribute: Contribuer
+  post:
+    written-by: 'Écrit par <a href="%authorurl">%author%</a> le %date%.'
+nl:
+  native: Nederlands
+ru:
+  native: Pусский
+pt:
+  native: Português

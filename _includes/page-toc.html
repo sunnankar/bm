@@ -1,0 +1,8 @@
+<ul class="page-toc">
+  <li class="page-toc-title">Overview - Table of Contents</li>
+  {% for section in page.toc %}
+  <li><a href="#{{ section[0] }}">{{ section[1] }}</a></li>
+  {% else %}
+    You have to define a TOC in the Front Matter.
+  {% endfor %}
+</ul>

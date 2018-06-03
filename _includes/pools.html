@@ -1,0 +1,8 @@
+<p class="mining-pool">
+{% if pool.img %}
+<a href="{{ pool.url }}">
+<img src="/images/pools/{{ pool.img }}" />
+</a>
+{% endif %}
+<b><a href="{{ pool.url }}">{{ pool.pool }}</a></b>: {{ pool.desc }}
+</p>

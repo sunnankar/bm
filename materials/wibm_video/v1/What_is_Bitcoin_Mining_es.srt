@@ -1,0 +1,123 @@
+1
+00:00:00,500 --> 00:00:02,200
+¿Qué es la mineria de Bitcoin?
+
+2
+00:00:02,400 --> 00:00:04,900
+Bitcoin opera como red peer to peer.
+
+3
+00:00:05,060 --> 00:00:09,200
+Esto significa que cualquiera que use
+Bitcoin es una pequeña fracción de el banco of Bitcoin.
+
+4
+00:00:09,679 --> 00:00:12,100
+¿Pero de donde vienen los Bitcoins?
+
+5
+00:00:12,500 --> 00:00:17,000
+Con el papel moneda el govierno decide cuando imprimir y distribuir el dinero.
+
+6
+00:00:17,300 --> 00:00:19,119
+Bitcoin no tiene un govierno central.
+
+7
+00:00:19,300 --> 00:00:22,400
+Con Bitcoin los mineros usan un software
+especial para resolver problemas matematicos.
+
+8
+00:00:22,640 --> 00:00:25,800
+Y a cambio les emiten un número certero de Bitcoins como forma de  intercambio.
+
+9
+00:00:26,200 --> 00:00:28,230
+Esto proporciona una solución inteligente de emitir la moneda.
+
+10
+00:00:28,400 --> 00:00:31,500
+Y a la vez crea un incentivo para que más
+gente minee.
+
+11
+00:00:32,380 --> 00:00:35,510
+Ya que los mineros son requeridos para aprovar
+las transacciones de Bitcoin
+
+12
+00:00:35,700 --> 00:00:37,700
+más mineros significa una red más segura.
+
+13
+00:00:38,000 --> 00:00:42,210
+La red de Bitcoin automaticamente cambia la dificultad de los problemas matematicos
+
+14
+00:00:42,210 --> 00:00:44,300
+dependiendo en que tan rapido se resulevan los problemas matematicos.
+
+15
+00:00:44,600 --> 00:00:49,350
+En días tempranos, los mineros de Bitcoin resuelven estos problemas matematicos con el procesador de su computadora.
+
+16
+00:00:49,400 --> 00:00:54,900
+Los mineros descubrieron tempranamente que las tarjetas
+graficas usadas para juegos son mucho mejor siendo situadas para este tipo de trabajo.
+
+17
+00:00:55,400 --> 00:00:59,400
+Las tarjetas Graficas son rapidas,  Estas usan más electricidad y generan un monton de calor.
+
+18
+00:01:00,100 --> 00:01:05,000
+El primer producto comercial de mineria de Bitcoin incluia chips que eran reprogramados para la mineria de Bitcoin.
+
+19
+00:01:05,200 --> 00:01:08,000
+Estos chips eran rapidos pero seguia la electricidad seguia siendo una molestia.
+
+20
+00:01:08,200 --> 00:01:13,300
+ASIC, o aplicación integrada de circuitos,  dieño chips que eran especificamente para la mineria de Bitcoin.
+
+21
+00:01:14,000 --> 00:01:17,900
+La tecnologia ASIC hizo la mineria de Bitcoin más rapida usando menos electricidad.
+
+22
+00:01:20,500 --> 00:01:24,100
+Como la popularidad de Bitcoin aumentaba, más mineros se unieron a la red
+
+23
+00:01:24,300 --> 00:01:27,200
+haciendo más dificil a los individuos resolver los problemas matematicos.
+
+24
+00:01:27,600 --> 00:01:31,540
+Para superar esto, los mineros desarrollaron una forma de estar todos en piscinas.
+
+25
+00:01:32,200 --> 00:01:35,720
+Las piscinas de los mineros encuentran soluciones más rapidas
+qué como miembros individuales
+
+26
+00:01:35,720 --> 00:01:39,680
+y cada mineros es recompensado proporcionalmente por el monto de trabajo que el o ella proporcionó.
+
+27
+00:01:40,200 --> 00:01:45,400
+La Mineria es importante e integral
+parte de Bitcoin que asegura justicia mientras mantienen la
+
+28
+00:01:45,500 --> 00:01:47,700
+Red de Bitcoin estable, a salvo y segura.
+
+29
+00:01:48,000 --> 00:01:54,900
+Para Más Información
+acerca de la Mineria de Bitcoin visite: https://www.BitcoinMining.com

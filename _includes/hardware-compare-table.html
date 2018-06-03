@@ -1,0 +1,17 @@
+<tr>
+	<td class="miner-name">{{ miner.product }}</td>
+	<td class="miner-hash-s">
+	{% if miner.advertised_thashs != null %} 
+	{{ miner.advertised_thashs }} Th/s 
+	{% elsif miner.advertised_ghashs == 'x' %} 
+	N/A
+	{% elsif miner.advertised_ghashs != 'x' %} 
+	{{ miner.advertised_ghashs }} Gh/s 
+	{% else %} 
+	N/A 
+    {% endif %}
+    </td>
+	<td class="miner-pe">{% if miner.powerefficiencywgh == null or miner.powerefficiencywgh == 'x' %} N/A {% else %} {{ miner.powerefficiencywgh }} W/Gh {% endif %}</td>
+	<td class="miner-price">{% if miner.priceusd == null or miner.priceusd == 'x' %} N/A {% else %} ${{ miner.priceusd }} {% endif %}</td>
+</tr>
+ 

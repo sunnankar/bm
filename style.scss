@@ -1,0 +1,629 @@
+---
+---
+
+//
+// IMPORTS
+//
+
+@import "reset";
+@import "variables";
+// Syntax highlighting @import is at the bottom of this file
+
+/**************/
+/* BASE RULES */
+/**************/
+
+html {
+  font-size: 100%;
+}
+
+body {
+	background: $white;
+  font: 18px/1.4 $helvetica;
+  color: $darkGray;
+}
+
+.container {
+  margin: 0 auto;
+  max-width: 740px;
+  padding: 0 10px;
+  width: 100%;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: $helveticaNeue;
+  color: $darkerGray;
+  font-weight: bold;
+
+  line-height: 1.7;
+  margin: 1em 0 15px;
+  padding: 0;
+
+  @include mobile {
+    line-height: 1.4;
+  }
+}
+
+h1 {
+  font-size: 30px;
+  a {
+    color: inherit;
+  }
+}
+
+h2 {
+  font-size: 24px;
+}
+
+h3 {
+  font-size: 20px;
+}
+
+h4 {
+  font-size: 18px;
+  color: $gray;
+}
+
+p {
+  margin: 15px 0;
+}
+
+a {
+  color: $blue;
+  text-decoration: none;
+	cursor: pointer;
+  &:hover, &:active {
+    color: $blue;
+    text-decoration: underline;
+  }
+}
+
+ul, ol {
+  margin: 15px 0;
+  padding-left: 30px;
+}
+
+ul {
+  list-style-type: disc;
+}
+
+ol {
+  list-style-type: decimal;
+}
+
+iframe {
+  max-width: 100%;
+}
+
+ol ul, ul ol, ul ul, ol ol {
+  margin: 0;
+}
+
+ul ul, ol ul {
+  list-style-type: circle;
+}
+
+em, i {
+  font-style: italic;
+}
+
+strong, b {
+  font-weight: bold;
+}
+
+img {
+  max-width: 100%;
+}
+
+// Fixes images in popup boxes from Google Translate
+.gmnoprint img {
+  max-width: none;
+}
+
+.date {
+  font-style: italic;
+  color: $gray;
+}
+
+// Specify the color of the selection
+::-moz-selection {
+  color: $black;
+  background: $lightGray;
+}
+::selection {
+  color: $black;
+  background: $lightGray;
+}
+
+// Nicolas Gallagher's micro clearfix hack
+// http://nicolasgallagher.com/micro-clearfix-hack/
+.clearfix:before,
+.clearfix:after {
+    content: " ";
+    display: table;
+}
+
+.clearfix:after {
+    clear: both;
+}
+
+/*********************/
+/* LAYOUT / SECTIONS */
+/*********************/
+
+//
+// .masthead
+//
+
+.wrapper-masthead {
+  margin-bottom: 10px;
+}
+
+.masthead {
+  padding: 20px 0;
+  border-bottom: 1px solid $lightGray;
+
+  @include mobile {
+    text-align: center;
+  }
+}
+
+.site-avatar {
+  float: left;
+  width: 210px;
+  height: 50px;
+  margin-right: 15px;
+
+  @include mobile {
+    float: none;
+    display: block;
+    margin: 0 auto;
+  }
+
+  img {
+    border-radius: 5px;
+  }
+}
+
+.site-info {
+  float: left;
+
+  @include mobile {
+    float: none;
+    display: block;
+    margin: 0 auto;
+  }
+}
+
+.site-name {
+  margin: 0;
+  color: $darkGray;
+  cursor: pointer;
+  font-family: $helveticaNeue;
+  font-weight: 300;
+  font-size: 28px;
+  letter-spacing: 1px;
+}
+
+.site-description {
+  margin: -5px 0 0 0;
+  color: $gray;
+  font-size: 16px;
+
+  @include mobile {
+    margin: 3px 0;
+  }
+}
+
+nav.site-navigation {
+  float: right;
+  margin-top: 23px; // @TODO: Vertically middle align
+  font-family: $helveticaNeue;
+  font-size: 18px;
+
+  @include mobile {
+    float: none;
+    margin-top: 9px;
+    display: block;
+    font-size: 16px;
+  }
+
+  a {
+    margin-left: 20px;
+    color: $darkGray;
+    text-align: right;
+    font-weight: 300;
+    letter-spacing: 1px;
+
+    @include mobile {
+      margin: 0 10px;
+      color: $blue;
+    }
+  }
+}
+
+//
+// .main
+//
+
+.posts > .post {
+  padding-bottom: 2em;
+  border-bottom: 1px solid $lightGray;
+}
+
+.posts > .post:last-child {
+  padding-bottom: 1em;
+  border-bottom: none;
+}
+
+.post {
+  blockquote {
+    margin: 1.8em .8em;
+    border-left: 2px solid $gray;
+    padding: 0.1em 1em;
+    color: $gray;
+    font-size: 22px;
+    font-style: italic;
+  }
+
+  .comments {
+    margin-top: 10px;
+  }
+
+  .read-more {
+    text-transform: uppercase;
+    font-size: 15px;
+  }
+}
+
+.wrapper-footer {
+  margin-top: 50px;
+  border-top: 1px solid #ddd;
+  border-bottom: 1px solid #ddd;
+  background-color: $lightGray;
+}
+
+footer {
+  padding: 20px 0;
+  text-align: center;
+}
+
+.dfp {
+  margin-bottom: 20px;
+  @media screen and (min-width: 748px) {
+    margin-left: -4px;
+  }
+}
+
+.widget-wrapper {
+  margin: 20px;
+  text-align: center;
+
+  .embedme {
+    font-size: 13px;
+    color: #999;
+
+    &:active {
+      color: #999;
+    }
+    &:hover {
+      color: #CCC;
+    }
+  }
+
+  #btc-quote {
+    display: inline-block;
+  }
+}
+
+pre {
+  text-align: left;
+  max-width: 700px;
+  margin: 0 auto;
+  clear: both;
+  padding: 0px;
+  position: relative;
+  display: block;
+  padding: 5.0px;
+  margin: 0;
+  font-size: 13px;
+  line-height: 20px;
+  word-break: break-all;
+  word-wrap: break-word;
+  white-space: pre;
+  white-space: pre-wrap;
+  background-color: #f5f5f5;
+  border: 1px solid #ccc;
+  border: 1px solid rgba(0,0,0,0.15);
+  -webkit-border-radius: 4px;
+  -moz-border-radius: 4px;
+  border-radius: 4px;
+
+  code {
+    padding: 0px 5px;
+    display: block;
+    background: #F0F0F0;
+
+    .value {
+      color: #C66B08 !important;
+    }
+  }
+}
+
+#copy-button {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  z-index: 2;
+  background-color: #ccc;
+  font-family: Lato, "Helvetica Neue";
+  font-size: 12px;
+  padding: 2px 6px;
+  border-radius: 4px;
+  color: #333;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  -o-user-select: none;
+  user-select: none;
+  text-align: center;
+  cursor: pointer;
+}
+
+#videobox {
+  position: relative;
+}
+
+.videoicon {
+  display: block;
+  cursor: pointer;
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: url(/images/video_play.svg) center center no-repeat;
+  &:hover {
+    background: url(/images/video_play_hover.svg) center center no-repeat;
+  }
+}
+
+.hardware-comparison {
+  & > div {
+    display: inline-block;
+    width: 30%;
+    vertical-align: top;
+
+    &:nth-child(2){
+      margin: 0px 1.5%;
+    }
+
+    @include mobile() {
+        display: block;
+        width: 100%;
+        margin: 25px 0;
+        text-align: center;
+    }
+
+    & > img {
+      width: 100%;
+      height: auto;
+      max-height: 120px;
+    }
+
+    ul {
+      list-style-type: none;
+      padding: 0;
+      margin: 0;
+
+      li {
+        padding: 5px 0;
+
+        &:before {
+          font-weight: bold;
+          display: block;
+        }
+
+        &.capacity:before {
+          content: 'Advertised Capacity: ';
+        }
+
+        &.power:before {
+          content: 'Power Efficiency: ';
+        }
+
+        &.guide:before {
+          content: 'Guide: ';
+        }
+
+        &.weight:before {
+          content: 'Weight: ';
+        }
+
+        &.price:before {
+          content: 'Price: ';
+        }
+
+        &.approx:before {
+          content: 'Appx. BTC Earned Per Month: '
+        }
+      }
+    }
+  }
+}
+
+.mining-hardware-list {
+	width: 100%;
+	text-align: center;
+}
+
+.mining-hardware-list th {
+    font-weight: bold;
+    text-align: center;
+}
+
+.mining-hardware-list tr:nth-child(2n+1) {
+    background: #f2f1f1 none repeat scroll 0 0;
+}
+
+@media screen and (max-width: 748px) {
+    .miner-pe {
+	    display: none;
+    }
+}
+
+.page-toc {
+  float: right;
+  list-style-type: none;
+  background-color: $lightGray;
+  font-size: 0.8em;
+  padding: 0;
+  margin: 15px;
+  margin-top: 0;
+
+  li {
+    padding: 2px 5px;
+    border-bottom: 1px solid $white;
+    transition: background-color 0.5s;
+
+    &.page-toc-title {
+      font-weight: bold;
+      background-color: $gray;
+      color: $white;
+    }
+
+    a {
+      display: block;
+      color: $darkerGray;
+    }
+
+    &:hover {
+      background-color: lighten($gray, 25%);
+    }
+  }
+}
+
+@media (max-width: 540px) { 
+	.page-toc {
+    float: left !important;
+    margin: 10px 0 25px !important;
+    width: 100% !important;
+    padding: 0 !important;
+}
+}
+
+.cloud-mining-info {
+	margin-bottom: 10px;
+}
+
+.icon-home {
+    float: left;
+    margin: 25px 35px 20px 0;
+}
+
+.home-grid {
+    float: left;
+    margin: 20px 0;
+    width: 100%;
+	
+	.section {
+    display: block;
+    float: left;
+    margin-right: 1%;
+    width: 32.6%;
+	}
+	
+	@include mobile() {
+	.section {
+    display: block;
+    float: left;
+    margin-right: 0;
+    margin-bottom: 20px;
+    width: 100%;
+}
+	
+	
+	}
+
+	.section:last-child {
+    margin-right: 0;
+}
+	
+	img {
+    float: left;
+    margin: 0 15px 0 0;
+    width: 60px;
+}
+
+	.section .section-title {
+    color: #222;
+    font-weight: bold;
+    margin: 4px 0 9px;
+}
+
+	.section-view {
+		font-weight: 300;
+	}
+}
+
+
+.bitcoin-icon {
+	height: auto;
+    max-width: 220px;
+
+	@include mobile {
+    max-width: 120px;
+  }
+}
+
+.pull-right {
+    float: right;
+}
+.pull-left {
+    float: left;
+    margin: 0 20px 0 0;
+}
+
+.mining-pool {
+	img {
+    border-radius: 3px;
+    float: left;
+    height: auto;
+    margin: 3px 10px 5px 0;
+    width: 40px;
+}
+}
+
+.block-table {
+	width: 100%;
+	text-align: center;
+	margin: 20px 0;
+	
+	td {
+		font-size: 90%;
+	}
+	
+	th {
+		font-weight: bold;
+	}
+	
+	td, th {
+		padding: 3px;
+	}
+}
+
+.post blockquote {
+    font-size: inherit;
+    
+    p {
+	    margin: 0;
+    }
+}
+
+// Settled on moving the import of syntax highlighting to the bottom of the CSS
+// ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
+@import "highlights";
+@import "svg-icons";
+@import "social-shares";
+@import 'footer';
+@import 'contribute-notif';

@@ -1,0 +1,9 @@
+{% if t.contribute-notif %}
+<div id="contribute-notification">
+  <div class="close">x</div>
+  <h4>{{ t.contribute-notif.heading }}</h4>
+  {{ t.contribute-notif.text| replace: "%github-url%", "https://github.com/sunnankar/bm/" }}
+</div>
+
+<script src="{{ site.baseurl }}/js/contribute-notif.js"></script>
+{% endif %}

@@ -1,0 +1,38 @@
+ - payout: PPS
+   desc: "The Pay-per-Share (PPS) approach offers an instant, guaranteed payout for each share that is solved by a miner. Miners are paid out from the pools existing balance and can withdraw their payout immediately. This model allows for the least possible variance in payment for miners while also transferring much of the risk to the pool's operator."
+   
+ - payout: PROP
+   desc: The Proportional approach offers a proportional distribution of the reward when a block is found amongst all workers, based off of the number of shares they have each found.
+   
+ - payout: PPLNS
+   desc: The Pay Per Last N Shares (PPLN) approach is similar to the proportional method, but instead of counting the number of shares in the round, it instead looks at the last N shares, no matter the boundaries of the round.
+   
+ - payout: DGM
+   desc: The Double Geometric Method (DGM) is a hybrid approach that enables the operator to absorb some of the risk. The operator receives a portion of payouts during short rounds and returns it during longer rounds to normalize payments.
+   
+ - payout: SMPPS 
+   desc: The Shared Maximum Pay Per Share (SMPPS) uses a similar approach to PPS but never pays more than the Bitcoin mining pool has earned.
+   
+ - payout: ESMPPS
+   desc: The Equalized Shared Maximum Pay Per Share (ESMPPS) is similar to SMPPS, but distributes payments equally among all miners in the Bitcoin mining pool.
+   
+ - payout: RSMPPS
+   desc: The Recent Shared Maximum Pay Per Share (RSMPPS) is also similar to SMPPS, but the system prioritizes the most recent Bitcoin miners first.
+   
+ - payout: CPPSRB
+   desc: The Capped Pay Per Share with Recent Backpay uses a Maximum Pay Per Share (MPPS) reward system that will pay Bitcoin miners as much as possible using the income from finding blocks, but will never go bankrupt.
+   
+ - payout: BPM
+   desc: Bitcoin Pooled mining (BPM), also known as "Slush's pool", uses a system where older shares from the beginning of a block round are given less weight than more recent shares. This reduces the ability to cheat the mining pool system by switching pools during a round.
+   
+ - payout: POT
+   desc: The Pay on Target (POT) approach is a high variance PPS that pays out in accordance with the difficulty of work returned to the pool by a miner, rather than the difficulty of work done by the pool itself.   
+   
+ - payout: SCORE
+   desc: The SCORE based approach uses a system whereby a proportional reward is distributed and weighed by the time the work was submitted. This process makes later shares worth more than earlier shares and scored by time, thus rewards are calculated in proportion to the scores and not shares submitted.
+   
+ - payout: ELIGIUS
+   desc: Eligius was designed by Luke Jr., creator of BFGMiner, to incorporate the strengths of PPS and BPM pools, as <a href="/what-is-proof-of-work/">miners submit proofs-of-work</a> to earn shares and the pool pays out immediately. When the block rewards are distributed, they are divided equally among all shares since the last valid block and the shares contributed to stale blocks are cycled into the next block's shares. Rewards are only paid out if a miner earns at least. 67108864 and if the amount owed is less than that it will be rolled over to the next block until the limit is achieved. However, if a Bitcoin miner does not submit a share for over a period of a week, then the pool will send any remaining balance, regardless of its size.
+   
+ - payout: Triplemining
+   desc: Triplemining brings together medium-sized pools with no fees and redistributes 1% of every block found, which allows your share to grow faster than any other Bitcoin mining pool approach. The administrators of these Bitcoin mining pools use some of the Bitcoins generated when a block is found to add to a jackpot that is triggered and paid out to the member of the pool who found the block. In this way, everyone in the pool has a better chance to make additional Bitcoins, regardless of their processing power.         
