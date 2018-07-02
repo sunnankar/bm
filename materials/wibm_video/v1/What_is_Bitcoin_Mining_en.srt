@@ -1,0 +1,124 @@
+1
+00:00:00,500 --> 00:00:02,200
+What is Bitcoin mining?
+
+2
+00:00:02,400 --> 00:00:04,900
+Bitcoin operates as a peer to peer network.
+
+3
+00:00:05,060 --> 00:00:09,200
+This means that everyone who uses
+Bitcoin is a tiny fraction of the bank of Bitcoin.
+
+4
+00:00:09,679 --> 00:00:12,100
+But where do Bitcoins come from?
+
+5
+00:00:12,500 --> 00:00:17,000
+With paper money a government decides when to print and distribute money.
+
+6
+00:00:17,300 --> 00:00:19,119
+Bitcoin doesn't have a central government.
+
+7
+00:00:19,300 --> 00:00:22,400
+With Bitcoin miners use special
+software to solve math problems.
+
+8
+00:00:22,640 --> 00:00:25,800
+And are issued a certain number a bitcoins in exchange.
+
+9
+00:00:26,200 --> 00:00:28,230
+This provides a smart way to issue the currency.
+
+10
+00:00:28,400 --> 00:00:31,500
+And also creates an incentive for more
+people to mine.
+
+11
+00:00:32,380 --> 00:00:35,510
+Since miners are required to approve
+it Bitcoin transactions
+
+12
+00:00:35,700 --> 00:00:37,700
+more miners means a more secure network.
+
+13
+00:00:38,000 --> 00:00:42,210
+the Bitcoin network automatically changes the difficulty of the math problems
+
+14
+00:00:42,210 --> 00:00:44,300
+depending on how fast they are being solved.
+
+15
+00:00:44,600 --> 00:00:49,350
+In the early days, Bitcoin miners solved these math problems with the processors and their computers.
+
+16
+00:00:49,400 --> 00:00:54,900
+Soon miners discovered that graphics
+cards used for gaming were much better suited to this kind of working.
+
+17
+00:00:55,400 --> 00:00:59,400
+Graphics cards are faster, they use more electricity and generate a lot of heat.
+
+18
+00:01:00,100 --> 00:01:05,000
+The first commercial Bitcoin mining products included chips that were reprogrammed for mining Bitcoin.
+
+19
+00:01:05,200 --> 00:01:08,000
+These chips were faster but still power-hungry.
+
+20
+00:01:08,200 --> 00:01:13,300
+ASIC, or application specific integrated circuit, chips are designed specifically for Bitcoin mining.
+
+21
+00:01:14,000 --> 00:01:17,900
+ASIC technology has made Bitcoin mining even faster by using less power.
+
+22
+00:01:20,500 --> 00:01:24,100
+As the popularity of Bitcoin increases, more miners join the network
+
+23
+00:01:24,300 --> 00:01:27,200
+making it more difficult for individuals to solve the math problems.
+
+24
+00:01:27,600 --> 00:01:31,540
+To overcome this, miners have developed a way to work together in pools.
+
+25
+00:01:32,200 --> 00:01:35,720
+Pools of miners find solutions faster
+than their individual members
+
+26
+00:01:35,720 --> 00:01:39,680
+and each miner is rewarded proportionate to the amount of work he or she provides.
+
+27
+00:01:40,200 --> 00:01:45,400
+Mining is an important and integral
+part of Bitcoin that ensures fairness while keeping the
+
+28
+00:01:45,500 --> 00:01:47,700
+Bitcoin network stable, safe and secure.
+
+29
+00:01:48,000 --> 00:01:54,900
+For more information
+about Bitcoin Mining visit: https://www.BitcoinMining.com
+

@@ -1,0 +1,97 @@
+---
+layout: default
+title: Todo lo que necesitas saber acerca de la minería de Bitcoin
+description: Todo lo que necesitas saber acerca de la minería de Bitcoin
+toc:
+  hwc: Comparación del Software de Mieneria
+  wibm: ¿Qué es la minería de Bitcoin?
+  what-is-blockchain: ¿Qué es el Blockchain?
+  wipow: ¿Qué es la prueba de trabajo?
+  md: ¿Qué es la dificultad de la minería de Bitcoin?
+  tcdp: El problema de Dificultad-Computacional¡
+  difficulty: La Dificultad de la Red Metrica de Bitcoin
+  bw: La Recompenza del Bloque
+---
+
+<center><iframe width="720" height="394" src="https://www.youtube.com/embed/GmOzih6I1zs" frameborder="0" allowfullscreen></iframe></center>
+
+<div class="home-grid">
+	<a href="/getting-started/" class="section">
+		<img src="/images/icons/mining.png"> 
+		<div class="section-title">¿Nuevo en la minería?</div> 
+		<div class="section-view">Empezando ›</div> 
+	</a>
+	<a href="/bitcoin-mining-hardware/" class="section">
+		<img src="/images/icons/mining2.png"> 
+		<div class="section-title">Hardware de Minería</div> 
+		<div class="section-view">Aprender Más ›</div> 
+	</a>
+	<a href="/best-bitcoin-cloud-mining-contract-reviews/" class="section">
+		<img src="/images/icons/cloud.png"> 
+		<div class="section-title">Minería en la Nube</div> 
+		<div class="section-view">Aprender Más ›</div> 
+	</a>
+</div>
+
+<img class="icon-home" alt="bitcoin mining" src="/images/icons/icon-big-bitcoinfrom.png">
+<h2>Como trabajan los Bitcoins</h2>
+<p>¿De donde vienen los Bitcoins? Con el papel moneda, un gobierno decide cuando imprimirlo y distribuir el dinero. Bitcoin no tiene ese control central de un Gobierno.</p>
+
+<p>Con Bitcoins, los mineros usan <a href="/bitcoin-mining-software/">software especial(página en Ingles)</a> para que, despues de resolver problemas matematicos, estos mineros reciban cierto número de bitcoins. Esta es una forma inteligente para producir esta divisa y provee un incentivo para que cada vez haya mas gente que se dedique a minar.</p>
+
+<img class="icon-home" alt="Bitcoin es una divisa segura" src="/images/icons/icon-big-secure.png">
+<h2>Bitcoin es una divisa segura</h2>
+
+<p>Mineros electronicos ayudan a mantener la red de Bitcoin segura ayudando a aprobar las transacciones de la divida. Minar es una parte importante e integra que garantiza que el proceso sea justo y al mismo tiempo mantiene la red de Bitcon estable, y segura.</p>
+
+<img class="icon-home" alt="Bitcoin es una divisa segura" src="/images/icons/icon-big-links.png">
+<h2>Links</h2>
+<ul>
+	<li><a href="https://www.weusecoins.com/" target="_blank">Nosotros usamos monedas</a> - Aprende todo lo que necesitas saber de las cripto-divisas.<br></li>
+	<li><a href="https://www.reddit.com/r/Bitcoin/" target="_blank">Noticias relacionadas al Bitcoin</a> - Donde nuestra comunidad encuentra noticias relacionadas al Bitcon.<br></li>
+	<li><a href="http://www.bitcoin.kn">Podcasts para conocer más de Bitcoin</a> - Entrevistas con las personas que estan mas al tanto del mundo del Bitcoin.</li>
+</ul>
+
+<hr id="hwc" style="width: 100%; margin: 20px 0; color: #eee;" />
+
+<h2>Compara equipos de minado de Bitcoin</h2>
+
+<p>Por lo pronto, basado en <b>(1)</b> precio por "hash" y <b>(2)</b> eficiencia electrica, los mejores mineros de Bitcoin son los siguientes:</p>
+
+<div class="hardware-comparison">
+{% for miner in site.data.hardware %}
+{% if miner.cat contains 'featured' %}
+{% include hardware-compare.html %}
+{% endif %}
+{% endfor %}
+</div>
+
+<p>Minar Bitcoin es el proceso por el cual se añaden transacciones al registro de archivos de Bitcoin's o, como se conoce en ingles, <b>Block chain</b>. Este registo de archivos es llamado el "Block chain" porque es una cadena de bloques. El "Block chain" se usa para confirmar y cotejar transacciones con el resto de la red Bitcoin cuando estas transacciones pasan.
+<p>Los nodos de Bitcoin usan el <b>Block chain</b> para separar las transacciones de Bitcoin que son legitimas con las ilicitas, que pasan cuando hay intentos de reusar las bitcoins que ya se gastaron en otro lado.
+
+{% include page-toc.html %}
+
+<hr style="width: 100%; margin: 20px 0; color: #eee;" />
+<h2 id="wibm">¿Qué es la minería de Bitcoin?</h2>
+<center><img src="/images/what-is-bitcoin-mining.jpg" width="700" height="auto">
+<a href="/images/what-is-bitcoin-mining.jpg" target="_blank">Visualice y Descargue la Infografía en Alta-Resolución</a></center>
+
+<h3 id="what-is-blockchain">¿Qué es el Blockchain?</h3>
+<center><iframe width="700" height="394" src="https://www.youtube.com/embed/YIVAluSL9SU" frameborder="0" allowfullscreen></iframe></center>
+<p><a href="http://bitcoinminer.com/">La Minería de Bitcoin</a> está intencionalmente diseñada para ser un recurso intensivo y de dificultad asi que ese número de bloques que es encontrado por los mineros permanece estable. Los bloques Individuales deben contener una <a href="/what-is-proof-of-work/">prueba de trabajo</a> para que sea considerado valido. Esta prueba de trabajo es verificada por otros nodos de Bitcoin cada vez que se recibe un bloque. Bitcoin usa el <a href="/what-is-hashcash/">hashcash</a> como función de prueba de trabajo.
+<p>El propósito principal de la minería es permitir que los nodos Bitcoin puedan alcanzar el llegar a un consenso seguro, resistente a la manipulación. La minería es también el mecanismo utilizado para introducir Bitcoins dentro del sistema: A los mineros les pagan los honorarios de transacción, así como un "subsidio" de monedas de nueva creación.
+<p>Este cambio no sólo sirve para el propósito de difundir las nuevas monedas de una manera descentralizada, si no que tambien para motivar a la gente y para proporcionar seguridad a el sistema.
+<p>la minería Bitcoin se llama así porque se asemeja a la extracción de otros productos básicos: esto requiere esfuerzo y lentamente hace una nueva moneda disponibles a un precio que se asemeja a la velocidad a la que las materias primas son extraidas, como el oro se extrae de la tierra.
+<h2 id="wipow">¿Qués es la Prueba de Trabajo?</h2>
+<p>A <a href="/what-is-proof-of-work/">Prueba de trabajo</a> es una pieza de información que es difícil (costoso, consume mucho tiempo) para producirlos de modo que sactisfagan al tiempo ciertos requerimientos. Debe ser trivial para comprobar si satisface los requisitos mencionados datos.
+<p>Producir una prueba de trabajo es un proceso aleatorio de baja probabilidad, así que ese mundo de intentos y errores son requeridos en promedio antes de poder validar una prueba de trabajo. Bitcoin usa el Hashcash para prueba de trabajo.
+<h2 id="md">¿Qué es la dificultad de la minería Bitcoin?</h2>
+<h3 id="tcdp">El problema de dificultad computacional</h3>
+<p>La minería de un bloque de Bitcoin es díficil por que elhash SHA-256 de la cabeza de un bloque debe ser menor o igual que el objetivo en orden de que el bloque sea aceptado por la red.
+<p>Este problema puede ser simplificado para propositos de explicación: El hash de un bloque debe empezar con un número certeros de ceros. La probabilidad de calcular un hash que inicia con muchos ceros es muy baja, por lo que deben hacerse muchos intentos. Con el fin de generar un nuevo hash cada vez, un nonce se incrementa. Ver prueba de trabajo para más información.
+<h3 id="difficulty">La dificultad metrica de la red Bitcoin</h3>
+<p>The <a href="/what-is-bitcoin-mining-difficulty/">La ificultad metrica de la red Bitcoin </a> es la medida de que tan dificil es encontrar un nuevo bloque comparado con el más facil que hubo. Este es recalculado cada 2016 bloques en un valor que fuera previo al los 2016 bloques quisieran ser generados en 2 semanas por lo que todos trabajarán en la misma dificultad. Este sera en rendimiento, en promedio, de un bloque cada 10 minutos.
+<p>Asi como muchos mineros se unen, el rango de creación va aumentando la dificultad se eleva para compensar lo que impulsará la tasa de creación de bloques de vuelta. Todos los bloques liberados por los mineros maliciosos que no cumplen con el objetivo de dificultad requerido simplemente serán rechazadas por todos en la red y por lo tanto no tendrá ningún valor.
+<h3 id="bw">La Recompensa del Bloque</h3>
+<p>Cuando un bloque es descubierto, el descubridor podrá adjudicar a sí mismo un cierto número de bitcoins, que está acordado por todos los miembros de la red. Actualmente esta abundancia es de 25 bitcoins; este valor se dividirá cada 210.000 bloques. Ver moneda controlada de suministro.
+<p>Adicionalmente, el minero recibe los honorarios pagados por los usuarios que envían transacciones. La cuota es un incentivo para que el minero para incluir la transacción en su bloque. En el futuro, a medida que se permitió que el número de nuevos mineros aumentara bitcoin el número para crear un nuevo bloque mengua, los honorarios constituirán un porcentaje mucho más importante de ingresos de minería.

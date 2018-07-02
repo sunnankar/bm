@@ -1,0 +1,10 @@
+<h3>Get Daily Bitcoin News in Your Inbox:</h3>
+<div class="AW-Form-439075631"></div>
+<script type="text/javascript">(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//forms.aweber.com/form/31/439075631.js";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, "script", "aweber-wjs-c40dh7zu5"));
+</script>

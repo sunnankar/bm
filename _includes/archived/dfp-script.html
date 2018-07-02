@@ -1,0 +1,29 @@
+<script type='text/javascript'>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+  (function() {
+    var gads = document.createElement('script');
+    gads.async = true;
+    gads.type = 'text/javascript';
+    var useSSL = 'https:' == document.location.protocol;
+    gads.src = (useSSL ? 'https:' : 'http:') +
+      '//www.googletagservices.com/tag/js/gpt.js';
+    var node = document.getElementsByTagName('script')[0];
+    node.parentNode.insertBefore(gads, node);
+  })();
+</script>
+
+<script type='text/javascript'>
+  googletag.cmd.push(function() {
+    var mapping = googletag.sizeMapping().
+      addSize([740, 200], [728, 90]).
+      addSize([0, 0], [320, 50]).
+      build();
+    googletag.defineSlot('/94788221/bitcoinmining-page', [[320, 50], [728, 90]], 'div-gpt-ad-1432844549974-0').defineSizeMapping(mapping).addService(googletag.pubads());
+    googletag.defineSlot('/94788221/bitcoinmining-page2', [[320, 50], [728, 90]], 'div-gpt-ad-1432844549974-9').defineSizeMapping(mapping).addService(googletag.pubads());
+    googletag.defineSlot('/94788221/bitcoinmining-footer', [[320, 50], [728, 90]], 'div-gpt-ad-1432844549974-1').defineSizeMapping(mapping).addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.pubads().collapseEmptyDivs();
+    googletag.enableServices();
+  });
+</script>

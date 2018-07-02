@@ -1,0 +1,140 @@
+1
+00:00:00,500 --> 00:00:02,200
+Qu’est ce que miner du Bitcoin ?
+
+2
+00:00:02,400 --> 00:00:04,900
+Bitcoin fonctionne comme un réseau de personne à personne
+
+3
+00:00:05,060 --> 00:00:09,200
+Ce qui veut dire que toute personne qui utilise
+Bitcoin est une petite fraction de la banque du Bitcoin
+
+4
+00:00:09,679 --> 00:00:12,100
+Mais d’où viennent les Bitcoins?
+
+5
+00:00:12,500 --> 00:00:17,000
+Avec les monnaies papiers, les gouvernements
+décident quant imprimer et distribuer l’argent.
+
+6
+00:00:17,300 --> 00:00:19,119
+Bitcoin n’a pas de gouvernement central.
+
+7
+00:00:19,300 --> 00:00:22,400
+Les mineurs de Bitcoin utilisent un logiciel
+spécial pour résoudre des problèmes mathématiques.
+
+8
+00:00:22,640 --> 00:00:25,800
+Et sont récompensés par un certain
+nombre de Bitcoins en retour.
+
+9
+00:00:26,200 --> 00:00:28,230
+Ce qui apporte une intelligente
+solution pour émettre la monnaie.
+
+10
+00:00:28,400 --> 00:00:31,500
+Et également crée une motivation
+pour les gens qui minent.
+
+11
+00:00:32,380 --> 00:00:35,510
+Etant donné que les mineurs sont nécessaires
+pour approuver les transactions Bitcoins
+
+
+12
+00:00:35,700 --> 00:00:37,700
+Plus de mineurs veut dire
+un réseau plus sécurisé.
+
+13
+00:00:38,000 --> 00:00:42,210
+Le réseau Bitcoin change automatiquement
+la difficulté des problèmes de math
+
+14
+00:00:42,210 --> 00:00:44,300
+Selon la rapidité à laquelle ils ont été résolus.
+
+15
+00:00:44,600 --> 00:00:49,350
+Au début, les mineurs de Bitcoin résolvaient des problèmes
+mathématiques avec des processeurs et leurs ordinateurs.
+
+16
+00:00:49,400 --> 00:00:54,900
+Rapidement les mineurs ont découverts les cartes
+graphiques utilisées pour les jeux vidéo qui étaient
+bien plus adaptées pour faire ce travail.
+
+17
+00:00:55,400 --> 00:00:59,400
+Les cartes graphiques sont plus rapides, elles utilisent
+plus d’électricité et générent beaucoup de chaleur.
+
+18
+00:01:00,100 --> 00:01:05,000
+Le premier produit commercial de minage de Bitcoin comprenait
+des puces qui étaient reprogrammées pour le minage de Bitcoin
+
+19
+00:01:05,200 --> 00:01:08,000
+Ces puces étaient plus rapides mais
+toujours gourmande en électricité.
+
+20
+00:01:08,200 --> 00:01:13,300
+ASIC, ou des applications spécifiques de circuits intégrés,
+les puces sont conçues spécialement pour miner du Bitcoin.
+
+21
+00:01:14,000 --> 00:01:17,900
+La technologie ASIC a accéléré le minage de
+Bitcoin en utilisant moins d’électricité.
+
+22
+00:01:20,500 --> 00:01:24,100
+Comme la popularité du Bitcoin augmente,
+plus de mineurs rejoignent le réseau
+
+23
+00:01:24,300 --> 00:01:27,200
+rendant encore plus difficile pour les individus
+de résoudre les problèmes mathématiques.
+
+24
+00:01:27,600 --> 00:01:31,540
+Pour surpasser cela, les mineurs ont développé
+une façon de travailler en groupe.
+
+25
+00:01:32,200 --> 00:01:35,720
+Les groupes de mineurs trouvent les solutions
+plus rapidement que les membres séparemment
+
+26
+00:01:35,720 --> 00:01:39,680
+et chaque mineur est récompensé proportionnellement
+du montant du travail qu’il ou elle apporte.
+
+27
+00:01:40,200 --> 00:01:45,400
+Le minage est une partie importante et intégrale
+de Bitcoin qui assure l’équité tout en gardant 
+
+28
+00:01:45,500 --> 00:01:47,700
+le réseau Bitcoin stable, sur et sécurisé.
+
+29
+00:01:48,000 --> 00:01:54,900
+Pour plus d’information concernant le Minage
+de Bitcoin visitez: https://www.BitcoinMining.com

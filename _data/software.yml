@@ -1,0 +1,103 @@
+
+-
+    software: MinePeon
+    desc: Open source and may need <a href="https://sourceforge.net/projects/win32diskimager/">WinDisk32Imager</a>. 
+    url: https://sourceforge.net/projects/minepeon/
+    os: mac, linux, windows
+    cats: best
+-
+    software: EasyMiner
+    desc: A GUI based miner for Windows, Linux and Android. EasyMiner acts as a convenient wrapper for the built in CG; BFGminer softwares. It auto configures your Bitcoin miners and provides performance graphs to for easy visualization of your Bitcoin mining activity. 
+    url: 
+    os: mac, linux, windows
+    cats: best
+-
+    software: BFGMiner
+    desc: A modular ASIC, FPGA, GPU and CPU miner written in C, cross platform for Linux, Mac, and Windows including support for OpenWrt-capable routers. 
+    url: https://github.com/luke-jr/bfgminer
+    os: mac, linux, windows
+    cats: best, asic
+-
+    software: CGMiner
+    desc: This is a multi-threaded multi-pool GPU, FPGA and ASIC miner with ATI GPU monitoring, (over)clocking and fanspeed support for bitcoin and derivative coins. 
+    url: https://github.com/ckolivas/cgminer
+    os: mac, linux, windows
+    cats: best, asic
+-
+    software: 50Miner
+    desc: A GUI frontend for Windows (Poclbm, Phoenix, DiabloMiner).
+    url: https://en.bitcoin.it/wiki/50Miner
+    os: windows
+    cats: free
+-
+    software: BTCMiner
+    desc: Bitcoin Miner for ZTEX FPGA Boards
+    url: https://en.bitcoin.it/wiki/BTCMiner
+    os:
+    cats: free
+-
+    software: BitMoose
+    desc: Run Miners as a Windows Service.
+    url: https://en.bitcoin.it/wiki/Bit_Moose
+    os: windows
+    cats: free
+-
+    software: Poclbm
+    desc: Python/OpenCL GPU miner (<a href="https://en.bitcoin.it/wiki/Poclbm-gui">GUI</a> (Windows and MacOS X))
+    url: https://en.bitcoin.it/wiki/Poclbm
+    os: windows, mac
+    cats: free
+-
+    software: Poclbm-mod
+    desc: more efficient version of Poclbm (<a href="https://en.bitcoin.it/wiki/Poclbm-mod-gui">GUI</a>)
+    url: https://en.bitcoin.it/wiki/Poclbm-mod
+    os: windows, mac
+    cats: free
+-
+    software: DiabloMiner
+    desc: Java/OpenCL GPU miner (<a href="https://en.bitcoin.it/wiki/DiabloMiner.app">MAC OS X GUI</a>)
+    url: https://en.bitcoin.it/wiki/DiabloMiner
+    os: mac
+    cats: free
+-
+    software: RPC Miner
+    desc: remote RPC miner (<a href="https://en.bitcoin.it/wiki/RPCminer.app">MAC OS X GUI</a>)
+    url: https://en.bitcoin.it/wiki/RPC_Miner
+    os: mac
+    cats: free
+-
+    software: Phoenix miner
+    desc: Released in 2011. Free and open source.
+    url: https://en.bitcoin.it/wiki/Phoenix_miner
+    os:
+    cats: free
+-
+    software: CPU Miner
+    desc: Mining software for solo or pooled mining. 
+    url: https://en.bitcoin.it/wiki/Cpu_Miner
+    os: linux, windows
+    cats: free
+-
+    software: Ufasoft Miner
+    desc: CPU/GPU miner for Windows pooled mining. 
+    url: https://en.bitcoin.it/wiki/Ufasoft_miner
+    os: windows
+    cats: free
+-
+    software: Pyminer
+    desc: Released in 2011. CPU mining client. 
+    url: https://en.bitcoin.it/wiki/Pyminer
+    os:
+    cats: free
+-
+    software: Remote Miner
+    desc: Open source Bitcoin miner for pooled mining. Works with RPC Miner.
+    url: https://en.bitcoin.it/wiki/Remote_miner
+    os:
+    cats: free
+-
+    software: Open Source FPGA Bitcoin Miner 
+    desc: Released in 2011. Makes use of a compatible FPGA Board. Can be used to mine in a pool or solo. 
+    url: https://en.bitcoin.it/wiki/Open_Source_FPGA_Bitcoin_Miner
+    os:
+    cats: free

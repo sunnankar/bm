@@ -1,0 +1,40 @@
+#contribute-notification {
+  display: block;
+  position: fixed;
+  bottom: 25px;
+  right: 25px;
+  background: $white;
+  width: 270px;
+  font-size: 0.7em;
+  font-weight: 600;
+  background: $lightGray;
+  box-shadow: 0px 0px 20px rgba($black, 0.2);
+  border: 1px solid rgba($gray, 0.3);
+  border-radius: 10px;
+  padding: 10px;
+
+  h4, p {
+    margin: 5px 0;
+  }
+
+  .close {
+    position: absolute;
+    top: 5px;
+    right: 10px;
+    font-size: 1.2em;
+    color: rgba($gray, 0.5);
+
+    &:hover {
+      cursor: pointer;
+    }
+  }
+
+  @include mobile() {
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    border-radius: 0;
+    border: 0;
+    border-top: 1px solid rgba($gray, 0.3);
+  }
+}

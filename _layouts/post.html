@@ -1,0 +1,20 @@
+---
+layout: default
+---
+{% assign lang = page.lang %}{% assign t = site.data.translations[lang] %}
+
+<article class="post">
+  <h1>{{ page.title }}</h1>
+
+  <div class="entry">
+    {{ content }}
+  </div>
+
+  <div class="date">
+  	{% assign date = page.date | date: "%B %e, %Y" %}
+  	{{ t.post.written-by | replace: '%author%', page.author | replace: '%authorurl%', page.authorurl | replace: '%date%', date }}
+  </div>
+
+  {% include recommendedposts.html %}
+  {% include disqus.html %}
+</article>

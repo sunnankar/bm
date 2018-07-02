@@ -1,0 +1,36 @@
+ <div>
+    <h3>{{ miner.product }}</h3>
+    <a href="{{ miner.buy }}">
+      <img src="/images/{{ miner.img }}" alt="{{ miner.product }} Bitcoin Miner">
+    </a>
+    <ul>
+      {% if miner.advertised_thashs != null %}
+      <li class="capacity">{{ miner.advertised_thashs }} Th/s</li>
+	  {% else %}
+      <li class="capacity">{{ miner.advertised_ghashs }} Gh/s</li>
+      {% endif %}
+      
+      <li class="power">{{ miner.powerefficiencywgh }} W/Gh</li>
+      <li class="weight">{{ miner.weight }}</li>
+      
+      {% if miner.gsg != null %} 
+      <li class="guide"><a href="{{ miner.gsg }}">Yes</a></li>
+      {% else %} 
+      <li class="guide">No</li>
+      {% endif %}
+     
+      {% if miner.priceusd == null or miner.priceusd == 'x' %} 
+      <li class="price">N/A</li>
+      {% else %} 
+      <li class="price">${{ miner.priceusd }}</li>
+      {% endif %}
+     
+      <li class="buyfrom">
+        <a href="{{ miner.buy }}">
+          <img border="0" alt="{{ miner.product }} Bitcoin Miner" src="/images/buy-from-amazon.png" width="120" height="28">
+        </a>
+      </li>
+      <li class="approx">{{ miner.btcpm }}</li>
+    </ul>
+  </div>
+ 

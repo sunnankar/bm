@@ -1,0 +1,44 @@
+ - pool: BTCC
+   url: https://pool.btcc.com/
+   desc: BTCC is a Bitcoin exchange, wallet, and mining pool located in China. Its mining pool currently controls around 15% of the network hash rate.
+   img: btcc.png
+   
+ - pool: Slush Pool
+   url: https://slushpool.com/home/
+   desc: Slush Pool is run by <a href="http://satoshilabs.com/">Satoshi Labs</a>, a Bitcoin company based in the Czech Republic. Slush Pool was the first mining pool and maintains around 7% of the network hash rate.
+   img: slush.png
+   
+ - pool: Antpool 
+   url: 
+   desc: <strong class="red accent-4 white-text">[WARNING]</strong> - Bitmain operates Antpool and some consider them to be a malicious actor in the Bitcoin ecosystem because of the <a href="https://www.antbleed.com">AntBleed scandal</a> where they were <a href="https://cointelegraph.com/news/bitmain-claims-antbleed-had-no-malicious-intent-does-it-really-matter-for-bitcoin-miners">intentionally including malware</a> within mining equipment they sell. In a <a href="/images/bitmain-antbleed.pdf">corporate communication</a>, Bitmain claimed this was a feature and not a bug. This malware would enable Bitmain to remotely shut down equipment of customers or competitors thus increasing their own profitability. Additionally, such behavior could pose a risk to the entire Bitcoin network.
+   img: bitmain.jpg
+   
+ - pool: Eligius
+   url: http://eligius.st/~gateway/
+   desc: Eligius was one of the first Bitcoin mining pools and was founded by <a href="https://www.weusecoins.com/luke-dashjr/">Luke Dashjr</a>, a Bitcoin Core developer. Today, the pool controls just under 1% of the network hash rate.
+   img: eligius.png
+   
+ - pool: BitMinter
+   url: https://bitminter.com/
+   desc: BitMinter, once one of the largest Bitcoin mining pools, now controls less than 1% of the network hash rate.
+   img: bitminter.png   
+
+ - pool: Kano CKPool
+   url: http://www.kano.is/
+   desc: Kano CKPool was founded in 2014 and currently has around 3% of the network hash rate under its control.
+   img: eligius.png
+   
+ - pool: F2Pool
+   url: https://www.f2pool.com/
+   desc:  F2Pool is the second largest Bitcoin mining pool, with around 25% of the network hash rate. Its user interface is in Chinese, making it difficult for English speakers to join.  
+   img: f2pool.png
+   
+ - pool: BW Pool
+   url: https://www.bw.com/pool/i
+   desc: BW Pool controls around 7% of the network hash rate. Like F2Pool, its user interface is in Chinese, making it difficult for English speakers to join.
+   img: bw.png
+   
+ - pool: Bitfury
+   url: http://bitfury.com/
+   desc: Although seen publically in block explorers and hash rate charts, BitFury is a private mining pool and cannot be joined. 
+   img: bitfury.jpg  

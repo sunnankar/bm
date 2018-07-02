@@ -1,0 +1,59 @@
+<style id="antiClickjack">body{display:none !important;}</style>
+<script type="text/javascript">
+   if (self === top) {
+       var antiClickjack = document.getElementById("antiClickjack");
+       antiClickjack.parentNode.removeChild(antiClickjack);
+   } else {
+       top.location = self.location;
+   }
+</script>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+<script type="text/javascript" src="{{ site.baseurl }}/assets/js/social-shares.js"></script>
+<script type="text/javascript" src="{{ site.baseurl }}/assets/js/recommended-posts.js"></script>
+
+<script type="text/javascript">
+$(document).ready(function(){
+    var bannersConfig = [{
+        src:'/images/sponsor/hashflare-728x90.gif',
+        href:'http://geni.us/hashflare',
+        alt:'HashFlare',
+        title:'HashFlare'
+    },{
+        src:'/images/sponsor/hashflare-728x90.gif',
+        href:'http://geni.us/hashflare',
+        alt:'HashFlare',
+        title:'HashFlare'
+    },{
+        src:'/images/sponsor/hashflare-728x90.gif',
+        href:'http://geni.us/hashflare',
+        alt:'HashFlare',
+        title:'HashFlare'
+    },{
+        src:'/images/sponsor/hashflare-728x90.gif',
+        href:'http://geni.us/hashflare',
+        alt:'HashFlare',
+        title:'HashFlare'
+    },{
+        src:'/images/sponsor/bitcoin-knowledge-podcast.png',
+        href:'http://geni.us/bitcoinkn',
+        alt:'Bitcoin Knowledge Podcast',
+        title:'Bitcoin Knowledge Podcast'
+    },{
+        src:'/images/sponsor/bitcoin-knowledge-podcast.png',
+        href:'http://geni.us/bitcoinkn',
+        alt:'Bitcoin Knowledge Podcast',
+        title:'Bitcoin Knowledge Podcast'
+    },{
+        src:'/images/sponsor/bitcoin-knowledge-podcast.png',
+        href:'http://geni.us/bitcoinkn',
+        alt:'Bitcoin Knowledge Podcast',
+        title:'Bitcoin Knowledge Podcast'
+    }];
+
+    var randomBanner = bannersConfig[Math.floor(Math.random()*bannersConfig.length)];
+    var bannerAnchor = $('#header-banner > a');
+    bannerAnchor.attr('href', randomBanner.href);
+    bannerAnchor.append('<img src="'+randomBanner.src+'" title="'+randomBanner.title+'" alt="'+randomBanner.alt+'" width="728" height="90" border="0">');
+});
+</script>
