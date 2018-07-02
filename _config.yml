@@ -18,7 +18,7 @@ avatar: /images/logo-bitcoin-mining.png
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: info@weusecoins.com
+  email: 
   facebook: weusecoins
   flickr:
   github: 
@@ -26,7 +26,7 @@ footer-links:
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon, make sure you set the "url" above!
-  twitter: TraceMayer
+  twitter: bitcoinmining
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: BitcoinMiningCom
   googleplus: 107348049293492306722/posts
