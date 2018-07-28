@@ -80,12 +80,12 @@ toc:
 <center><iframe width="700" height="394" src="https://www.youtube.com/embed/YIVAluSL9SU" frameborder="0" allowfullscreen></iframe></center>
 <p><a href="http://bitcoinminer.com/">Mineração de Bitcoin</a> é intencionalmente projetada para ser difícil e intensiva em recursos para que o número de blocos minerados a cada dia permaneça estável. Blocos individuais devem conter uma <a href="/what-is-proof-of-work/">prova de trabalho</a> para serem considerados válidos. Esta prova de trabalho é verificada por outros nós Bitcoin cada vez que eles recebem um bloco. Bitcoin usa a função prova de trabalho <a href="/what-is-hashcash/">hashcash</a>.
 <p>O propósito primordial da mineração é permitir que os nós Bitcoin entrem em consenso para garantir a segurança e resistência a fraudes. Minerar é também o mecanismo usado para introduzir Bitcoins no sistema: Mineradores recebem taxas por transação, bem como um subsídio de novas moedas postas em circulação.
-<p>This both serves the purpose of disseminating new coins in a decentralized manner as well as motivating people to provide security for the system.
-<p>Mineração de Bitcoin is so called because it resembles the mining of other commodities: it requires exertion and it slowly makes new currency available at a rate that resembles the rate at which commodities like gold are mined from the ground.
+<p>Ambos servem ao propósito de disseminar novas moedas de uma forma descentralizada bem como motivar pessoas a prover segurança para o sistema.
+<p>Mineração de Bitcoin é assim chamada porque  assemelha-se à mineração de outras commodities: exige esforço e, lentamente, torna a nova moeda disponível a uma taxa que se assemelha à taxa na qual commodities como o ouro são extraídas do solo.
 <h2 id="wipow">O que é prova de trabalho?</h2>
 <center><img src="/images/what-is-proof-of-work.png" width="700" height="auto">
-<a href="/images/what-is-proof-of-work-high-resolution.png" target="_blank">Visualize e Baixe o Infográfico em Alta-Resolução</a></center></center>
-<p>Uma <a href="/what-is-proof-of-work/">prova de trabalho</a> é um pedaço de dado incluído no bloco que foi difícil (em termos de custo e tempo computacional) a fim de satisfazer certos requisitos. Deve ser trivial checar se o pedaço de dado inserido satisfaz aos requisitos, apesar de muito difícil de solucionar o desafio e obter o pedaço de dados.
+<a href="/images/what-is-proof-of-work-high-resolution.png" target="_blank">Visualize e Baixe o Infográfico em Alta-Resolução</a></center>
+<p>Uma <a href="/what-is-proof-of-work/">prova de trabalho</a> é um pedaço de dado incluído no bloco obtido por meio de um desafio de difícil solução (em termos de custo e tempo computacional) a fim de satisfazer certos requisitos. Deve ser trivial checar se o pedaço de dado inserido satisfaz aos requisitos, apesar de muito difícil de solucionar o desafio e obter o pedaço de dados.
 <p>Produzir uma prova de trabalho pode ser um processo com baixa probabilidade, de modo que muitos testes e erros são necessários, em média, antes que uma prova de trabalho válida seja gerada. Bitcoin usa a prova de trabalho Hashcash.
 <h2 id="md">O que é desafio da Mineração de Bitcoins?</h2>
 <center><img src="/images/what-is-bitcoin-mining-difficulty.png" width="700" height="auto">
