@@ -1,0 +1,130 @@
+1
+00:00:00,500 --> 00:00:02,200
+O que é mineração de Bitcoins?
+
+2
+00:00:02,400 --> 00:00:04,900
+Bitcoin operam como uma rede p2p.
+
+3
+00:00:05,060 --> 00:00:09,200
+Isto significa que quem usa Bitcoin
+é uma minúscula fração de um banco de bitcoins.
+
+4
+00:00:09,679 --> 00:00:12,100
+Mas de onde os Bitcoins vêm?
+
+5
+00:00:12,500 --> 00:00:17,000
+Com dinheiro de papel um governo 
+decide quem imprime distribui dinheiro.
+
+6
+00:00:17,300 --> 00:00:19,119
+Bitcoin não tem um governo central.
+
+7
+00:00:19,300 --> 00:00:22,400
+Com Bitcoin mineradores usam software 
+especial para resolver problemas matemáticos.
+
+8
+00:00:22,640 --> 00:00:25,800
+E são emitidos um certo número de bitcoins em troca.
+
+9
+00:00:26,200 --> 00:00:28,230
+Isto provê uma forma inteligente de emitir a moeda.
+
+10
+00:00:28,400 --> 00:00:31,500
+E também cria um incentivo para 
+que mais pessoas menerem.
+
+11
+00:00:32,380 --> 00:00:35,510
+Mineradores são necessários para aprovar
+transações de Bitcoins.
+
+12
+00:00:35,700 --> 00:00:37,700
+Mais mineradores significa uma rede mais segura.
+
+13
+00:00:38,000 --> 00:00:42,210
+A rede Bitcoin automaticamente muda 
+a dificuldade dos problemas matemáticos
+
+14
+00:00:42,210 --> 00:00:44,300
+dependendo de quão rápido eles estejam sendo resolvidos.
+
+15
+00:00:44,600 --> 00:00:49,350
+Nos primeiros dias, Bitcoin mineradores resolviam os problemas matemáticos 
+com os processadores de seus próprios computadores pessoais.
+
+16
+00:00:49,400 --> 00:00:54,900
+Mais tarde descobriram processadores gráficos
+usados para jogos eram muito mais adequados a esse tipo de trabalho.
+
+17
+00:00:55,400 --> 00:00:59,400
+Processadores gráficos são mais rápidos, eles usam mais eletricidade e geram mais calor.
+
+18
+00:01:00,100 --> 00:01:05,000
+O primeiro produto comercial para minerar Bitcoin 
+incluiam chips que foram reprogramados especificamente para essa tarefa.
+
+19
+00:01:05,200 --> 00:01:08,000
+Estes chips eram mais rápidos, mas ainda grandes consumidores de energia.
+
+20
+00:01:08,200 --> 00:01:13,300
+ASIC (circuito integrado de aplicaço específica), são chips desenhados especificamente for minerar Bitcoin.
+
+21
+00:01:14,000 --> 00:01:17,900
+Tecnologia ASIC foi feita para minerar Bitcoin mais rápido, mas usando menos energia.
+
+22
+00:01:20,500 --> 00:01:24,100
+Com o aumento da popularidade do Bitcoin, mais mineradores se juntaram à rede
+
+23
+00:01:24,300 --> 00:01:27,200
+tornando mais difícil para indivíduos com computadores 
+comuns resolver os problemas matemáticos.
+
+24
+00:01:27,600 --> 00:01:31,540
+Para superar isto, mineradores desenvolveram 
+uma forma de trabalhar em conjunto.
+
+25
+00:01:32,200 --> 00:01:35,720
+Grupos de mineradores encontram soluções
+mais rápidas que seus membros individuais
+
+26
+00:01:35,720 --> 00:01:39,680
+e cada minerador é premiado proporcionalmente 
+pela quantidade de trabalho que realiza.
+
+27
+00:01:40,200 --> 00:01:45,400
+Mineração é uma importante parte do Bitcoin
+que assegura a transparência das transações enquanto mantém
+
+28
+00:01:45,500 --> 00:01:47,700
+a rede Bitcoin estável e segura.
+
+29
+00:01:48,000 --> 00:01:54,900
+Para mais informações
+sobre Mineração Bitcoin, visite: https://www.BitcoinMining.com
