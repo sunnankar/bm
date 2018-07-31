@@ -8,7 +8,7 @@
     ghash_s_usd: 0.8
     watts: 360
     powerefficiencywgh: 2.00
-    priceusd: 299.00
+    priceusd: 
     currently_shipping: Discontinued
     comm_ports: Ethernet
     dev_friendly: GPL infringement
@@ -25,7 +25,7 @@
     ghash_s_usd: 0.442
     watts: 1100
     powerefficiencywgh: 1.10
-    priceusd: 2259.00
+    priceusd: 
     currently_shipping: Discontinued
     comm_ports: Ethernet
     dev_friendly: GPL infringement
@@ -42,7 +42,7 @@
     ghash_s_usd: 1.154
     watts: 340
     powerefficiencywgh: 0.77
-    priceusd: 382.00
+    priceusd: 
     currently_shipping: Discontinued
     comm_ports: Ethernet
     dev_friendly: GPL infringement
@@ -59,7 +59,7 @@
     ghash_s_usd: 1.429
     watts: 1400
     powerefficiencywgh: 0.70
-    priceusd: 1400.00
+    priceusd: 
     currently_shipping: Discontinued
     comm_ports: Ethernet
     dev_friendly: GPL infringement
@@ -76,7 +76,7 @@
     ghash_s_usd: 3.121
     watts: 590
     powerefficiencywgh: 0.51
-    priceusd: 370.00
+    priceusd: 
     currently_shipping: Discontinued
     comm_ports: Ethernet
     dev_friendly: GPL infringement
@@ -93,7 +93,7 @@
     ghash_s_usd: 3.347
     watts: 3,436
     powerefficiencywgh: 0.44
-    priceusd: 2307.00
+    priceusd: 
     currently_shipping: Yes
     comm_ports: Ethernet
     dev_friendly: GPL infringement
@@ -111,7 +111,7 @@
     ghash_s_usd: 2.666
     watts: 1,210
     powerefficiencywgh: 0.25
-    priceusd: 479.95
+    priceusd: 
     currently_shipping: No
     comm_ports: Ethernet
     dev_friendly: GPL infringement
@@ -132,7 +132,7 @@
     ghash_s_usd: 2.666
     watts: 1,372
     powerefficiencywgh: 0.098
-    priceusd: 1,987.95
+    priceusd: 
     currently_shipping: Yes
     comm_ports: Ethernet
     dev_friendly: GPL infringement
@@ -152,7 +152,7 @@
     ghash_s_usd: 0.055
     watts: 2
     powerefficiencywgh: 1.25
-    priceusd: 29.00
+    priceusd: 
     currently_shipping: Discontinued
     comm_ports: USB
     dev_friendly: code, samples
@@ -169,7 +169,7 @@
     ghash_s_usd: 0.115
     watts: 2
     powerefficiencywgh: 1.00
-    priceusd: 49.66
+    priceusd: 
     currently_shipping: Discontinued
     comm_ports: USB
     dev_friendly: code
@@ -189,7 +189,7 @@
     ghash_s_usd: 1.658
     watts: 63
     powerefficiencywgh: 1.00
-    priceusd: 38.00
+    priceusd: 
     currently_shipping: Yes
     comm_ports: USB
     dev_friendly: code
@@ -206,7 +206,7 @@
     ghash_s_usd: 0.028
     watts: 83
     powerefficiencywgh: 7.72
-    priceusd: 350.00
+    priceusd: 
     currently_shipping: Discontinued
     comm_ports: Ethernet
     dev_friendly: samples
@@ -223,7 +223,7 @@
     ghash_s_usd: 0.055
     watts: 200
     powerefficiencywgh: 6.67
-    priceusd: 550.00
+    priceusd: 
     currently_shipping: Discontinued
     comm_ports: Ethernet
     dev_friendly: samples
@@ -240,7 +240,7 @@
     ghash_s_usd: 0.017
     watts: 2.55
     powerefficiencywgh: 7.59
-    priceusd: 20.00
+    priceusd: 
     currently_shipping: Discontinued
     comm_ports: USB
     dev_friendly: samples
@@ -257,7 +257,7 @@
     ghash_s_usd: 2.5
     watts: 900
     powerefficiencywgh: 1.13
-    priceusd: 320.00
+    priceusd: 
     currently_shipping: Discontinued
     comm_ports: Proprietary
     dev_friendly: samples
@@ -274,7 +274,7 @@
     ghash_s_usd: 2.333
     watts: 1100
     powerefficiencywgh: 0.79
-    priceusd: 600.00
+    priceusd: 
     currently_shipping: Discontinued
     comm_ports: Proprietary
     dev_friendly: No
@@ -291,7 +291,7 @@
     ghash_s_usd: 0.05234
     watts: 620
     powerefficiencywgh: 9.35
-    priceusd: 1299.00
+    priceusd: 
     currently_shipping: Discontinued
     comm_ports: Ethernet, Wifi
     dev_friendly: code
@@ -308,7 +308,7 @@
     ghash_s_usd: 0.0547
     watts: 700
     powerefficiencywgh: 8.54
-    priceusd: 1499.00
+    priceusd: 
     currently_shipping: Discontinued
     comm_ports: Ethernet, Wifi
     dev_friendly: code
@@ -325,7 +325,7 @@
     ghash_s_usd: 0.0547
     watts: 700
     powerefficiencywgh: 8.54
-    priceusd: 1499.00
+    priceusd: 
     currently_shipping: Discontinued
     comm_ports: Ethernet, Wifi
     dev_friendly: code
@@ -342,7 +342,7 @@
     ghash_s_usd: x
     watts: x
     powerefficiencywgh: x
-    priceusd: 3075.00
+    priceusd: 
     currently_shipping: Discontinued
     comm_ports: USB or Ethernet
     dev_friendly: code, docs, samples
@@ -377,7 +377,7 @@
     ghash_s_usd: x
     watts: x
     powerefficiencywgh: 0.29
-    priceusd: 499.95
+    priceusd: 
     currently_shipping: Yes
     comm_ports: USB or Ethernet
     dev_friendly: code, docs, samples
@@ -397,7 +397,7 @@
     ghash_s_usd: 0.024
     watts: 4.25
     powerefficiencywgh: 0.85
-    priceusd: 209.00
+    priceusd: 
     currently_shipping: Discontinued
     comm_ports: USB
     dev_friendly: docs, samples
@@ -414,7 +414,7 @@
     ghash_s_usd: 0.01824
     watts: 30
     powerefficiencywgh: 6.00
-    priceusd: 274.00
+    priceusd: 
     currently_shipping: Discontinued
     comm_ports: USB
     dev_friendly: docs, samples
@@ -431,7 +431,7 @@
     ghash_s_usd: 0.2
     watts: x
     powerefficiencywgh: x
-    priceusd: 50.00
+    priceusd: 
     currently_shipping: Yes
     comm_ports: USB
     dev_friendly: docs, samples
@@ -448,7 +448,7 @@
     ghash_s_usd: 0.02
     watts: 150
     powerefficiencywgh: 6.00
-    priceusd: 1249.00
+    priceusd: 
     currently_shipping: Discontinued
     comm_ports: USB
     dev_friendly: docs, samples
@@ -465,7 +465,7 @@
     ghash_s_usd: 0.04622
     watts: x
     powerefficiencywgh: x
-    priceusd: 649.00
+    priceusd: 
     currently_shipping: Discontinued
     comm_ports: USB
     dev_friendly: docs, samples
@@ -482,7 +482,7 @@
     ghash_s_usd: 0.05
     watts: 300
     powerefficiencywgh: 6.00
-    priceusd: 984.00
+    priceusd: 
     currently_shipping: Discontinued
     comm_ports: USB
     dev_friendly: docs, samples
@@ -499,7 +499,7 @@
     ghash_s_usd: 0.04618
     watts: 240
     powerefficiencywgh: 4.00
-    priceusd: 1299.00
+    priceusd: 
     currently_shipping: Discontinued
     comm_ports: USB
     dev_friendly: docs, samples
@@ -516,7 +516,7 @@
     ghash_s_usd: 0.5
     watts: x
     powerefficiencywgh: x
-    priceusd: 399 (used)
+    priceusd: 
     currently_shipping: Discontinued
     comm_ports: USB
     dev_friendly: docs
@@ -533,7 +533,7 @@
     ghash_s_usd: x
     watts: 2700
     powerefficiencywgh: 5.40
-    priceusd: 22484.00
+    priceusd: 
     currently_shipping: Discontinued
     comm_ports: Wifi
     dev_friendly: docs, samples
@@ -550,7 +550,7 @@
     ghash_s_usd: 0.508
     watts: 490
     powerefficiencywgh: 0.70
-    priceusd: 1379.00
+    priceusd: 
     currently_shipping: Yes
     comm_ports: PCIe, USB
     dev_friendly: docs, samples
@@ -584,7 +584,7 @@
     ghash_s_usd: 0.013
     watts: 650
     powerefficiencywgh: 7.65
-    priceusd: 6489.00
+    priceusd: 
     currently_shipping: Discontinued
     comm_ports: Ethernet, Wifi, USB
     dev_friendly: code
@@ -601,7 +601,7 @@
     ghash_s_usd: 0.27
     watts: 100
     powerefficiencywgh: 1.00
-    priceusd: 370.00
+    priceusd: 
     currently_shipping: Discontinued
     comm_ports: Ethernet
     dev_friendly: docs, samples
@@ -618,7 +618,7 @@
     ghash_s_usd: 0.333
     watts: 2000
     powerefficiencywgh: 1.00
-    priceusd: 6000.00
+    priceusd: 
     currently_shipping: Discontinued
     comm_ports: Ethernet
     dev_friendly: 
@@ -635,7 +635,7 @@
     ghash_s_usd: 0.0178
     watts: 2.5
     powerefficiencywgh: 1.00
-    priceusd: 140.00
+    priceusd: 
     currently_shipping: Discontinued
     comm_ports: USB
     dev_friendly: code, samples
@@ -652,7 +652,7 @@
     ghash_s_usd: 1.003
     watts: 324
     powerefficiencywgh: 1.05
-    priceusd: 309.00
+    priceusd: 
     currently_shipping: Discontinued
     comm_ports: RPi GPIO
     dev_friendly: No
@@ -669,7 +669,7 @@
     ghash_s_usd: 1.76
     watts: 648
     powerefficiencywgh: 1.05
-    priceusd: 350.00
+    priceusd: 
     currently_shipping: Discontinued
     comm_ports: RPi GPIO
     dev_friendly: No
@@ -686,7 +686,7 @@
     ghash_s_usd: 1.06667
     watts: 2100
     powerefficiencywgh: 1.31
-    priceusd: 1500.00
+    priceusd: 
     currently_shipping: Discontinued
     comm_ports: Ethernet
     dev_friendly: docs, code, samples
@@ -720,7 +720,7 @@
     ghash_s_usd: 0.029
     watts: 23
     powerefficiencywgh: 1.15
-    priceusd: 688.00
+    priceusd: 
     currently_shipping: Discontinued
     comm_ports: USB
     dev_friendly: docs, samples
@@ -754,7 +754,7 @@
     ghash_s_usd: x
     watts: 1000
     powerefficiencywgh: 0.91
-    priceusd: 599.00
+    priceusd: 
     currently_shipping: Discontinued
     comm_ports: USB
     dev_friendly: No
@@ -771,7 +771,7 @@
     ghash_s_usd: x
     watts: 3000
     powerefficiencywgh: 0.67
-    priceusd: 2299.00
+    priceusd: 
     currently_shipping: Discontinued
     comm_ports: USB
     dev_friendly: No
@@ -788,7 +788,7 @@
     ghash_s_usd: 0.071
     watts: 440
     powerefficiencywgh: 1.10
-    priceusd: 5600.00
+    priceusd: 
     currently_shipping: Discontinued
     comm_ports: Ethernet, USB
     dev_friendly: docs
@@ -805,7 +805,7 @@
     ghash_s_usd: 0.169
     watts: 1320
     powerefficiencywgh: 1.10
-    priceusd: 7080.00
+    priceusd: 
     currently_shipping: Discontinued
     comm_ports: USB
     dev_friendly: docs, samples
@@ -822,7 +822,7 @@
     ghash_s_usd: 0.294
     watts: 2200
     powerefficiencywgh: 1.10
-    priceusd: 6800.00
+    priceusd: 
     currently_shipping: Discontinued
     comm_ports: USB
     dev_friendly: docs
@@ -839,7 +839,7 @@
     ghash_s_usd: 0.26
     watts: 32
     powerefficiencywgh: 6.15
-    priceusd: 20.00
+    priceusd: 
     currently_shipping: Discontinued
     comm_ports: USB
     dev_friendly: samples
@@ -856,7 +856,7 @@
     ghash_s_usd: 0.05004
     watts: 250
     powerefficiencywgh: 2.50
-    priceusd: 1995.00
+    priceusd: 
     currently_shipping: Discontinued
     comm_ports: Ethernet
     dev_friendly: code, samples
@@ -873,7 +873,7 @@
     ghash_s_usd: 0.066
     watts: 300
     powerefficiencywgh: 1.20
-    priceusd: 2995.00
+    priceusd: 
     currently_shipping: Discontinued
     comm_ports: Ethernet
     dev_friendly: code, samples
@@ -890,7 +890,7 @@
     ghash_s_usd: 0.08
     watts: 600
     powerefficiencywgh: 1.20
-    priceusd: 4995.00
+    priceusd: 
     currently_shipping: Discontinued
     comm_ports: Ethernet
     dev_friendly: code, samples
@@ -907,7 +907,7 @@
     ghash_s_usd: 0.231
     watts: 2100
     powerefficiencywgh: 0.70
-    priceusd: 12995.00
+    priceusd: 
     currently_shipping: Discontinued
     comm_ports: Ethernet
     dev_friendly: code, samples
@@ -941,7 +941,7 @@
     ghash_s_usd: 0.056
     watts: 170
     powerefficiencywgh: 1.42
-    priceusd: 2160.00
+    priceusd: 
     currently_shipping: No
     comm_ports: 
     dev_friendly: code, samples
@@ -975,7 +975,7 @@
     ghash_s_usd: 0.074
     watts: 5
     powerefficiencywgh: 1.35
-    priceusd: 50.00
+    priceusd: 
     currently_shipping: Discontinued
     comm_ports: USB
     dev_friendly: code, docs, samples
@@ -992,7 +992,7 @@
     ghash_s_usd: 0.004
     watts: 2.5
     powerefficiencywgh: 0.96
-    priceusd: 44.99
+    priceusd: 
     currently_shipping: Discontinued
     comm_ports: USB
     dev_friendly: code, samples
@@ -1012,7 +1012,7 @@
     ghash_s_usd: 2.25
     watts: 450
     powerefficiencywgh: 1.00
-    priceusd: 200.00
+    priceusd: 
     currently_shipping: Discontinued
     comm_ports: USB
     dev_friendly: code, samples
@@ -1029,7 +1029,7 @@
     ghash_s_usd: 2.238
     watts: 470
     powerefficiencywgh: 1.00
-    priceusd: 210.00
+    priceusd: 
     currently_shipping: Discontinued
     comm_ports: USB
     dev_friendly: code, samples
@@ -1046,7 +1046,7 @@
     ghash_s_usd: 0.75
     watts: 480
     powerefficiencywgh: 1.07
-    priceusd: 599.00
+    priceusd: 
     currently_shipping: Discontinued
     comm_ports: RPi GPIO
     dev_friendly: 
@@ -1063,7 +1063,7 @@
     ghash_s_usd: 0.5
     watts: 45
     powerefficiencywgh: 1.41
-    priceusd: 65.00
+    priceusd: 
     currently_shipping: Discontinued
     comm_ports: USB
     dev_friendly: code, samples
@@ -1080,7 +1080,7 @@
     ghash_s_usd: 1.25
     watts: 120
     powerefficiencywgh: 1.09
-    priceusd: 88.00
+    priceusd: 
     currently_shipping: Discontinued
     comm_ports: USB
     dev_friendly: code, samples
@@ -1097,7 +1097,7 @@
     ghash_s_usd: 2.462
     watts: 1000
     powerefficiencywgh: 1.25
-    priceusd: 325.00
+    priceusd: 
     currently_shipping: Discontinued
     comm_ports: USB
     dev_friendly: code, samples
@@ -1114,7 +1114,7 @@
     ghash_s_usd: 0.492
     watts: 1250
     powerefficiencywgh: 0.89
-    priceusd: 2845.00
+    priceusd: 
     currently_shipping: Discontinued
     comm_ports: Ethernet
     dev_friendly: code, samples
@@ -1132,7 +1132,7 @@
     ghash_s_usd: 1.299
     watts: 1100
     powerefficiencywgh: 0.65
-    priceusd: 248.99
+    priceusd: 
     currently_shipping: Discontinued
     comm_ports: Ethernet
     dev_friendly: code, samples
@@ -1152,7 +1152,7 @@
     ghash_s_usd: 1.068
     watts: 3000
     powerefficiencywgh: 0.67
-    priceusd: 4121.00
+    priceusd: 
     currently_shipping: Discontinued
     comm_ports: Ethernet
     dev_friendly: code, samples
@@ -1169,7 +1169,7 @@
     ghash_s_usd: 2.361
     watts: 3000
     powerefficiencywgh: 0.61
-    priceusd: 2075.00
+    priceusd: 
     currently_shipping: Discontinued
     comm_ports: Ethernet
     dev_friendly: code
@@ -1186,7 +1186,7 @@
     ghash_s_usd: 2.46
     watts: 3650
     powerefficiencywgh: 0.66
-    priceusd: 2235.00
+    priceusd: 
     currently_shipping: Discontinued
     comm_ports: Ethernet
     dev_friendly: code
@@ -1203,7 +1203,7 @@
     ghash_s_usd: 0.018
     watts: 32
     powerefficiencywgh: 7.11
-    priceusd: 250.00
+    priceusd: 
     currently_shipping: No
     comm_ports: USB
     dev_friendly: samples
@@ -1220,7 +1220,7 @@
     ghash_s_usd: 0.02
     watts: 127
     powerefficiencywgh: 7.06
-    priceusd: 900.00
+    priceusd: 
     currently_shipping: No
     comm_ports: USB
     dev_friendly: samples
@@ -1237,7 +1237,7 @@
     ghash_s_usd: 0.015
     watts: 640
     powerefficiencywgh: 7.11
-    priceusd: 6000.00
+    priceusd: 
     currently_shipping: No
     comm_ports: USB
     dev_friendly: 
@@ -1254,7 +1254,7 @@
     ghash_s_usd: 0.01714
     watts: 1,280
     powerefficiencywgh: 7.11
-    priceusd: 10500.00
+    priceusd: 
     currently_shipping: No
     comm_ports: USB
     dev_friendly: 
@@ -1271,7 +1271,7 @@
     ghash_s_usd: 0.02
     watts: 3.83
     powerefficiencywgh: 0.85
-    priceusd: 216.00
+    priceusd: 
     currently_shipping: Discontinued
     comm_ports: USB
     dev_friendly: code, samples
@@ -1289,7 +1289,7 @@
     ghash_s_usd: 0.02
     watts: 3.83
     powerefficiencywgh: 0.85
-    priceusd: 55.0
+    priceusd: 
     currently_shipping: Yes
     comm_ports: USB
     dev_friendly: code, samples
@@ -1310,7 +1310,7 @@
     ghash_s_usd: 0.02
     watts: 3.83
     powerefficiencywgh: 0.33
-    priceusd: 49.97
+    priceusd: 
     currently_shipping: Yes
     comm_ports: USB
     dev_friendly: code, samples
