@@ -12,7 +12,7 @@ layout: post
 <p>Bitcoin mining involves updation of the ledger of Bitcoin transactions, called the blockchain. A user requires extremely powerful computers to perform mining. As a part of the process, miners race against each other in order to guess a particular number.
 <p>Earlier, there were <a href="https://www.online-casino-nz.co.nz/news/google-bans-cryptocurrency-adverts/">several cryptocurrency adverts on Google</a>, however, the same have now been banned making it difficult for miners to understand what they need to do when.
 <p>The first miner to make a successful guess about the number ends up updating the ledger of transactions and is rewarded newly minted Bitcoins. 
-<p><iframe width="560" height="315" src="https://www.youtube.com/embed/SSo_EIwHSd4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<p><center><iframe width="560" height="315" src="https://www.youtube.com/embed/SSo_EIwHSd4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 <p>Currently, if you want to earn profits with Bitcoin mining, there are certain strategies that you need to deploy. In April 2018, <a href="https://www.bloomberg.com/news/articles/2018-04-18/bitcoin-miners-facing-a-shakeout-as-profitability-becomes-harder">several bitcoin miners were at the risk</a> of facing a shakeout and chances of profitability were low.
 <p>It is suggested that you put your money on equipment, storage, and cooling. You cannot profitably mine with a PC and GPU at home. Profitability can be calculated with the help of a Bitcoin mining calculator. 
 <p><h2>What is the need for Bitcoin mining?</h2>
