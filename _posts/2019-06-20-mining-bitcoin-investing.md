@@ -12,7 +12,6 @@ published: true
 <p>You may not have any experience investing in any market, but these days you no longer need it to get off to a strong start. This <a href="https://investorjunkie.com/">investing blog</a> has all the information a beginner investor needs to get going, as well as plenty of more advanced articles. Everything can be learned online now.
 <p>Furthermore, you don’t need all that much time to invest, either. These days, artificial intelligence is at the core of the most useful investment tools.
 <p>These are the sort of tools that can turn anyone into an investor.
-<p><center><iframe width="560" height="315" src="https://www.youtube.com/embed/8ZhjLUxvhnA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 <p><h2>Robo Advisors</h2>
 <p>Over the past few years, tons of robo advisors have popped up online. These are exactly what they sound like – and more. A robo advisor is constructed from algorithms that parse all the information available to come up with the trades and investments most likely to pay dividends.
 <p>Now, trades and investments today might not act like they did yesterday, and that might discourage you from trusting a robo advisor. However, they don’t only use the information available and the algorithms preprogrammed. They use <a href="https://www.expertsystem.com/machine-learning-definition/">advanced machine learning</a> to adapt way quicker than a human ever could.
