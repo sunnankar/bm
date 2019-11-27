@@ -7,7 +7,7 @@ authorurl: /
 published: true
 ---
 
-<p><img src="/images/bitcoin-sports.png" width="600" height="249"/>
+<p><center><img src="/images/bitcoin-sports.png" width="600" height="249"/></center>
 <p>Cryptocurrencies have impacted almost every single industry and sector throughout the world.
 <p>Right from their humble beginnings, serving as an effective alternative for cash payments, the power of these currencies, especially bitcoin, has propelled their reach to several business models today.
 <p>Bitcoin is already being used as an effective payment method at many online casinos and sports betting portals, including many of the <a href="https://www.vegasbetting.com/">well-known Vegas sports betting services</a>, and offers a different yet popular means for consumers to engage with online bookmakers these days.
@@ -23,7 +23,7 @@ published: true
 <p><h2>Attractive Bonuses</h2>
 <p>Bonuses are amongst the top reasons why people choose to bet with online bookmakers nowadays. By opting for such online services you get a much better worth for every dollar that you bet with.
 <p>These bonuses can be of different types, for instance, deposit match bonuses, referral bonuses, signup bonuses etc. It’s always better to go with sports books that offer specific bonuses for bitcoin deposits.
-<p><img src="/images/bitcoin-canadian-euros.png" width="600" height="249"/>
+<p><center><img src="/images/bitcoin-canadian-euros.png" width="600" height="249"/></center>
 <p><h2>Higher Betting Limits</h2>
 <p>Majority of online sports books provide a considerably higher betting limit to punters that choose to transact with bitcoin. Seasoned bettors wanting to avail such higher limits, in order to scale up their bets can benefit tremendously by switching to bitcoin.
 <p><h2>Protection From Fluctuations In Currency Values</h2>
