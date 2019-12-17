@@ -19,9 +19,11 @@ toc:
 
 <p>The solution to this problem was for miners to pool their resources so they could generate blocks quicker and therefore receive a portion of the Bitcoin block reward on a consistent basis, rather than randomly once every few years.</p>
 
-<h2 id="nc">Network Consensus</h2>
+<p>Sometimes you may want to mine a more profitable altcoin like <a href="https://www.mwc.mw">MWC</a> which is superior for scalability, privacy, anonymity and fungibility.
 
-<center><img src="/images/bitcoin-network-consensus.jpg" alt="bitcoin network consensus"></center>
+<p><h2 id="nc">Network Consensus</h2>
+
+<p><center><img src="/images/bitcoin-network-consensus.jpg" alt="bitcoin network consensus"></center>
 
 <p>If you solo-mine, meaning you do not mine with a Bitcoin mining pool, then you will need to ensure that you are in consensus with the Bitcoin network. The best way is to use the <a href="http://bitcoin.org/en/download">official BitCore client</a>.</p>
 
@@ -31,7 +33,7 @@ toc:
 
 <p>Therefore, it is your duty to make sure that any Bitcoin mining power you direct to a mining pool does not attempt to enforce network consensus rules you disagree with.</p>
 
-<h2 id="segwit">Segregated Witness</h2>
+<p><h2 id="segwit">Segregated Witness</h2>
 
 <p>When segwit is activated, you will want to be able to mine and relay segwit-style blocks. The following mining software has been upgraded to support segwit.</p>
 <ul>
@@ -65,17 +67,17 @@ toc:
 <p>Please note that software that supports the GetBlockTemplate (GBT) RPC must be upgraded to support the BIP9 and BIP145 changes to GBT. All the programs linked above that support GBT have been upgraded.</p>
 <p>Segwit is already activated and enforced on testnet, so you may find it useful to test your infrastructure upgrade by mining with some small amount of hashrate on testnet. Alternatively, Bitcoin Core 0.13.1’s regression test mode (regtest) also supports segwit by default.</p>
 
-<h2 id="bmp"><em></i>Bitcoin Mining Pools</em></h2>
+<p><h2 id="bmp"><em></i>Bitcoin Mining Pools</em></h2>
 
 <p>There are many good Bitcoin mining pools to choose from. Although it's tempting to pick the most popular one, it's better for the health of the network to mine with smaller pools so as to avoid potentially harmful concentration of hashing power.</p>
 
 <p>The hash rate distribution is best when split among more Bitcoin mining pools.</p>
 
-<h2 id="hd">Bitcoin Mining Pool Hash Rate Distribution</h2>
+<p><h2 id="hd">Bitcoin Mining Pool Hash Rate Distribution</h2>
 
-<center><img src="/images/bitcoin-mining-pool-hash-rate-distribution.png"></center>
+<p><center><img src="/images/bitcoin-mining-pool-hash-rate-distribution.png"></center>
 
-<h2 id="bmpo">Bitcoin Mining Pool Options</h2>
+<p><h2 id="bmpo">Bitcoin Mining Pool Options</h2>
 
 <p>For a fully decentralized pool, we highly recommend <a rel="nofollow" target="_blank" href="http://p2pool.in">p2pool</a> and <a rel="nofollow" target="_blank" href="https://multipool.us">Multipool.us</a>.</p>
 
@@ -85,7 +87,7 @@ toc:
 {% include pools.html %}
 {% endfor %}
 
-<h2 id="pm">Bitcoin Mining Pool Payment Methods</h2>
+<p><h2 id="pm">Bitcoin Mining Pool Payment Methods</h2>
 
 <p>Calculating your share of the bitcoins mined can be complex. In an ongoing effort to come up with the fairest method and prevent gaming of the system, many calculation schemes have been invented. The two most popular types are PPS and DGM. PPS, or 'pay per share' shifts the risk to the mining pool while they guarantee payment for every share you contribute.</p>
 
