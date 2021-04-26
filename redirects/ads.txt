@@ -1,0 +1,1 @@
+--- permalink: /ads.txt redirect: https://cdn4.buysellads.net/ads.txt layout: redirect sitemap: false ---
