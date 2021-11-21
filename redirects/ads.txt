@@ -1,6 +1,6 @@
 ---
 permalink: /ads.txt
-redirect: https://cdn4.buysellads.net/ads.txt
+redirect: https://cdn4.buysellads.net/pub/bitcoinmining.ads.txt
 layout: redirect
 sitemap: false
 ---
