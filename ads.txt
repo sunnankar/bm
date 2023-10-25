@@ -45,9 +45,10 @@ pubmatic.com, 159855, DIRECT, 5d62403b186f2ace
 pubmatic.com, 161102, RESELLER, 5d62403b186f2ace
 pubmatic.com, 161103, RESELLER, 5d62403b186f2ace
 pubmatic.com, 161104, RESELLER, 5d62403b186f2ace
-#IE
+#IX
 indexexchange.com, 192533, DIRECT
 indexexchange.com, 204998, RESELLER, 50b1c356f2c5c8fc
+indexexchange.com, 207221, RESELLER, 50b1c356f2c5c8fc
 #TripleLift
 triplelift.com, 7376, DIRECT, 6c33edb13117fd86
 triplelift.com, 7186, DIRECT, 6c33edb13117fd86
@@ -100,6 +101,8 @@ google.com, pub-8400268452481648, DIRECT, f08c47fec0942fa0 #7898
 google.com, pub-5309873657092359, DIRECT, f08c47fec0942fa0 #7898
 google.com, pub-4618644450685964, DIRECT, f08c47fec0942fa0 #117
 google.com, pub-2707866139552340, DIRECT, f08c47fec0942fa0 #17073
+google.com, pub-9235421278444782, DIRECT, f08c47fec0942fa0 #10790
+google.com, pub-3614102936116345, DIRECT, f08c47fec0942fa0 #17466
 #nobid
 nobid.io, 21851990727, DIRECT
 sonobi.com, 7ad1b9f952, RESELLER, d1a215d9eb5aee9e
@@ -196,6 +199,8 @@ rubiconproject.com, 16414, RESELLER, 0bfd66d529a55807
 lijit.com, 367236, RESELLER, fafdf38b16bf6b2b
 openx.com, 558899373, RESELLER, 6a698e2ec38604c6
 triplelift.com, 13482, RESELLER, 6c33edb13117fd86
+video.unrulymedia.com, 5672421953199218469, RESELLER
+smartadserver.com, 3554, RESELLER
 #Adyoulike
 adyoulike.com, c88421dae358597b6441f855c46bf1f7, DIRECT
 appnexus.com, 7664, RESELLER
@@ -233,7 +238,7 @@ pubmatic.com, 161593, RESELLER, 5d62403b186f2ace
 rubiconproject.com, 11006, RESELLER, 0bfd66d529a55807
 #media.net
 Media.net, 8CU18831I, DIRECT
-Media.net, 8CUMDNT02, DIRECT 
+Media.net, 8CUMDNT02, DIRECT
 Media.net, 8CU352B6K, DIRECT
 Media.net, 8CUR8G327, DIRECT
 Media.net, 8CUW70514, DIRECT
@@ -298,7 +303,7 @@ imds.tv, 82423, RESELLER, ae6c32151e71f19d # Premium video demand from Outbrain
 #brightcom
 brightcom.com, 20360, DIRECT
 onetag.com, 75753f1ebcc343c, RESELLER
-rubiconproject.com, 20416, RESELLER, 0bfd66d529a55807 
+rubiconproject.com, 20416, RESELLER, 0bfd66d529a55807
 onomagic.com, 203601, DIRECT
 sovrn.com, 374814, RESELLER, fafdf38b16bf6b2b
 lijit.com, 374814, RESELLER, fafdf38b16bf6b2b
@@ -322,6 +327,9 @@ limpid.tv, 920360, DIRECT
 loopme.com, 11228, RESELLER, 6c8d5f95897a5a3b
 advibe.media, 820360, DIRECT
 contextweb.com, 562863, DIRECT, 89ff185a4c4e857c
+onlinemediasolutions.com, 20360, DIRECT
+sharethrough.com, r4ScMSsf, RESELLER
+yieldmo.com, 2757543169808605705, RESELLER
 #rise
 risecodes.com, 64d8986b534fd000016358c2, DIRECT
 pubmatic.com, 160295, RESELLER, 5d62403b186f2ace
@@ -351,6 +359,39 @@ sharethrough.com, u1kbZBDK, RESELLER, d53b998a7bd4ecd2
 smaato.com, 1100047713, RESELLER, 07bcf65f187117b4
 smartadserver.com, 4342, RESELLER
 improvedigital.com, 2309, RESELLER
+#sonobi
+sonobi.com, a58f2d5747, DIRECT, d1a215d9eb5aee9e
+#Hypelab
+hypelab.com, 96d27a99d9, DIRECT #117
+hypelab.com, dca870e4ac, DIRECT #17319
+hypelab.com, d731923d7a, DIRECT #131
+hypelab.com, b9e834e6b7, DIRECT #5931
+hypelab.com, 89955f5312, DIRECT #6435
+hypelab.com, 69b9744327, DIRECT #6672
+hypelab.com, 87a1ab2cfd, DIRECT #6523
+hypelab.com, bf3e06b60c, DIRECT #10384
+hypelab.com, f1b750013d, DIRECT #10068
+hypelab.com, 3ec5e0de7e, DIRECT #1909
+hypelab.com, 66ad567672, DIRECT #1944
+hypelab.com, e2dcfd8d1b, DIRECT #3182
+hypelab.com, 94aa6d8be4, DIRECT #4680
+hypelab.com, 9ad72975fb, DIRECT #6414
+hypelab.com, 0ce672afb5, DIRECT #6588
+hypelab.com, 0d3059e769, DIRECT #6601
+hypelab.com, 127b15342c, DIRECT #9285
+hypelab.com, 79d3b33a54, DIRECT #10466
+hypelab.com, d346e99195, DIRECT #10913
+hypelab.com, 1dc60f8fb2, DIRECT #10770
+#E-Planning
+e-planning.net,97f81509294f1025,DIRECT,c1ba615865ed87b2
+pubmatic.com,156631,RESELLER,5d62403b186f2ace
+openx.com,541031350,RESELLER,6a698e2ec38604c6
+rubiconproject.com,12186,RESELLER,0bfd66d529a55807
+pubmatic.com,156631,RESELLER,5d62403b186f2ace
+sonobi.com,8efb591506,RESELLER,d1a215d9eb5aee9e
+sharethrough.com,23830661,RESELLER,d53b998a7bd4ecd2
+triplelift.com,8446,RESELLER,6c33edb13117fd86
+appnexus.com, 3153, RESELLER, f5ab79cb980f11d1
 #BuySellAds Inc
 buysellads.com, 12460, DIRECT
 MANAGERDOMAIN=buysellads.com
